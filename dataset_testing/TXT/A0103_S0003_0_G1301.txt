@@ -1,0 +1,284 @@
+[1.600,2.960]	G1301	male	halo Ndra
+[5.980,7.610]	G1301	male	lagi di mana kamu
+[11.890,13.550]	G1301	male	di rumah mulu
+[13.869,14.630]	G1301	male	nok
+[17.920,19.370]	G1301	male	nonton film yuk
+[23.469,25.879]	G1301	male	ke Grand Mall aja
+[33.130,35.270]	G1301	male	kamu suka nonton film apa sih
+[42.009,44.090]	G1301	male	aku enggak suka horor
+[48.970,51.830]	G1301	male	yang romantis
+[52.150,53.479]	G1301	male	komedi
+[59.560,61.880]	G1301	male	apa iya aku lupa namanya
+[68.080,70.400]	G1301	male	saya makannya nonton
+[75.309,77.089]	G1301	male	biasanya sih
+[77.680,79.220]	G1301	male	di Grand Mall
+[79.900,81.440]	G1301	male	Solo Paragon
+[84.970,87.349]	G1301	male	sama teman temanku
+[89.529,91.610]	G1301	male	sama keluarga juga pernah
+[97.089,100.250]	G1301	male	dulu aku pernah nonton film
+[100.989,105.080]	G1301	male	Yo Wis Ben satu sama Yo Wis Ben dua
+[106.239,107.540]	G1301	male	terus
+[109.029,111.230]	G1301	male	London Love Story
+[112.750,114.470]	G1301	male	terus yang lainnya lupa
+[123.430,125.000]	G1301	male	dulu aku
+[125.050,128.899]	G1301	male	juga suka sih nonton horor tapi sekarang takut
+[130.270,131.089]	G1301	male	dulu
+[131.589,134.149]	G1301	male	iya enggak papa takut aja
+[134.500,137.720]	G1301	male	tapi dulu aku pernah nonton apa iya
+[139.539,141.380]	G1301	male	lupa
+[145.960,147.199]	G1301	male	udah pernah aku
+[148.449,149.630]	G1301	male	ngeri banget
+[154.509,156.350]	G1301	male	sama siapa
+[159.100,160.250]	G1301	male	O
+[165.460,166.729]	G1301	male	kalau sekarang
+[167.470,168.649]	G1301	male	udah enggak pernah
+[173.710,177.289]	G1301	male	kamu suka nonton Netflix Netflix enggak sih
+[179.589,180.619]	G1301	male	kalau
+[181.449,182.869]	G1301	male	iya suka sih
+[183.130,186.889]	G1301	male	kalau ketinggalan film bioskop
+[199.210,200.360]	G1301	male	apa iya
+[204.940,206.750]	G1301	male	aku dulu pernah nonton
+[206.889,209.089]	G1301	male	Koki Koki Cilik itu loh
+[210.160,211.369]	G1301	male	lupa aku
+[215.949,218.660]	G1301	male	kalau ke McD itu lucu gitu
+[224.710,226.729]	G1301	male	iya sampai
+[227.050,228.139]	G1301	male	apa tuh
+[228.309,229.339]	G1301	male	he em
+[235.839,237.649]	G1301	male	seru banget
+[238.149,239.630]	G1301	male	apa lagi
+[242.889,245.539]	G1301	male	apa lagi nontonnya sama teman gitu
+[245.679,246.679]	G1301	male	yang
+[246.910,249.320]	G1301	male	receh receh gitu temannya
+[257.079,258.048]	G1301	male	hem
+[260.738,264.980]	G1301	male	kalau kamu film terakhir yang kamu tonton itu apa
+[270.880,272.119]	G1301	male	yang mana
+[275.589,276.529]	G1301	male	O
+[279.489,280.820]	G1301	male	enggak tau sih
+[287.170,288.679]	G1301	male	enggak berani
+[292.149,293.119]	G1301	male	takut
+[294.790,296.510]	G1301	male	iya takut aja
+[297.309,299.149]	G1301	male	nanti pas pulang malah
+[302.320,304.040]	G1301	male	pas pulang nanti
+[304.059,305.929]	G1301	male	malah diikutin
+[306.698,307.638]	G1301	female	takut
+[307.808,308.989]	G1301	female	enggak mau
+[313.508,315.589]	G1301	female	suka suka banget
+[318.369,320.058]	G1301	female	iya gitu
+[321.068,324.169]	G1301	female	bikin bikin baper gitu
+[327.368,328.790]	G1301	female	terus
+[329.439,330.470]	G1301	female	apa iya
+[331.808,333.198]	G1301	female	romantis lah
+[336.909,339.290]	G1301	female	bisa ngehalu gitu
+[339.578,341.479]	G1301	female	kalau enggak punya pacar kan
+[341.589,342.769]	G1301	female	liat itu
+[343.388,345.708]	G1301	female	tapi juga ada sedihnya sih
+[352.629,357.708]	G1301	female	sama temen pernah pacar juga pernah tapi udah mantan
+[361.749,362.990]	G1301	female	iya kan
+[364.629,365.778]	G1301	female	enggak papa
+[371.948,373.009]	G1301	female	ayok
+[377.198,381.499]	G1301	female	yang komedi atau romantis aja jangan horror
+[383.050,384.768]	G1301	female	nah gitu dong
+[385.180,387.259]	G1301	female	kamu suka nonton T V engga sih
+[389.079,389.899]	G1301	female	he em
+[392.649,394.220]	G1301	female	nonton berita
+[398.410,399.829]	G1301	female	iya udah sama
+[402.579,403.309]	0	none	[LAUGHTER]
+[403.778,405.559]	G1301	female	kan cuma tanya
+[409.208,410.120]	G1301	female	kamu
+[411.939,413.599]	G1301	female	iya sih aku juga
+[418.059,419.628]	G1301	female	he em itu bagus loh
+[426.698,429.620]	G1301	female	kalau aku nontonnya di youtube
+[436.930,437.959]	G1301	female	iya
+[438.638,442.849]	G1301	female	karena kalau sehari enggak main H P tuh
+[442.870,444.409]	G1301	female	rasanya engga enak
+[451.087,452.420]	G1301	female	iya itu
+[453.099,454.099]	G1301	female	apa
+[456.219,457.250]	G1301	female	iya
+[464.709,465.560]	G1301	female	Radit
+[465.608,469.219]	G1301	female	E Radit Raditya Dika tau
+[469.420,470.568]	G1301	female	nah itu
+[471.518,475.069]	G1301	female	itu juga pernah Yuk- Yuki Kato
+[484.087,485.209]	G1301	female	siapa iya
+[487.087,488.000]	G1301	female	iyok
+[489.370,491.508]	G1301	female	pokoknya yang lucu aja sih
+[491.859,493.609]	G1301	female	suka semuanya sih
+[501.819,503.569]	G1301	female	London Love Story
+[507.519,509.599]	G1301	female	iya itu film romantis gitu
+[517.508,521.388]	G1301	female	kamu suka film luar negeri enggak sih
+[522.398,523.879]	G1301	female	Korea gitu
+[528.099,529.008]	G1301	female	em
+[536.379,537.379]	G1301	female	em
+[544.898,546.888]	G1301	female	iya gitu aku lupa
+[551.829,556.398]	G1301	female	kamu dulu kan suka nonton T V waktu kecil iya enggak
+[558.398,560.000]	G1301	female	favorit kamu
+[560.019,561.528]	G1301	female	nonton T V apa
+[566.889,567.829]	G1301	female	iya
+[580.148,581.209]	G1301	female	oh
+[581.620,583.130]	G1301	female	film kartun
+[585.308,586.940]	G1301	female	yang tokek itu
+[587.528,588.648]	G1301	female	iya enggak sih
+[589.449,591.139]	G1301	female	yang ada
+[591.909,593.148]	G1301	female	apa itu
+[593.590,595.428]	G1301	female	tupainya iya engga sih
+[598.389,601.759]	G1301	female	yang tig- tiga orang itu
+[603.548,605.148]	G1301	female	musuhnya Oscar
+[611.319,613.370]	G1301	female	em aku sih banyak
+[613.539,614.720]	G1301	female	apa iya
+[616.419,617.898]	G1301	female	Shaun the Sheep
+[617.950,619.580]	G1301	female	itu juga bagus
+[619.809,620.929]	G1301	female	kamu suka
+[625.358,626.989]	G1301	female	tapi sekarang nggak
+[629.858,630.889]	G1301	female	iya
+[633.158,634.518]	G1301	female	terus yang
+[635.229,636.498]	G1301	female	Dora
+[638.858,640.668]	G1301	female	katakan peta itu lo
+[647.498,649.489]	G1301	female	em terus
+[649.928,653.028]	G1301	female	rud yang Rudi itu tau
+[654.879,660.319]	G1301	female	yang Rudi yang kapur terus kalau digambar lingkaran nanti
+[663.339,664.940]	G1301	female	yang itu lo masak nggak tau
+[668.289,670.039]	G1301	female	nggak pernah lihat paling
+[674.830,677.089]	G1301	female	Doraemon aku suka banget
+[684.488,685.488]	G1301	female	iya
+[686.950,688.608]	G1301	female	filmnya bagus loh itu
+[688.869,690.200]	G1301	female	kantong ajaib
+[694.388,695.358]	G1301	female	iya
+[702.700,704.720]	G1301	female	iya gitu apa ya
+[716.950,722.058]	G1301	female	kalau kartunnya bagus suka kalau nggak bagus nggak suka
+[729.970,731.330]	G1301	female	Indonesia
+[736.119,737.149]	G1301	female	emm
+[737.168,738.858]	G1301	female	males bacanya
+[740.168,741.649]	G1301	female	artiannya itu lo
+[745.919,748.228]	G1301	female	enggak kata siapa
+[755.320,756.350]	G1301	female	apa ya
+[757.119,758.779]	G1301	female	nggak tau lupa
+[764.048,765.529]	G1301	female	nggak ada kayaknya
+[769.479,771.259]	G1301	female	tokoh favorit kamu
+[771.759,773.748]	G1301	female	apa yang di film
+[776.498,778.158]	G1301	female	film apa aja deh
+[792.249,795.229]	G1301	female	aku semua juga suka tapi
+[795.309,797.419]	G1301	female	kalau horor nggak suka
+[803.350,804.499]	G1301	female	aku nggak
+[810.970,811.999]	G1301	female	siapa
+[816.009,817.009]	G1301	female	kamu
+[819.070,821.720]	G1301	female	kamu apa nggak takut nonton horor
+[826.330,829.609]	G1301	female	nanti di rumah ada ih ih lo
+[833.109,834.649]	G1301	female	kakak kunti
+[840.100,841.190]	G1301	female	pocong
+[845.018,847.309]	G1301	female	hmm apa nggak takut kamu
+[849.820,852.499]	G1301	female	aku aja di rumahku kalau denger
+[852.669,855.408]	G1301	female	suara barang jatuh aja takut
+[859.419,860.960]	G1301	female	iya aku
+[862.809,864.350]	G1301	female	kalau kamu mah
+[865.029,866.330]	G1301	female	nggak takut
+[881.470,883.278]	G1301	female	komedi aja
+[888.970,890.299]	G1301	female	emm
+[891.100,892.070]	G1301	female	apa ya
+[895.989,898.249]	G1301	female	iya yang seru
+[899.739,900.648]	G1301	female	apa ya
+[907.778,910.009]	G1301	female	yang kapten oleng itu
+[910.839,912.289]	G1301	female	eh kapal oleng
+[916.329,919.308]	G1301	female	iya itu pokoknya lupa aku namanya
+[920.470,922.100]	G1301	female	itu seru kayaknya
+[929.409,930.169]	G1301	female	yeit
+[931.058,932.118]	G1301	female	apa ya
+[934.028,935.869]	G1301	female	lawakanannya gitu lo
+[942.159,944.720]	G1301	female	apa anu aja
+[952.868,954.350]	G1301	female	iya itu aku luk
+[954.639,955.998]	G1301	female	sukanya
+[959.108,960.018]	G1301	female	apa ya
+[964.570,966.799]	G1301	female	koki cilik itu lucu lo
+[969.219,970.398]	G1301	female	koki cilik
+[973.600,975.199]	G1301	female	anak kecil lup
+[979.449,981.108]	G1301	female	nggak tau namanya
+[986.228,988.158]	G1301	female	he em nggak tau namanya
+[992.798,995.029]	G1301	female	itu kan ceritanya
+[997.029,999.289]	G1301	female	ngadain lomba gitu
+[1000.899,1002.048]	G1301	female	terus
+[1004.139,1005.710]	G1301	female	itu ada
+[1005.758,1007.179]	G1301	female	dua orang kayaknya
+[1009.029,1011.139]	G1301	female	cewek cowok gitu kayaknya
+[1012.539,1014.499]	G1301	female	itu dia
+[1014.850,1018.070]	G1301	female	yang satu nggak suka sama yang satunya lagi gitu
+[1020.339,1021.639]	G1301	female	jadi
+[1023.609,1025.900]	G1301	female	iya musuhan gitu
+[1026.640,1030.818]	G1301	female	terus bikin dapurnya rusak
+[1036.837,1038.439]	G1301	female	iya bikin ketawa
+[1043.169,1045.640]	G1301	female	bagian kalau
+[1046.018,1047.108]	G1301	female	apa tu
+[1048.029,1051.638]	G1301	female	kalau ngerjain itu kena batunya sendiri
+[1052.439,1053.739]	G1301	female	ngerjain orang
+[1055.650,1056.730]	G1301	female	iya
+[1067.079,1069.279]	G1301	female	yang season dua aja
+[1069.779,1070.868]	G1301	female	ada kok
+[1073.618,1074.650]	G1301	female	ada
+[1079.139,1080.558]	G1301	female	tapi aku
+[1080.730,1082.598]	G1301	female	maunya yang
+[1083.128,1084.700]	G1301	female	romantis itu
+[1090.299,1091.450]	G1301	female	apa ya
+[1092.730,1095.379]	G1301	female	banyak si nanti tinggal pilih
+[1101.939,1103.779]	G1301	female	aku pengennya
+[1108.480,1109.508]	G1301	female	itu lo
+[1110.308,1111.788]	G1301	female	aku lupa
+[1117.480,1118.838]	G1301	female	iya lupa
+[1122.609,1123.609]	G1301	female	boleh
+[1125.068,1126.460]	G1301	female	Dilan
+[1130.348,1132.400]	G1301	female	ada kalau nggak
+[1132.930,1135.818]	G1301	female	yang Dear Nathan itu
+[1138.900,1140.288]	G1301	female	Dear Nathan
+[1140.338,1142.088]	G1301	female	kamu belum pernahkan
+[1142.288,1143.348]	G1301	female	lihat itu
+[1145.650,1149.318]	G1301	female	tapi itu udah ditayangin di bioskop
+[1151.079,1152.439]	G1301	female	nanti
+[1153.180,1156.249]	G1301	female	liatnya di net- Netflix aja
+[1160.799,1163.719]	G1301	female	ya seru nanti nontonnya di laptop
+[1165.118,1167.318]	G1301	female	nanti nonton di rumahmu
+[1173.338,1176.739]	G1301	female	kalau bioskop nunggu Dear Nathan kedua
+[1181.619,1183.098]	G1301	female	iya boleh sih
+[1186.299,1187.179]	G1301	female	iya
+[1190.920,1192.490]	G1301	female	iya kamu aja
+[1198.179,1200.079]	G1301	female	menurut kamu
+[1200.640,1204.579]	G1301	female	perkembangan film di Indonesia itu kayak gimana
+[1211.499,1212.679]	G1301	female	lumayan ya
+[1217.439,1218.679]	G1301	female	ya nanti
+[1219.480,1221.799]	G1301	female	nggak jadi di bioskop aja
+[1221.969,1223.959]	G1301	female	nanti nonton netflix
+[1225.089,1226.689]	G1301	female	di laptop
+[1228.119,1231.758]	G1301	female	karena aku suka Dear Nathan yang ke satu itu
+[1237.538,1238.900]	G1301	female	udah enggak tayang
+[1244.468,1245.738]	G1301	female	kamu
+[1247.738,1248.859]	G1301	female	suka
+[1249.088,1251.588]	G1301	female	nonton film atau nonton T V sih
+[1258.599,1261.728]	G1301	female	sebera- seberapa penting film
+[1263.459,1264.910]	G1301	female	dalam hidup kamu
+[1270.629,1271.748]	G1301	female	hiburan
+[1273.718,1274.837]	G1301	female	sama
+[1281.129,1282.698]	G1301	female	iya lumayan sih
+[1289.890,1291.068]	G1301	female	terus
+[1294.717,1296.528]	G1301	female	terus mau nonton apa
+[1303.568,1305.139]	G1301	female	Dilan aja
+[1307.076,1308.106]	G1301	female	Dilan
+[1312.299,1313.748]	G1301	female	iya Dilan
+[1314.399,1317.259]	G1301	female	tau kan nontonnya Dilan
+[1317.368,1319.089]	G1301	female	besok aja ya nontonnya
+[1320.940,1322.748]	G1301	female	besok apa nanti malam
+[1325.251,1325.778]	G1301	female	iya
+[1326.489,1327.549]	G1301	female	terus
+[1327.568,1330.940]	G1301	female	setelah nonton Dilan di bioskop
+[1331.618,1334.238]	G1301	female	besoknya aku ke rumahmu
+[1335.339,1337.178]	G1301	female	nonton Dear Nathan
+[1339.389,1341.347]	G1301	female	pakai laptopku
+[1343.348,1344.258]	G1301	female	iya
+[1348.839,1349.899]	G1301	female	iya
+[1350.217,1352.088]	G1301	female	mau banget lah
+[1355.559,1356.619]	G1301	female	iya
+[1357.180,1359.288]	G1301	female	kalau terus kau am
+[1364.259,1366.759]	G1301	female	besoknya jangan lupa
+[1366.809,1368.650]	G1301	female	bawa makanan
+[1368.788,1370.958]	G1301	female	siapin camilan
+[1372.958,1375.759]	G1301	female	yang manis jangan yang pedas oke
+[1377.729,1378.639]	G1301	female	iya
+[1380.009,1381.130]	G1301	female	iya
+[1381.479,1382.389]	G1301	female	oke
+[1382.829,1383.738]	G1301	female	dah
+[1384.509,1385.479]	G1301	female	dah
+[1385.618,1386.440]	G1301	female	dah

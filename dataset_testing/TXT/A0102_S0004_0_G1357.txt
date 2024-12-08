@@ -1,0 +1,121 @@
+[1.539,2.509]	G1357	male	halo
+[7.630,10.460]	G1357	male	hmm baik baik aja nih kamu sendiri
+[15.399,18.170]	G1357	male	uh yang pengen silahturami aja
+[21.729,22.760]	G1357	male	hmm
+[25.690,29.959]	G1357	male	ya biasalah ini baru ada waktu luang
+[30.549,32.569]	G1357	male	nyapa temen kan ngga salah
+[42.580,46.729]	G1357	male	denger denger e kamu temennya
+[47.049,48.950]	G1357	male	mbak Devi itu kan
+[52.810,58.549]	G1357	male	ya tu kan terakhir anu kamu upload foto sama mbak Devi itu
+[64.300,67.430]	G1357	male	cuman kenal dari temenku aja
+[72.550,75.860]	G1357	male	iya ngga deket sih cuman ya kaya
+[75.910,77.690]	G1357	male	kontakkan biasalah
+[83.529,85.040]	G1357	male	kabarnya gimana
+[86.739,87.650]	G1357	male	iya
+[108.309,109.699]	G1357	male	hmm
+[139.479,140.570]	G1357	male	oh
+[140.800,144.050]	G1357	male	mbar- mbak Devi itu tinggal di mana sih
+[193.389,194.089]	G1357	male	hmm
+[195.369,199.369]	G1357	male	terus selain mbak Devi ni temen deketmu tu siapa
+[223.779,226.039]	G1357	male	hmm gitu
+[236.440,238.160]	G1357	male	o iya
+[240.220,244.669]	G1357	male	pertama kali ketemu tu di mana sama kapan ya sama mbak Devi itu
+[265.450,266.929]	G1357	male	oh iy
+[279.519,280.940]	G1357	male	oh iya
+[289.989,290.809]	G1357	male	hm
+[290.980,294.559]	G1357	male	ngga cuman kenal dari temen ku aja
+[296.890,298.760]	G1357	male	itu uh
+[299.380,302.179]	G1357	male	mbak Devi tu ya tu kaya
+[302.200,302.959]	G1357	male	gimana
+[303.190,306.258]	G1357	male	orangnya itu kayak friendly banget gitu lo
+[307.690,308.839]	G1357	male	mudah akrab
+[309.130,312.710]	G1357	male	mudah akrab sama orang lain
+[313.238,315.229]	G1357	male	terus juga murah senyum
+[333.669,334.789]	G1357	male	em ya
+[360.339,361.609]	G1357	male	oh
+[373.628,374.750]	G1357	male	oo iya
+[375.339,380.808]	G1357	male	kalau kamu sendiri yang kamu sukai dari Devi sendiri itu apa
+[409.150,411.469]	G1357	male	oh gitu ya
+[414.219,421.099]	G1357	male	terus kalau udah temenan dari lama kan juga pasti udah ngelakuin hal-hal yang seru kan
+[422.558,425.599]	G1357	male	itu kamu ngelakuin apa aja
+[427.150,428.058]	G1357	male	kayak
+[473.859,475.760]	G1357	male	oh gitu
+[476.109,482.960]	G1357	male	terus kalau udah temenan lama kan enggak mungkin mulus gitu kan pasti pernah berantem atau
+[482.980,484.188]	G1357	male	konflik
+[484.450,486.650]	G1357	male	ee kayak konflik apa ya
+[486.909,490.340]	G1357	male	kayak debat gitu lah pernah gak sama Devi gitu
+[525.189,525.980]	0	none	[*]
+[546.730,547.730]	G1357	male	em ya
+[641.319,644.358]	G1357	male	oh gitu ternyata
+[671.259,676.910]	G1357	male	teruskan ya pernah nongki sama mbak Devi itu kan nongkrong kekinian
+[677.949,680.089]	G1357	male	itu paling favorit dimana
+[684.759,687.559]	G1357	male	kopi-kopi sebelah mana
+[710.649,711.770]	G1357	male	siapa
+[715.539,716.509]	G1357	male	em
+[716.918,719.449]	G1357	male	oh ya Devi kenapa
+[722.709,723.679]	G1357	male	iya
+[724.779,732.139]	G1357	male	ya jarang-jarang nongkrong bareng sih cuman kontakan kalau enggak mabar game dari jauh
+[736.509,738.709]	G1357	male	iya baik-baik aja
+[746.647,752.358]	G1357	male	kalau di Misdinart tuh ya kadang kan pembagian tugasnya sendiri
+[752.647,755.419]	G1357	male	jadi kalau bagian tugas ya
+[755.740,756.978]	G1357	male	nanti
+[757.419,759.890]	G1357	male	bertugas kalau enggak ya-ya udah
+[760.059,761.059]	G1357	male	di rumah
+[772.598,774.559]	G1357	male	iyaa masih
+[784.329,789.618]	G1357	male	dulu sih pernah nongkrong di Wedangan Pasar Gede
+[792.399,795.978]	G1357	male	wah namanya Wedangan pak siapa gitu lo lupa aku
+[817.870,820.010]	G1357	male	oh ya nanti langsung
+[820.149,821.809]	G1357	male	PC aku aja
+[832.299,839.540]	G1357	male	hmm gimana ya kalau umpama ya kamu ada masalah gitu Devi nya gimana ke kamu
+[854.620,857.989]	G1357	male	terus punya-punya kesamaan apa aja
+[860.078,860.928]	G1357	male	iya
+[866.349,867.559]	G1357	male	hm wo
+[888.069,889.160]	G1357	male	iya
+[894.968,895.939]	G1357	male	em ya
+[907.749,908.718]	G1357	male	hm
+[915.130,917.059]	G1357	male	oalah gitu
+[918.308,920.149]	G1357	male	terus kalau buat
+[921.040,923.239]	G1357	male	oh ya langsung nanya aja no
+[931.270,937.160]	G1357	male	ha makanan kesukaan tuh eh kita berdua tuh ya apa-apa dimakan kok
+[937.420,939.648]	G1357	male	jadi enggak terlalu milih-milih
+[947.050,948.109]	G1357	male	yaudah uk
+[950.290,951.648]	G1357	male	hm yaa
+[952.089,953.179]	G1357	male	gitu lah
+[955.239,961.670]	G1357	male	hmm kalau menurut kamu makna pertemanan atau persahabatan tuh kayak gimana sih
+[985.269,986.779]	G1357	male	hmm
+[990.219,993.980]	G1357	male	kalau temen deket sih ada beberapa
+[1000.927,1004.929]	G1357	male	iya kadang tiap malem aja nongkrong bareng
+[1011.968,1013.927]	G1357	male	e biasanya sih
+[1014.699,1017.378]	G1357	male	ya di Seperdua Kopi
+[1017.878,1020.678]	G1357	male	kalo nggak di beranda kopi
+[1021.117,1025.358]	G1357	male	terus tradisi ngopi ya polong ya di coffee shop gitu
+[1026.910,1029.588]	G1357	male	iya anak muda kan biasa
+[1038.607,1043.988]	G1357	male	biasanya si e temenku tu lebih lebih support ya
+[1044.068,1046.327]	G1357	male	kayak lebi dukung lah ngasih
+[1046.617,1049.480]	G1357	male	ngasih masukin masukan
+[1049.738,1051.730]	G1357	male	terus ngasih saran buat
+[1051.899,1054.910]	G1357	male	buat nyelesain masalahnya kah gimana
+[1069.268,1071.828]	G1357	male	kalo makna pertemanan ya
+[1072.089,1074.858]	G1357	male	uh makna pertemanan kaya
+[1076.108,1078.549]	G1357	male	kaya gimana ya kaya uang lah
+[1079.618,1081.099]	G1357	male	ka menurut aku
+[1082.617,1083.529]	G1357	male	dengan
+[1083.849,1085.719]	G1357	male	kalo aku sendiri kan
+[1085.799,1090.968]	G1357	male	temen itu kalo mau kalo uang itu buat jajan tu kan kaya eman eman
+[1091.349,1095.258]	G1357	male	jadi temen tu jangan segampang itu dibuang itu
+[1099.118,1099.849]	G1357	male	yap
+[1100.140,1102.910]	G1357	male	berharga gitu iya
+[1105.568,1108.007]	G1357	male	ya bukan bukan berarti
+[1108.007,1115.116]	G1357	male	terus dapet uang dibuang buang gitu ngga maksudnya ditabunglah ngumpulin temen sebanyak banyaknya
+[1122.069,1123.487]	G1357	male	iya
+[1129.178,1130.209]	G1357	male	perlu
+[1147.808,1150.248]	G1357	male	iya kan ya intinya itu
+[1152.578,1154.118]	G1357	male	iya kaya uang
+[1154.980,1157.148]	G1357	male	yang penting jangan boros boros
+[1162.898,1164.078]	G1357	male	iya
+[1167.129,1174.759]	G1357	male	kalo ngga ada uang kan kita ngga bisa hidup ya bukan idup deng ngga bisa menuhin kebutuhan kita sehari hari
+[1195.269,1196.239]	G1357	male	iya
+[1197.578,1198.578]	G1357	male	iya
+[1199.890,1201.219]	G1357	male	O K
+[1203.608,1206.019]	G1357	male	O K makasih ya waktunya
+[1207.420,1208.179]	G1357	male	iya

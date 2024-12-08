@@ -1,0 +1,237 @@
+[5.050,6.170]	G1703	female	halo
+[6.819,8.000]	G1703	female	gimana Len
+[10.840,14.869]	G1703	female	baik dong luar biasa kabarku baik kok kamu
+[18.909,24.590]	G1703	female	ooo baik ya eee gimana ni kenapa tumben kamu telefon aku
+[30.909,36.138]	G1703	female	waktu luang punya dongtapi ya paling
+[36.610,43.700]	G1703	female	dua jam tiga jam lah waktu luangku enggak banyak sih paling kalau waktu luang banyak itu hari Minggu aja
+[45.250,46.669]	G1703	female	kenapa emang
+[50.349,52.489]	G1703	female	joging bisa dong
+[52.958,57.169]	G1703	female	kamu ngajakin joging nih tumben-tumben amat kenapa
+[60.340,62.180]	G1703	female	ooo gitu
+[62.740,68.569]	G1703	female	bener sih tapi badan cungkring kayak aku gini eh ya enggak cungkring juga sih enggak kecil juga sih
+[68.739,73.819]	G1703	female	maksudnya ya sedengan gitu lah tapi bisa makin kurus dong
+[77.080,79.279]	G1703	female	o iya sih benar banget
+[79.569,80.750]	G1703	female	eee
+[81.580,82.309]	G1703	female	emang
+[85.239,86.449]	G1703	female	saat dimana
+[88.660,91.639]	G1703	female	em biasanya sih kalau aku
+[91.720,97.279]	G1703	female	basket sih biasanya sama teman-teman satu apa ya satu klub
+[97.279,102.470]	G1703	female	apa komunitas gitu biasanya aku seringnya basket sih yang paling tak senangin
+[106.959,109.279]	G1703	female	iya ya enggak tentu sih
+[109.509,117.830]	G1703	female	ada cowoknya juga kok cuma kan kayak ee apa ya tandingnya itu ya cewek sama cewek cowok sama cowok
+[117.830,123.410]	G1703	female	kadang kalau cewek sama cowok kan ya bisa cuma kan gimana ya kayak
+[123.698,131.000]	G1703	female	ee kayak kesusahan gitu pasti kan gerakannya cowok itu kayak hot boy banget kan gitu
+[137.019,139.070]	G1703	female	terakhir itu kapan ya
+[139.149,144.679]	G1703	female	kayaknya sebelum ada pandemi Covid ini sih trakhir itu
+[145.089,147.859]	G1703	female	biasanya sih aku di lapangan
+[147.970,156.380]	G1703	female	kayak lapangan sekolah gitu kadang kayak di G O R gitu G O R Bhineka gitu kadang juga
+[156.380,157.250]	G1703	female	apa ya
+[157.419,159.410]	G1703	female	paling dimana gitu
+[159.910,162.227]	G1703	female	yang penting luas lah buat basket
+[162.397,164.690]	G1703	female	bisa buat basket gitu juga sih
+[164.768,166.397]	G1703	female	yang khusus gitu
+[166.478,169.610]	G1703	female	ee boleh enggak aku nanya gantian
+[172.269,173.809]	G1703	female	oke deh
+[173.859,178.070]	G1703	female	kalau olahraga yang kamu senangin apa
+[185.050,189.800]	G1703	female	masak tapi biasanya sih cowok futsal palingnya iya kan iya kan
+[190.210,191.330]	0	none	[SONANT]
+[192.130,197.570]	G1703	female	iya dong pasti tukalau futsal soalnya kan apa ya
+[197.739,202.459]	G1703	female	ee aku juga punya teman cowok tu kebanyakan sukanya futsal sama basket sih
+[202.587,207.780]	G1703	female	kalau volly gitu tu jarang katanya tangannyasakit ya
+[207.780,213.079]	G1703	female	sama-sama sih sebenarnya kalau kakinya kan kalau futsal ya lebih capek karena lari-larinya itu sih ya
+[213.249,218.119]	G1703	female	tapi ya namanya biar sehat juga biasanya kamu di mana
+[218.410,220.460]	G1703	female	kalau futsalnya
+[228.039,229.610]	G1703	female	hmmm
+[230.679,231.889]	G1703	female	ooo
+[235.058,237.558]	G1703	female	sering gitu ya tanding-tanding gitu ya
+[243.009,244.039]	G1703	female	mmm
+[248.918,255.500]	G1703	female	em iya-iya ya gimana ya kayaktapi biasanya menang enggak ni
+[256.659,258.228]	G1703	female	apa kalah terus
+[258.398,263.329]	G1703	female	ee enggak mungkin bohong ya pasti
+[264.700,266.570]	G1703	female	boleh kapan-kapan
+[273.039,275.359]	G1703	female	ya iyalah pasti itu
+[275.890,283.609]	G1703	female	bener banget kalau fisiknya tu ya tinggal kita sendirinya tu gimana pola makannya juga kan biasanya
+[283.630,286.159]	G1703	female	banyak-banyak minum air putih juga
+[286.898,288.109]	G1703	female	eem
+[292.450,293.450]	G1703	female	he em
+[295.179,297.648]	G1703	female	alasannya karena apa ya
+[298.119,299.269]	G1703	female	karena
+[299.290,300.589]	G1703	female	kok kayaknya
+[300.670,304.070]	G1703	female	cewek-cewek tu kebanyakan tu sukanya tu pada basket sih
+[304.087,305.599]	G1703	male	yang paling
+[306.009,309.199]	G1703	male	apa ya paling buming banget gitu
+[309.219,310.729]	G1703	male	karena kayak
+[310.957,313.639]	G1703	male	ee enggak berat juga gitu
+[314.018,322.430]	G1703	male	paling apa cuma dribble-dribble dilempar gitu sih paling soalnya kan dari S D tu aku kalau olahraga
+[322.430,324.889]	G1703	male	tau bola basket tu sudah senang banget
+[325.180,329.778]	G1703	male	apalagi walaupun kayak caranya kita apa ya
+[330.070,335.837]	G1703	male	cara kita main tu kayak belum benar gitu belum tau teknik-teknik-tekniknya gitu
+[335.837,339.199]	G1703	male	jadi kayak asal-asalan main aja sih tapi senang kok enak
+[344.889,345.860]	G1703	male	he eh
+[349.449,355.188]	G1703	male	e karena kan dari aku S D sampai S M A itu
+[355.239,359.778]	G1703	male	kebanyakan ekstrakurikuler basket itu juga banyak kan yang ikut
+[359.828,363.978]	G1703	male	lha itu aku juga ikut sih ekstrakurikuler kayak gitu ditambah kan
+[364.180,370.909]	G1703	male	mungkin kebiasaanku di rumah dan otodidak itu kan lo aku juga kayak apa ya
+[370.909,376.699]	G1703	male	ya bisalah kayak ngasih ketahanan sama bola itu gitu
+[376.720,380.449]	G1703	male	jadi enggak asal main gitu karena sudah kebiasaan sih
+[380.707,382.250]	G1703	male	kalau kamu gimana
+[396.039,397.789]	G1703	male	o sering futsal
+[402.039,404.957]	G1703	male	o kayak ikut ekstranya tu jarang aktif
+[404.980,407.599]	G1703	male	berarti diluar jam sekolah gitu ya
+[407.829,410.449]	G1703	male	iya sih biar enggak ngeganggu ya
+[415.570,420.558]	G1703	male	makanya itu sih tapi pernah enggak sih menang kejuaraan kayak tingkat
+[420.699,421.669]	G1703	male	apa ya
+[421.870,427.399]	G1703	male	kayak tingkat lebih dari kayak cuma sekedar tanding sama temen lah
+[427.480,434.180]	G1703	male	sparing gitu sama yang apa ya kayak udah berkelas gitu lho pernah enggak sih menang
+[448.239,449.359]	G1703	male	oo
+[450.370,452.599]	G1703	male	o itu dari berapa
+[454.539,456.109]	G1703	male	maksudnya
+[456.849,457.760]	G1703	male	dari
+[464.078,465.048]	G1703	male	waw
+[465.070,472.969]	G1703	male	itu sudah termasuk bagus banget itu kalau tingkat delapan kamu bisa menangin terus akhirnya
+[473.200,479.419]	G1703	male	walaupun di tengah-tengah itu gugur gitu tapi udah lumayan udah masuk sepuluh besar kan
+[480.070,483.169]	G1703	male	dari waduh dari mana-mana tuh
+[483.278,484.370]	G1703	male	lha iya
+[484.870,493.489]	G1703	male	ya gimana ya namanya juga usaha kan kadang ada kalah ada menang-menangnya kan jadi enggak selalu mulus
+[493.489,497.510]	G1703	male	mulus menang itu kan enggak juga kan iya sih
+[497.828,499.459]	G1703	male	ha biasanya
+[502.749,504.799]	G1703	male	itu lho Gabriel siapa ya
+[504.969,508.278]	G1703	male	e lupa kok pokoknya namanya Gabriel-Gabriel gitu
+[509.289,510.230]	G1703	male	itu tu
+[510.519,511.609]	G1703	male	karena
+[511.659,514.879]	G1703	male	apa ya mainnya tu lincah gitu terus kayak
+[514.959,518.808]	G1703	male	badannya itu kayak apa ya sudah pas gitu lho
+[518.980,519.678]	G1703	male	duh
+[519.760,528.079]	G1703	male	aku tu senang sih kalau lihat itu cuma kalau ngikuti terlalu banget itu enggak sih cuma hanya sekedar tau dan
+[528.079,529.010]	G1703	male	apa ya
+[529.209,532.189]	G1703	male	wah senang lihat dia tu main gitu sih
+[532.959,535.398]	G1703	male	kalau kamu atlet kesukaanmu siapa
+[541.538,548.178]	G1703	male	wah iya tu-tu lagi buming-bumingnya itu banyak banget yang suka itu
+[550.148,551.239]	G1703	male	iyalah
+[551.918,555.140]	G1703	male	karena apa ya mungkin sudah biasa kan
+[555.308,558.288]	G1703	male	siapa lagi paling ya cuma itu
+[559.299,560.748]	G1703	male	kalau biasanya
+[561.760,564.110]	G1703	male	siapa aja emang sebutin
+[567.399,573.710]	G1703	male	ya-ya enggak pa-pa dongterus oya ni boleh tanya enggak
+[576.339,578.598]	G1703	male	kamu biasanya kalau kayak gitu rutin enggak
+[579.819,581.390]	G1703	male	main futsalnya
+[584.230,586.069]	G1703	male	o rutin ya sih
+[586.990,590.059]	G1703	male	o berarti ada jadwal khususnya ya
+[592.390,594.020]	G1703	male	o iya sih
+[594.700,596.749]	G1703	male	hmm gimana
+[599.230,605.689]	G1703	male	ya menurut aku sih perlu karena kalau kita rutin latihan itu nanti
+[605.689,610.038]	G1703	male	jadi kita tu jadi enggak kaku gitu pas main kayak apa ya
+[610.358,612.139]	G1703	female	ee kayak udah
+[612.520,617.689]	G1703	female	udah punya tehnik tersendiri gitu kayak ada tata cara maen nya
+[617.738,620.569]	G1703	female	biar kita tuh lebih tau lebih apa ya
+[620.589,627.529]	G1703	female	lebih bisa menguasai kayak ap misalnya nih kayak aku kan basket kayak menguasai
+[627.579,635.449]	G1703	female	bola basket nya tehnik-tehnik nya juga boleh di lakuin sama enggak itu yang apa aja kan biasa nya gitu sih
+[636.069,638.418]	G1703	female	gitu biasa nya sih
+[646.569,648.019]	G1703	female	iya kenapa
+[655.630,656.419]	G1703	female	gimana
+[658.059,659.240]	G1703	female	coba ulangin
+[663.370,668.719]	G1703	female	Iya bisa sih kalau olahraga sendiri cuma kan kalau olahraga sendiri tuh kayak
+[668.889,674.689]	G1703	female	ohh kok gini to aku main sendiri tuh kayak apa ya kayak
+[675.098,680.178]	G1703	female	mosok ya dewean mosok ya sendirian gitu loh kayak apa ya
+[680.470,682.010]	G1703	female	enggak enak gitu loh
+[682.510,687.799]	G1703	female	jadi tuh penaknya itu kayak bareng-bareng hooh sepi gitu kayak wah jomblo
+[687.799,691.699]	G1703	female	duh udah jomblo tambah mainnya jomblo ndak eng-enggak enak banget itu
+[691.959,693.139]	0	none	[LAUGHTER]
+[693.279,695.839]	G1703	female	ya gimana ya enak itu sebener nya ya
+[696.220,701.389]	G1703	female	aa satu tim gitu kita kan bisa tau kerjasama nya tuh kayak apa
+[701.499,705.980]	G1703	female	terus nanti kan tambah pengalaman juga kayak satu sama lain itu
+[706.150,712.339]	G1703	female	gimana-gimana oh dia itu mainnya a baik apa main nya gini gitu
+[712.339,717.858]	G1703	female	kan bisa ngajarin satu sama lain juga sih gitu menurut ku kalau kamu gimana
+[734.499,736.669]	G1703	female	lah iya sih penting
+[737.020,738.378]	G1703	female	bener banget
+[747.848,749.598]	G1703	female	iya bener tuh
+[753.699,758.120]	G1703	female	iya sih kayak apa ya melatih kekuatan otot-otot
+[758.829,761.808]	G1703	female	biar lentur biar enggak kaku ya
+[762.968,764.359]	G1703	female	ya iya sih
+[766.179,767.569]	G1703	female	hm terus
+[767.769,768.650]	G1703	female	gimana
+[776.980,778.909]	G1703	female	hm gimana ya
+[779.230,781.069]	G1703	female	sebenernya kalau pikiran tuh
+[781.659,789.260]	G1703	female	kalau menurut aku enggak sih karena aku ngejalanin nya itu dengan enjoy gimana ya udah seneng dulu sih
+[789.260,792.530]	G1703	female	jadi enggak menurutku enggak ada masalah cuma kalau
+[792.579,795.650]	G1703	female	misalnya lagi stress gitu kan
+[795.670,799.128]	G1703	female	itu tuh enak banget buat apa ya
+[799.839,800.929]	G1703	female	buat
+[801.670,802.640]	G1703	female	kayak
+[802.689,809.239]	G1703	female	ada apa ya hiburan nya gitu kita tuh kalau olahraga itu penting maksud nya
+[809.239,813.149]	G1703	female	kita tau kan tehnik-tehnik nya itu kayak apa gitu sih
+[813.189,820.400]	G1703	female	kalau buat menosly aku rasa enggak sih aku ngejalanin nya dengan seneng dan enjoy aja karena
+[820.400,823.370]	G1703	female	dari awal kan aku sama basket itu udah
+[823.628,826.878]	G1703	female	eh seneng banget kalau kamu sendiri gimana
+[832.689,833.718]	G1703	female	apa iya
+[834.489,835.699]	G1703	female	menurut kamu
+[836.290,837.260]	G1703	female	gimana
+[843.159,844.339]	G1703	female	lha iya
+[847.449,856.010]	G1703	female	iya itu dah pasti kan kita jadi apa ya duh enggak gampang sakit itu biasanya-biasanya sih
+[856.120,859.819]	G1703	female	itu enggak gampang sakit enggak gampang lemes
+[874.510,882.499]	G1703	female	bulu tangkis kalau enggak renang berenang tuh tapi biasa nya sih yang paling tak senengi tuh bulu tangkis tuh
+[887.109,891.200]	G1703	female	ha renan- renang sih boleh-boleh sih
+[891.218,893.210]	G1703	female	recomended banget itu
+[893.319,895.069]	G1703	female	kan apa iya
+[895.180,903.140]	G1703	female	hee bisa buat apa ya ngop mengoptimal kan nafas juga to maksud nya kayak kita lebih
+[903.140,907.790]	G1703	female	lebih sehat lah gitu maksud nya bagian tubuh dalem gitu
+[907.960,909.920]	G1703	female	terus menurut mu apa lagi
+[919.659,921.589]	G1703	female	yakin nggak ada yang lain
+[927.098,934.309]	G1703	female	oh iya sih tapi kalau lari jarak jauh itu ya sebenernya sama sih kayak kita futsal apa basket
+[934.310,941.959]	G1703	male	kan jugak melatih kekuatan kaki kan ya tapi kalok lari itu lebih apa ya lebih berat menurutku
+[941.959,946.248]	G1703	male	karna kan kalau lari itu kalau yang atlit beneran tu
+[946.248,953.839]	G1703	male	jaraknya tu gak cuman pendek-pendek aja pasti tu jauh-jauh dan harus ditarget waktu kan
+[954.430,956.239]	G1703	male	dan kecepatan itu
+[956.650,958.069]	G1703	male	otomatis
+[958.388,959.689]	G1703	male	makanya itu
+[964.000,965.420]	G1703	male	iya dong
+[972.400,978.890]	G1703	male	oh iya itu juga kebetulan kadang aku nganterin tanteku sama mamaku sih
+[978.890,981.468]	G1703	male	biasanya kalau aerobik itu senam itu
+[982.060,985.369]	G1703	male	itu juga musiknya itu kalau didengerin aduh
+[985.369,991.280]	G1703	male	enak bangett kayak kita tu bisa joget-joget sendiri refresh banget juga itu kalok aerobik
+[991.599,997.280]	G1703	male	iya sih kayak apa ya kita itu jadi pikirannya juga gak sepaneng
+[997.390,1002.319]	G1703	male	gak aduh melulu tentang itu kan kita bisa cobain juga yang lainnya
+[1002.579,1007.359]	G1703	male	iya sih bener-bener-bener-bener banget aerobik itu sih yang paling
+[1007.500,1008.890]	G1703	male	eee apa ya
+[1009.478,1011.859]	G1703	male	minatin hee betul
+[1012.089,1014.648]	G1703	male	apalagi zumba-zumba itu juga
+[1015.659,1016.930]	G1703	male	apa gimana
+[1020.519,1022.839]	G1703	male	iya pastinya itu
+[1022.978,1026.740]	G1703	male	eee kalau denger musik disetel langsung
+[1026.848,1029.979]	G1703	male	joget-joget gak jelas gitu
+[1030.240,1032.769]	G1703	male	ya gak kontrol itu kalau kaya gitu
+[1032.790,1034.509]	G1703	male	iya sih bener banget
+[1039.088,1040.990]	G1703	male	apah ngikutin apah
+[1044.009,1045.367]	G1703	male	pernah dong
+[1045.898,1051.609]	G1703	male	biasanya kadang kan itu lo aku biasanya di selebriti fitness
+[1051.899,1057.399]	G1703	male	aduh itu tempatnya recommended banget tapi ya gitu sih agak
+[1057.419,1059.259]	G1703	male	apa agak mahal sih
+[1059.819,1062.739]	G1703	male	tempatnya ya biasa kaya
+[1062.879,1071.199]	G1703	male	emm ya sebenarnya tu macem-macem ada yang buat fitness ada yang buat aerobik ada yang buat zumba
+[1072.060,1074.379]	G1703	male	di selebriti fitness itu
+[1074.489,1075.789]	G1703	male	iya itu
+[1075.869,1079.149]	G1703	male	terjamin dan itu nanti bakalan
+[1079.739,1084.310]	G1703	male	bener-bener yang misalnya nih kayak badannya itu gemuk ya
+[1084.328,1089.139]	G1703	male	gendut gitu itu nanti bisa bener-bener kalau dia niat itu jadi kurus
+[1089.458,1091.750]	G1703	male	udah pernah nyobain temenku
+[1092.220,1093.099]	G1703	male	gimana
+[1094.050,1098.889]	G1703	male	bisa temen aku udah pernah nganterin temenku tapi dia rutin sih
+[1098.940,1104.949]	G1703	male	setiap bulannya itu kan awalnya itu masuk disitu tu kayak ditimbang dulu kayak
+[1104.949,1111.639]	G1703	male	awalnya tuh misal nih kamu nimbang bobotmu sekian ya terus nanti ditarget dua bulan
+[1111.639,1118.030]	G1703	male	apa berapa bulan gitu kamu harus nurunin berat badanmu itu tiga kilo sampek lima kilo gitu
+[1118.289,1124.899]	G1703	male	tapi kalok niat ya dan akhirnya temenku itu bisa dan sampai sekarang tu dia masih ikut selebriti fitness itu
+[1124.920,1125.739]	G1703	male	itu
+[1126.928,1128.739]	G1703	male	kalau siapa tau
+[1131.039,1133.149]	G1703	male	kalau menang kejuaraan sih
+[1133.259,1141.069]	G1703	male	hmm aku kan yaa gimana ya kayak kan satu tim nih dan kan cewek nih yaa
+[1141.389,1147.428]	G1703	male	kadang pernah kadang tapi yang terakhir itu juga gugur sih sama kayak kamu
+[1148.708,1152.108]	G1703	male	wah gak bakaliya sih
+[1159.780,1161.828]	G1703	male	iya bener banget itu
+[1162.030,1170.078]	G1703	male	kalok setauku sih situ karna temen-temenku tu sebagian di situ dan aku diajakin tu juga di situ
+[1170.099,1177.280]	G1703	male	cuman kan di situ kan kayak harganya tu jugak yo menurutku sih kadang kalok ada diskonnya juga sih
+[1177.280,1185.500]	G1703	male	ya gak jadi mahal banget cuman kan disitu tu yang penting itu niat kalok kamu niat pasti bisa bisa kurus gitu sih
+[1187.050,1187.869]	G1703	male	hmm
+[1188.428,1190.570]	G1703	male	gimana ada yang kamu tanyain
+[1190.679,1197.739]	G1703	male	oh iya sama-sama kalok kamu pengen nyobain kalok mau curhat tentang olahraga boleh kok yang lainnya
+[1197.909,1199.570]	G1703	male	atau mau tanya apa gitu
+[1201.060,1203.260]	G1703	male	siap bye-bye

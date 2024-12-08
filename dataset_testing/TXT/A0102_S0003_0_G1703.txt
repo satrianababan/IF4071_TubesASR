@@ -1,0 +1,261 @@
+[0.038,0.889]	0	none	[SONANT]
+[1.960,2.869]	G1703	female	apa
+[3.069,4.038]	G1703	female	gimana
+[4.630,8.029]	G1703	female	baik dong aku kan selalu baik kamu
+[12.430,14.029]	G1703	female	puji Tuhan
+[14.470,17.408]	G1703	female	e ada apa nih kamu telefon aku
+[19.059,20.690]	G1703	female	tumben-tumben amat
+[24.399,27.379]	G1703	female	aduh kok kamu sok-sok sibuk gitu sih
+[29.770,33.200]	G1703	female	aduh sibuk ngapain widih
+[33.700,34.759]	G1703	female	e
+[37.090,38.119]	G1703	female	gimana
+[41.650,44.360]	G1703	female	kenapa kamu mau nraktir aku ya
+[48.700,49.909]	G1703	female	apa iya
+[50.368,51.298]	0	none	[SONANT]
+[51.405,55.009]	G1703	female	karena badan aku tuh kecil aku suka makan gitu
+[55.029,56.000]	G1703	female	aduh
+[58.360,59.810]	G1703	female	gimana-gimana
+[59.918,61.400]	G1703	female	kamu nanya apa
+[65.500,68.300]	G1703	female	aku habis makan apa nasi lah
+[68.800,70.099]	G1703	female	nasi kan enak
+[70.269,72.260]	G1703	female	warak bikin kenyang
+[77.949,80.510]	G1703	female	lauknya-lauknya apa ya
+[80.709,83.510]	G1703	female	apa kamu pengennya apa hayo
+[83.889,85.069]	0	none	[LAUGHTER]
+[85.419,86.900]	0	none	[LAUGHTER]
+[87.010,90.319]	G1703	female	aku habis makan nasi lauknya ikan
+[90.370,96.620]	G1703	female	tuh paling enak tuh ikan ayam goreng dah itu enak banget
+[98.440,99.559]	G1703	female	kalau kamu
+[99.699,101.180]	G1703	female	habis makan apa
+[106.389,109.489]	G1703	female	haduh enak tu juga
+[109.540,110.720]	G1703	female	aku juga
+[111.370,116.059]	G1703	female	senang banget sama itu walaupun makanannya tu sederhana ya tapi
+[116.080,120.470]	G1703	female	hmm kalau bikinan mama aku pasti ketagihan
+[121.269,123.319]	G1703	female	kamu biasanya suka
+[123.459,131.086]	G1703	female	apa maksudnya selain makanan pokok kayak nasi ka sama ayam gitu maksudnya eh dessert
+[131.139,132.244]	G1703	female	dessert gitu
+[133.779,135.500]	G1703	female	makanan ringannya apa
+[135.850,138.050]	G1703	female	yang kamu su- sukain
+[144.250,145.309]	G1703	female	roti
+[145.720,147.050]	G1703	female	kayak bule dong
+[147.429,149.300]	G1703	female	bule kan juga sukanya roti
+[150.213,158.115]	G1703	female	sarapan roti kalau ke restoran juga paling pesennya roti campur sosis kasih saos gitu kan
+[160.448,167.305]	G1703	female	kamu gak nanyain aku nih aku dessert kesukaannya apa siapa tau kamu mau deliveriin aku
+[167.385,168.597]	0	none	[LAUGHTER]
+[169.869,172.339]	G1703	female	kok bisa gak dulu pelit dasar
+[174.729,176.059]	G1703	female	loh kok gitu
+[179.889,186.050]	G1703	female	apa ya aku tuh paling suka sama Terang Bulan duh enak banget itu
+[188.350,189.289]	0	none	[SONANT]
+[189.639,190.580]	G1703	female	tuh kan
+[191.110,195.380]	G1703	female	topingnya coklat sama keju uh enak banget
+[197.860,201.350]	G1703	female	enggak-enggak suka kacang enggak enak kalau tambah kacang
+[204.070,205.039]	G1703	female	kan
+[207.729,212.616]	G1703	female	karena rasanya tuh manis empuk-empuk gitu kayak aku manis
+[212.636,213.673]	0	none	[LAUGHTER]
+[218.169,219.770]	G1703	female	kan kalo
+[220.509,221.449]	G1703	female	gimana
+[224.169,231.020]	G1703	female	ya sebenarnya gak susah-susah juga sih tapi kadang mamaku ya sering bikin kayak gitu
+[232.539,237.589]	G1703	female	aku kadang juga bantuin sih cuma kan enggak-enggak terlalu itu sih ya bisa sih
+[238.660,241.130]	G1703	female	paling apa sih iya
+[241.779,249.320]	G1703	female	bisa kok bisa kan har kalau beli langsung jadi kan harganya juga gak mahal-mahal banget gitu
+[252.009,253.580]	G1703	female	kalau kamu tadi
+[253.720,258.440]	G1703	female	e selain suka sama roti suka apa makanannya
+[266.950,270.739]	G1703	female	nasi goreng kenapa kok suka sama na- nasi goreng
+[276.910,277.609]	G1703	female	wah
+[278.619,282.320]	G1703	female	mau apa ya jadi kamu bisa dong masakin aku kapan-kapan
+[283.959,286.250]	G1703	female	bisa juga ajarin dong
+[286.540,288.470]	G1703	female	emang bahannya apa aja toh
+[295.209,296.450]	G1703	female	bumbu racik
+[296.709,298.369]	G1703	female	langsung jadi itu ya
+[298.480,304.100]	G1703	female	tapi mending enak lagi tuh kamu bikin bumbunya sendiri
+[304.119,307.579]	G1703	female	kayak dari apa ya brambang
+[307.810,309.919]	G1703	female	bawang gitu
+[310.359,311.929]	G1703	female	bawang merah
+[312.008,314.419]	G1703	female	kan bawang putih terus apa paling ya
+[314.739,318.529]	G1703	female	bumbu tambahannya ya itu tadi buat mantepin rasanya
+[319.300,322.969]	G1703	female	garem jangan lupa garam itu
+[322.989,323.808]	G1703	female	terus
+[323.860,328.339]	G1703	female	merica iya betul terus saos biasanya kan itu
+[329.260,330.229]	G1703	female	kamu
+[330.457,334.190]	G1703	female	tau enggak makanan yang baru hits
+[334.239,335.750]	G1703	female	sekarang tu apa
+[341.979,343.070]	G1703	female	kopi shop
+[351.399,354.049]	G1703	female	itu kan rekomendasi iya sih
+[354.489,355.909]	G1703	female	hmm kayak
+[356.140,359.659]	G1703	female	minuman gitu ya tapi juga banyak makanannya ya disitu ya
+[361.599,368.178]	G1703	female	oh iya kayanya ada burger juga kan yang paling rekomendasi dimakanan itu
+[368.768,377.389]	G1703	female	maksudnya kayak di kopi shop itu kan ada rekomendasi makanan gitu kayak burger terus
+[377.389,380.240]	G1703	female	hotdog terus apa lagi ya biasanya
+[380.260,382.039]	G1703	female	paling kentang goreng
+[382.120,383.719]	G1703	female	french fries itu sih
+[388.419,390.498]	G1703	female	iya bener banget
+[396.700,397.490]	0	none	[*]
+[397.599,398.777]	G1703	female	apa ya
+[399.039,400.277]	G1703	female	di rumah ku
+[400.359,404.568]	G1703	female	makanan yang hits ya paling itu tadi yang aku sebutin sih
+[404.830,406.520]	G1703	female	burger itu
+[406.539,409.609]	G1703	female	terus oh ada lagi sekarang baru booming
+[410.020,411.859]	G1703	female	kayak apa ya
+[412.359,414.469]	G1703	female	pisang karamel itu juga
+[415.089,418.459]	G1703	female	uhh enak banget itu juga bikinnya gampang
+[419.560,422.539]	G1703	female	rasanya itu juga maniss banget
+[422.889,425.990]	G1703	female	kaya aku gitu
+[445.749,448.698]	G1703	female	keunikannya mungkin kan karena
+[449.350,453.320]	G1703	female	dari masing-masing makanan itu kan punya ciri khas sendiri-sendiri nih
+[453.789,460.190]	G1703	female	gitu sih biasanya kaya keunikannya apa ya biasanya kaya rasanya itu
+[460.190,466.070]	G1703	female	terus bentuknya terus cara nata di packingan
+[466.270,468.467]	G1703	female	wadahnya tersebut itu lo
+[469.506,470.960]	G1703	female	oh iya lupa
+[470.977,477.830]	G1703	female	kamu pernah enggak minum kaya fremilt bobatime gitu
+[480.850,482.150]	G1703	female	gimana rasanya
+[492.279,495.619]	G1703	female	hmm iya ya rasanya tu manis-manis
+[495.820,497.270]	G1703	female	kayak apa ya
+[497.440,503.479]	G1703	female	ya manis gitu lah kayak ada kentel-kentel kental-kentalan di bawah gitu
+[503.479,506.990]	G1703	female	kayak coklat-coklat gitu kan biasanya apa
+[507.039,509.119]	G1703	female	apa ya kayak bulet bulet
+[509.679,510.919]	G1703	female	apa tuh
+[513.669,516.079]	G1703	female	tapi kalau kamu suka enggak sih sama itu
+[523.270,524.538]	G1703	female	iya sih
+[524.740,527.900]	G1703	female	bikin anu ya enek gitu kayaan
+[527.979,529.460]	G1703	female	bener banget sih
+[529.569,531.650]	G1703	female	jadi kalau di
+[531.788,533.839]	G1703	female	diminum gitu sekaligus
+[534.069,536.358]	G1703	female	pasti diperut tu kenyang banget
+[536.829,538.699]	G1703	female	tapi itu kan
+[539.048,547.069]	G1703	female	rekomendasi banget lagi viral lagi booming kan di anak anak muda yang hits-hits gitu
+[547.449,552.650]	G1703	female	kan praktis gitu bisa dibawa kemana mana packingannya jugak
+[552.699,557.210]	G1703	female	cara tata-tata caranyadiwadahnya itu kayak
+[557.319,562.460]	G1703	female	apa ya kayak dihias-hias gitu kan biasanya terus kan juga
+[562.600,567.530]	G1703	female	udah banyak yang buka usaha kayak gitu sih
+[569.620,571.128]	G1703	female	makanya itu
+[578.199,583.970]	G1703	female	apa ya kalau buat kesehatan itu paling ya sayur-sayuran gitu sih menurut aku
+[586.809,587.900]	G1703	female	yang
+[588.669,596.449]	G1703	female	apa ya kalau menurutku sih yang ada wortel wortelnya gitu emang ma-menurut kamu minuman kayak apa
+[599.319,601.819]	G1703	female	oh iya bener banget tuh
+[602.829,605.000]	G1703	female	kaya wedang jahe itu juga
+[606.370,607.848]	G1703	female	kalau lagi
+[612.220,613.189]	G1703	female	iya
+[616.690,623.629]	G1703	female	iya benar banget ituitu tuh kalau badan kita lagi enggak enak kayak ngerasa apa ya
+[623.648,624.709]	G1703	female	kayak
+[625.478,626.898]	G1703	female	masuk angin gitu
+[626.948,631.638]	G1703	female	pasti kan pengennya itu yang anget-anget apa lagi kalau aduh kayak
+[631.718,637.940]	G1703	female	kedinginan gitu kan butuh yang anget-anget juga kan iyah bener banget itu Wedang Jahe itu
+[638.378,639.978]	G1703	female	paling mak enyus
+[640.988,642.440]	G1703	female	bisa
+[642.638,644.478]	G1703	female	rekomendasi banget itu
+[645.158,647.928]	G1703	female	tapi kayak kakek-kakek gitu nenek-nenek
+[648.578,651.049]	G1703	female	sukanya juga minum kayak gitu dong kita
+[652.779,655.669]	G1703	female	apa bedanya kita sama mereka
+[656.108,659.479]	G1703	female	tapi enggak papa ding yah demi kesehatan
+[662.768,664.849]	G1703	female	iya sih benar banget
+[666.248,669.018]	G1703	female	tapi menurut kamu
+[669.218,672.319]	G1703	female	makanan yang belum sempet
+[672.338,676.549]	G1703	female	kesampean itu buat kamu apa belum se-sempet kesampaian
+[676.808,680.449]	G1703	female	yang belum sempet kamu makan gitu belum pernah kamu cobain
+[693.848,699.440]	G1703	female	oh iya-iya-iya tau-tau itu lagi booming banget lagi viral juga itu
+[699.998,700.998]	G1703	female	kayak
+[701.019,708.589]	G1703	female	sebenarnya itu cuman Ayam digoreng pakek tepung cuman kan bumbu variasi atasnya itu kayak
+[708.589,710.119]	G1703	female	macam-macam gitu ya
+[710.678,714.979]	G1703	female	haduh itu benar itu paling rekomendasi tapi harganya ya gimana ya
+[715.059,716.119]	G1703	female	kalau
+[716.440,720.019]	G1703	female	kalau buat anak kuliahan sih ya mungkin
+[720.218,722.089]	G1703	female	terjangkau juga sih
+[722.168,724.489]	G1703	female	enggak terlalu mahal-mahal banget
+[725.498,728.748]	G1703	female	tapi cabangnya juga banyak kok itu udahan
+[728.949,731.178]	G1703	female	kayakRecheese Factory gitu kan
+[731.288,739.879]	G1703	female	iya udah pernah itu aku kebetulan aku ditraktir sama temanku waktu ulang tahun jadi
+[739.928,740.989]	G1703	female	dia kan
+[741.458,745.070]	G1703	female	tanya nih 'kamupingin makan apa'
+[745.148,751.279]	G1703	female	terus yang belum pernah kamu cobain itu apa yaudah aku bilang aja kan aku kan belum pernah juga makan itu
+[751.329,754.158]	G1703	female	ternyata enggak jauh dari yang
+[754.570,760.428]	G1703	female	apa yang dari kita itu disitu gitu loh yaudah pilih tempat makannya disitu aja
+[760.749,762.798]	G1703	female	terus akhirnya aku cobain kan
+[762.848,767.509]	G1703	female	ada di atasnya itu kayak ada keju melelehnya itu
+[767.708,768.499]	G1703	female	gitu
+[771.219,774.408]	G1703	female	jadi kamu sukanya yang asin-asin gitu ya
+[775.088,775.998]	0	none	[ENS]
+[780.759,786.259]	G1703	female	o gitu eh kamu tau enggak sih makanan khas Solo itu apa
+[790.690,792.738]	G1703	female	makanan khas Solo iya
+[793.178,794.389]	G1703	female	Nasi Liwet
+[794.469,795.738]	G1703	female	o iya
+[795.940,801.079]	G1703	female	betul benar banget terus kalau lainnya apa
+[801.488,802.699]	G1703	female	kamu tau enggak
+[805.059,806.208]	G1703	female	Nasi Liwet
+[806.259,810.619]	G1703	female	e setau aku sih Timlo itu sih Timlo Solo itu
+[810.639,813.288]	G1703	female	itu juga makanan khas Solo
+[813.759,820.518]	G1703	female	iyak itu haduh rasanya wah seger banget ya ampunapa lagi ditambahin sambal kecap
+[820.518,822.949]	G1703	female	tuh enak mantap banget
+[823.958,825.738]	G1703	female	mak nyus gitu
+[826.449,833.749]	G1703	female	ada rasa pedes-pedesnya kalau lagi pinginanget-anget tuh bisa keringetan gituaduh
+[835.779,837.079]	G1703	female	benar enggak sih
+[840.548,844.848]	G1703	female	emang kamu belum pernah nyobain udah pernah kan
+[849.848,858.768]	G1703	female	iya sihyaudahlah nanti coba searching aja di Googlekalau Timlo si ya sebenernya paling cuman tahu
+[859.268,865.669]	G1703	female	bumbu-bumbunya itu ya sedikit aja sih sama racikannya paling kan ada telur
+[865.669,874.548]	G1703	female	wortel ada bihun ituhiya kentang goreng itu terus apa ya kayak jamur-jamur yang item-item itu loh
+[875.200,876.200]	G1703	female	ya kan
+[877.209,884.748]	G1703	female	iya itu jamur itu terus apa ya paling bumbunya kayak pasti ada bawang putih
+[884.799,886.489]	G1703	female	bawang merah gitu
+[887.320,890.149]	G1703	female	ada garamnya juga ho o
+[890.709,893.989]	G1703	female	tapi terus enggak tahu cara bikinnya yang lainnya ohanu
+[894.278,896.509]	G1703	female	kayaknya itubuat
+[896.979,899.839]	G1703	female	apa ya kuahnya itu kayak ada
+[900.070,903.080]	G1703	female	di kasih kaldu Ayam gitujadi biar
+[903.080,910.098]	G1703	female	nambah semakin mak nyus aromanya rasanya juga jadi mantap waa gak bayangin ya
+[910.419,912.528]	G1703	female	aku pengen kapan-kapan itu
+[912.788,918.979]	G1703	female	e apa yah cari ituu gitu tapi dari rumahku jauh kalau Timlo Solo
+[919.118,923.149]	G1703	female	paling mamahku biasanya bikin sendiri sih kalau Timlo itu
+[925.569,927.529]	G1703	female	iya paling aku juga
+[927.610,928.490]	G1703	female	lihat
+[928.658,935.449]	G1703	female	dikit-dikit gitu caranya walaupun gak bisa seratus persen masak tapi kan sedikit-sedikit
+[935.449,940.788]	G1703	female	biar besok kalau udah nikah tu bisa masakin suami gitu
+[941.020,943.608]	G1703	female	sama anak anak kan enak
+[944.049,948.858]	G1703	female	tanpa harus ada pembantu gitu pembantu rumah tangga di sana kan
+[949.240,952.129]	G1703	female	pada ngandelin pembantu rumah tangga itu sih.
+[952.869,954.619]	G1703	female	iya itu biasanya
+[962.199,967.249]	G1703	female	kelebihan makanan cepat saji iya gimana ya kita nggak usah
+[967.718,969.919]	G1703	female	nggak perlu kayak
+[970.233,971.766]	G1703	female	tahu
+[971.771,978.589]	G1703	female	dari awal sampai akhir caranya gitu, maksudnya praktis gitu loh kayak kita tu misalnya nih
+[978.669,982.069]	G1703	female	lagi pergi kemana gitu kan tinggal
+[982.298,987.829]	G1703	female	anu tinggal Go Food aja sih jaman sekarang kan ada Grab sama Go Food nih
+[987.829,992.120]	G1703	female	kan tinggal ngantarin gitu tanpa kita harus antri juga
+[992.387,995.083]	G1703	female	kan tinggal bayar gitu kan paling
+[995.254,1000.760]	G1703	female	diantar nanti tinggal bayar tinggal makan wuehh jaman sekarang tapi aku nggak mau sih
+[1000.779,1005.829]	G1703	female	kayak eh ngandelin kayak gitu aku pengennya itu yah kayak
+[1005.909,1007.839]	G1703	female	usaha sendiri kan
+[1008.069,1011.199]	G1703	female	gimana yah kayak masakan sendiri itu kayak lebih
+[1011.400,1013.659]	G1703	female	enak nikmat gitu
+[1019.079,1020.260]	G1703	female	kamu
+[1030.150,1031.629]	G1703	female	iya sih
+[1040.317,1045.607]	G1703	female	iya benar banget cuma kan gimana yah kayak m,asakan sendiri itu kayak lebih
+[1045.959,1051.849]	G1703	female	lebih tau lah gimana caranya anunya gitu. eh tapi kamu
+[1051.849,1055.058]	G1703	female	perna gak sih alergi sama makanan
+[1055.260,1056.558]	G1703	female	apa gitu
+[1065.459,1067.900]	G1703	female	ohh itu sama aku juga
+[1067.950,1071.650]	G1703	female	aku alergi banget sama namanya udang
+[1071.908,1074.349]	G1703	female	kayak gimana ya aaahh
+[1074.879,1080.799]	G1703	female	bau aja gitu kalau mama papa ku pada beli itu aku pasti gak pernah makan kan
+[1080.849,1086.288]	G1703	female	cuma ngelihatin saja terus ih apaan tuh kayak gitu dimakan palingan aku gitu
+[1086.608,1090.670]	G1703	female	orang ngelihat aja bau nya udah bikin enek kan apalagi mau makan tuh
+[1090.929,1095.858]	G1703	female	aduh pas nanti jadi bentol-bentol bintik-bintik merah gitu
+[1096.150,1099.879]	G1703	female	jadi apa yah gatal gitu kulitnya he'eh
+[1099.900,1106.629]	G1703	female	benar banget karena aku kan alergi kayak gitu yah jadi aku juga jarang nggak pernah malahan
+[1106.739,1113.379]	G1703	female	makan. dulu aja pertama kali tu aduh kalau pas belum tau kalau punya alergi udang itu
+[1113.429,1114.908]	G1703	female	aduhhh
+[1115.858,1118.629]	G1703	female	nggak bakalan dah sampai sekarang.
+[1120.480,1121.959]	G1703	female	kamu suka
+[1122.280,1122.980]	G1703	female	ehhh
+[1123.000,1125.588]	G1703	female	bentar-bentar kamu suka buah nggak sih
+[1131.938,1134.230]	G1703	female	apa buah apa yang paling kamu suka
+[1144.299,1146.470]	G1703	female	jeruk sama apa tadi
+[1149.010,1152.289]	G1703	female	apel iya nih kalau apel tuh
+[1152.700,1154.629]	G1703	female	kesukaanku banget
+[1154.950,1157.868]	G1703	female	tapi kalau jeruk tu kadang aku nggak sukanya apa
+[1157.889,1160.510]	G1703	female	kayak ada asem-asemnya gitu
+[1164.069,1171.188]	G1703	female	iya tapi bikin perut aku tuh sakit gitu nggak enak langsungan makan kayak gitu tuh tapi
+[1171.188,1177.308]	G1703	female	iya ada positif nya juga sih, kadang kalau sariawan kan kena itu kan langsung
+[1177.308,1180.880]	G1703	female	gimana ya langsung jadi kempes gitu
+[1180.959,1185.229]	G1703	female	mengecil tapi aduh kadang itu perih banget
+[1190.618,1191.799]	G1703	female	iya
+[1202.380,1206.229]	G1703	female	okay deh Len dadah siap-siap
+[1206.429,1207.729]	G1703	female	oke

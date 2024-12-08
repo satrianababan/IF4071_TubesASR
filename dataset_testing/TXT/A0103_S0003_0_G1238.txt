@@ -1,0 +1,218 @@
+[1.870,2.809]	G1238	male	halo
+[3.309,4.340]	G1238	male	halo
+[7.929,9.890]	G1238	male	lagi di rumah ada apa La
+[10.180,11.479]	G1238	male	tumben nelpon
+[16.299,17.299]	G1238	male	apa
+[20.049,21.049]	G1238	male	kemana
+[27.279,29.359]	G1238	male	ya enggak apa-apa aku lagi
+[29.829,31.459]	G1238	male	gabut juga ini
+[36.639,38.059]	G1238	male	film horor
+[45.790,47.389]	G1238	male	lha kamu sukanya apa
+[54.729,57.110]	G1238	male	komedi apa nonton yang apa
+[64.509,66.919]	G1238	male	aku juga sudah lama enggak nonton ini
+[71.589,74.480]	G1238	male	kamu sukanya nonton dimana biasanya
+[82.179,83.540]	G1238	male	sama siapa aja
+[93.429,96.260]	G1238	male	nonton film ap-apa aja kamu disana
+[114.818,119.510]	G1238	male	aku kalau kesana seringnya nonton itu film horor
+[119.829,121.699]	G1238	male	enggak tau yang lain
+[129.850,131.239]	G1238	male	kenapa takut
+[139.600,140.509]	G1238	male	apa
+[142.699,144.228]	G1238	male	Sundel Bolong
+[148.630,152.720]	G1238	male	aku-aku dulu nonton itu sama
+[154.269,155.869]	G1238	male	itu siapa
+[156.459,157.639]	G1238	male	mantan aku
+[161.350,163.009]	G1238	male	terakhir kali itu
+[167.289,168.500]	G1238	male	sekarang
+[169.239,172.820]	G1238	male	pernah tapi dulu eh waktu itu sendiri
+[177.459,178.850]	G1238	male	enggak suka
+[179.109,180.559]	G1238	male	emang kamu suka
+[189.459,191.720]	G1238	male	aku enggak-enggak sering itu
+[195.250,197.629]	G1238	male	kamu terakhir nonton film apa
+[202.509,203.570]	G1238	male	apa
+[210.399,214.789]	G1238	male	hal yang kamu sukai saat nonton bioskop itu apa
+[220.329,224.539]	G1238	male	kalau komedi pasti pulang-pulangperutnya sakit
+[226.899,228.139]	G1238	male	ketawa
+[231.789,234.860]	G1238	male	tapi seru juga sih nonton komedi itu
+[238.088,239.449]	G1238	male	tapi aku lebih
+[240.820,242.179]	G1238	male	apa lagi apa
+[251.139,253.880]	G1238	male	tapi aku lebih sukanya nonton film horor
+[258.130,260.539]	G1238	male	suka aja lihat setan-setan itu
+[265.630,267.200]	G1238	male	film horor juga
+[273.039,274.940]	G1238	male	yang itu Susana
+[277.329,278.329]	G1238	male	tau enggak
+[283.690,286.820]	G1238	male	nonton-nonton film horor berani enggak
+[289.089,290.539]	G1238	male	kenapa enggak berani
+[291.760,293.058]	G1238	male	kan ada aku
+[306.039,307.369]	G1238	male	enggak apa-apa
+[308.890,312.440]	G1238	male	emang kamu suka n-nonton film yang romantis
+[315.850,317.119]	G1238	male	ceritain dong
+[320.289,322.068]	G1238	male	ya gitunya gimana
+[324.370,325.398]	G1238	male	terus
+[333.970,336.648]	G1238	male	la iya romantisnya gimana ceritain
+[347.050,351.078]	G1238	male	nonton film romantis sama pacar apa sama teman
+[358.448,360.078]	G1238	male	kenapa
+[367.569,370.669]	G1238	male	kapan kapan kapan pulang sekolah nonton yuk
+[373.419,375.018]	G1238	male	film horor ya tapi
+[380.409,382.249]	G1238	male	yaudah terserah
+[385.028,386.148]	G1238	male	di mana
+[387.670,388.940]	G1238	male	nonton T V
+[390.609,391.850]	G1238	male	jarang
+[393.130,394.429]	G1238	male	ke- kenapa emang
+[396.100,397.490]	G1238	male	juga jarang
+[400.990,402.740]	G1238	male	kirain ada apa
+[404.380,405.380]	0	none	[SONANT]
+[406.028,408.380]	G1238	male	aku kalau lihat T V pas ada sinetron
+[410.170,411.078]	G1238	male	iyalah
+[415.659,417.620]	G1238	male	yang di S C T V itu
+[421.300,424.730]	G1238	male	tapi aku daripada T V mending
+[424.749,426.259]	G1238	male	nonton film
+[434.888,436.278]	G1238	male	di H P berarti
+[446.740,449.029]	G1238	male	film yang terakhir kamu tonton apa
+[453.698,454.820]	G1238	male	komedi
+[459.010,461.779]	G1238	male	komedi pemainnya siapa aja yang mana
+[464.350,466.100]	G1238	male	komedi tentang apa
+[469.749,470.779]	G1238	male	tau
+[477.010,479.808]	G1238	male	yang kamu favoritin dari
+[480.490,483.079]	G1238	male	semua siapa tokoh film
+[487.148,488.539]	G1238	male	siapa hayo
+[496.058,498.320]	G1238	male	film yang paling bagus
+[498.518,500.779]	G1238	male	yang pernah kamu tonton itu apa
+[504.398,506.329]	G1238	male	London Love Story itu apa
+[511.089,512.600]	G1238	male	aku belum pernah
+[512.798,515.630]	G1238	male	nonton itu sama denger kata kata itu
+[523.119,524.178]	G1238	male	suka
+[525.038,526.579]	G1238	male	kalau Korea nggak
+[531.219,534.768]	G1238	male	sukanya kayak Fast and Farious itu suka
+[539.859,542.569]	G1238	male	ceritanya gimana sih London Love Story itu
+[548.619,550.069]	G1238	male	ingin tau
+[556.869,558.408]	G1238	male	hmm kenapa
+[563.408,565.130]	G1238	male	pas waktu kecil
+[568.480,571.100]	G1238	male	pas waktu kecil itu
+[572.649,575.299]	G1238	male	sep itu apa Oskar tau nggak
+[578.200,579.380]	G1238	male	Oskar
+[582.100,583.339]	G1238	male	apa coba
+[583.929,585.408]	G1238	male	ee kartun
+[587.589,588.709]	G1238	male	iya
+[589.058,590.118]	G1238	male	iya
+[595.749,596.959]	G1238	male	iya
+[603.459,605.118]	G1238	male	emang kamu
+[606.100,609.440]	G1238	male	film yang kamu suka waktu masih kecil apa
+[621.908,624.739]	G1238	male	Shawn the Sheep dulu suka
+[628.029,629.480]	G1238	male	yaudah besar
+[631.029,632.779]	G1238	male	nontonnya romantis
+[641.320,642.320]	G1238	male	yangg
+[643.330,644.959]	G1238	male	hoo lupa-lupa
+[648.038,650.358]	G1238	male	itukan tontonannya cewek
+[652.989,654.199]	G1238	male	Rudi apa
+[665.288,666.439]	G1238	male	yang mana
+[671.438,672.679]	G1238	male	lupaaa
+[673.450,674.628]	G1238	male	sudah lama
+[678.368,682.548]	G1238	male	Doraemon aku sekarang juga masih nonton
+[682.719,684.079]	G1238	male	tapi jaranggg
+[691.928,693.438]	G1238	male	kartun tapi
+[697.388,700.368]	G1238	male	hal yang didapat dari film tersebut apa memang
+[708.189,710.239]	G1238	male	memang kamu lebih suka film
+[710.799,712.279]	G1238	male	kartun apa
+[713.319,715.100]	G1238	male	yang kartun apa biasa
+[725.859,728.358]	G1238	male	lebih suka film Indonesia apa luar negri
+[732.459,734.059]	G1238	male	kenapa enggak luar negeri
+[743.019,745.309]	G1238	male	katanya kamu pinter bahasa Inggris
+[750.396,752.689]	G1238	male	genre film favorit kamu apa
+[760.629,761.929]	G1238	male	kok lupa
+[765.909,766.789]	G1238	male	apa
+[774.458,775.909]	G1238	male	yang film apa
+[776.830,777.528]	0	none	[SONANT]
+[780.009,782.748]	G1238	male	aku enggak ada yang aku favoritin sih
+[787.659,789.618]	G1238	male	semuanya akufavoritin
+[799.418,801.289]	G1238	male	aku sukanya horor
+[806.918,810.259]	G1238	male	kalau dirumah juga seringnonton film horor itu
+[812.980,815.778]	G1238	male	kalau di rumah seringnonton film horor
+[817.418,818.480]	G1238	male	iyalah
+[822.549,824.027]	G1238	male	iya enggak
+[830.557,831.739]	G1238	male	engga takut
+[836.168,837.709]	G1238	male	kan biar jadi temen
+[843.248,844.427]	G1238	male	enggak apa-apa
+[847.659,848.748]	G1238	male	ho engga
+[856.538,858.049]	G1238	male	ya itu kan kamu
+[867.788,869.119]	G1238	male	yang engga lah
+[874.659,878.359]	G1238	male	iya nanti nonton film horor atau komedi ya
+[884.648,886.999]	G1238	male	komedi tentang yang-yang apa
+[893.259,894.918]	G1238	male	yang bikin ketawa lah
+[898.240,899.179]	G1238	male	apa
+[904.960,906.950]	G1238	male	lha apa hayoo
+[910.719,911.450]	G1238	male	apa
+[914.408,915.649]	G1238	male	kapal oleng
+[924.069,927.589]	G1238	male	yang seru itu apa sih kalau di komedi itu
+[928.899,930.319]	G1238	male	yang paling seru
+[937.839,939.710]	G1238	male	aku jarang nonton itu
+[946.508,949.579]	G1238	male	film komedi yang pernah kamu tonton apa saja
+[962.678,963.588]	G1238	male	apa
+[967.088,967.998]	G1238	male	apa
+[970.269,972.889]	G1238	male	Koki Cilik artisnya siapa saja
+[976.988,978.320]	G1238	male	ya siapa
+[982.268,985.339]	G1238	male	masak kamu suka nonton itu enggak tau namanya
+[988.960,990.558]	G1238	male	ceritanya gimana itu
+[999.308,1000.278]	G1238	male	eem
+[1002.729,1003.668]	G1238	male	terus
+[1018.779,1019.690]	G1238	male	terus
+[1032.669,1035.228]	G1238	male	tapi bikin ketawa enggak kalau nonton itu
+[1038.818,1040.808]	G1238	male	yang lucu pas bagian apa
+[1054.118,1055.390]	G1238	male	Karma berarti
+[1062.430,1064.268]	G1238	male	nonton film itu saja
+[1071.639,1072.700]	G1238	male	apa ada
+[1075.779,1077.650]	G1238	male	ya nanti nonton itu saja
+[1083.338,1084.338]	G1238	male	yang apa
+[1086.700,1088.420]	G1238	male	romantis film apa
+[1097.799,1100.210]	G1238	male	lah iya apa yang paling kamu suka
+[1107.969,1109.180]	G1238	male	pinginya apa
+[1113.219,1114.609]	G1238	male	kok lupa
+[1119.189,1120.519]	G1238	male	Dilan saja
+[1125.368,1126.368]	G1238	male	memang
+[1126.568,1127.900]	G1238	male	memang masih ada
+[1136.588,1137.650]	G1238	male	yang apa
+[1142.170,1143.170]	G1238	male	belum
+[1143.279,1144.460]	G1238	male	belum pernah
+[1150.210,1151.808]	G1238	male	ya ditonton lagi dong
+[1157.139,1158.588]	G1238	male	enggak seru berarti
+[1169.258,1170.950]	G1238	male	di bioskop saja
+[1177.689,1179.529]	G1238	male	film yang lainnya saja
+[1183.749,1185.288]	G1238	male	yang romantis kan
+[1187.978,1190.568]	G1238	male	ya kamu pilih yang mana terserah
+[1191.008,1192.519]	G1238	male	yang romantis kan
+[1193.139,1195.849]	G1238	male	aku enggak tau film romantis apa saja
+[1205.650,1207.970]	G1238	male	menurut aku ya
+[1209.130,1210.338]	G1238	male	lumayan sih
+[1213.660,1214.630]	G1238	male	iya
+[1222.239,1222.970]	G1238	male	lah ke
+[1224.548,1225.759]	G1238	male	lah kenapa
+[1233.910,1236.289]	G1238	male	kalau di bioskop memang enggak ada
+[1240.900,1242.768]	G1238	male	yang masih tayang saja
+[1247.979,1248.979]	G1238	male	apa
+[1252.630,1256.298]	G1238	male	dua duanya tapi paling sering itu nonton
+[1256.558,1257.589]	G1238	male	bioskop
+[1258.150,1259.358]	G1238	male	nonton film
+[1265.230,1266.618]	G1238	male	iya
+[1266.969,1268.689]	G1238	male	enggak terlalu penting
+[1268.920,1270.039]	G1238	male	cuma buat
+[1270.689,1271.778]	G1238	male	apa iya
+[1271.799,1272.709]	G1238	male	iya
+[1277.258,1280.180]	G1238	male	menurut kamu kalo perkembangan film gimana
+[1286.589,1287.709]	G1238	male	apa
+[1289.528,1290.950]	G1238	male	iya nanti
+[1291.359,1292.359]	G1238	male	apa
+[1297.480,1299.380]	G1238	male	iya kamu maunya apa
+[1299.910,1303.399]	G1238	male	kalo aku sukanya horor kalo kamu mau iya horor aja
+[1305.848,1306.819]	G1238	male	apa
+[1308.430,1309.999]	G1238	male	iya enggak papa
+[1319.469,1320.410]	G1238	male	kapan
+[1323.368,1324.910]	G1238	male	nanti malem aja
+[1338.068,1339.549]	G1238	male	iya enggak papa
+[1340.618,1342.489]	G1238	male	nanti malem aku jemput
+[1344.130,1348.068]	G1238	male	kalau enggak sore aja nanti jalan dulu lagi nonton film
+[1348.420,1349.420]	G1238	male	gimana
+[1352.890,1354.368]	G1238	male	iya nanti aku jemput
+[1360.299,1361.210]	G1238	male	apa
+[1371.460,1372.910]	G1238	male	iya iya
+[1375.059,1376.809]	G1238	male	iya ok
+[1377.159,1379.659]	G1238	male	iya udah istirahat sana nanti aku jemput
+[1381.690,1383.528]	G1238	male	ha bye bye

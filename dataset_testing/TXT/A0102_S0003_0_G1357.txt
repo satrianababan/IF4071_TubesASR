@@ -1,0 +1,164 @@
+[1.240,2.210]	G1357	male	halo
+[5.500,7.730]	G1357	male	gimana nih Vila kabarnya
+[12.520,15.199]	G1357	male	hmm puji Tuhan aku juga baik juga
+[22.510,24.739]	G1357	male	biasalah kan ya
+[25.540,27.590]	G1357	male	baru ada waktu luang ini
+[31.540,35.330]	G1357	male	loh kan aku emang sibuk ngurus kerjaan itu
+[40.930,44.330]	G1357	male	ini aku mau bahas tentang makanan ni
+[46.119,47.029]	G1357	male	kata
+[48.520,52.310]	G1357	male	ngga kan aku tau kalo kamu suka banget sama makan
+[54.099,55.250]	G1357	male	iya
+[59.290,60.439]	G1357	male	jela
+[64.150,65.300]	G1357	male	ahh
+[66.069,68.540]	G1357	male	kamu abis makan apa ayo
+[70.300,71.419]	G1357	male	iya
+[74.230,75.260]	G1357	male	lauknya
+[79.540,80.720]	G1357	male	lauknya apa
+[87.519,89.629]	G1357	male	ya kan yang makan kamu
+[102.160,103.849]	G1357	male	hmm kamu mah
+[103.959,105.319]	G1357	male	kalo aku chart
+[106.480,109.730]	G1357	male	tadi abis makan oseng oseng tempe
+[113.589,114.830]	G1357	male	iya
+[124.599,125.629]	G1357	male	iye
+[125.739,126.680]	0	none	[*]
+[137.470,139.429]	G1357	male	kalo dessert si
+[142.929,145.429]	G1357	male	apa ya keliatannya nganu
+[145.660,147.350]	G1357	male	roti keju itu
+[149.529,150.529]	G1357	male	iya
+[151.300,152.779]	G1357	male	iyalah boleh
+[153.729,154.820]	G1357	male	iya
+[162.220,163.338]	G1357	male	iya
+[166.418,167.240]	G1357	male	uh
+[171.100,173.179]	G1357	male	wang ngga dulu dong
+[176.500,177.800]	G1357	male	ya gapapa
+[178.839,179.720]	G1357	male	hmm
+[180.250,182.660]	G1357	male	kalo dessert kesukaan kamu sendiri apa
+[189.610,191.539]	G1357	male	oh terang bulan
+[193.149,194.300]	G1357	male	topingnya
+[199.419,200.960]	G1357	male	nda pake kacang
+[203.619,204.649]	G1357	male	hmm
+[207.100,210.440]	G1357	male	alesanmu suka sama terang itu apa
+[217.149,218.509]	0	none	[LAUGHTER]
+[221.589,223.580]	G1357	male	kalo kamu suka
+[224.020,227.330]	G1357	male	kalo kamu suka berarti tau cara buatnya dong
+[242.350,243.649]	G1357	male	iya iya iya
+[253.479,254.360]	G1357	male	iya
+[263.529,266.329]	G1357	male	ah aku si semua makanan suka ya
+[266.679,270.170]	G1357	male	tapi paling suka tu nasi goreng spesial
+[272.290,273.230]	G1357	male	iya
+[275.320,276.950]	G1357	male	karena gimana ya
+[277.299,280.040]	G1357	male	rempah bumbunya tu kerasa semua loh
+[280.059,281.959]	G1357	male	kalo dimasak jadi satu
+[283.809,284.839]	G1357	male	iya
+[286.329,287.839]	G1357	male	bisa dong
+[290.290,291.500]	G1357	male	iya
+[293.619,295.070]	G1357	male	bawangnya ya
+[295.119,298.100]	G1357	male	banyak biasanya aku pake bumbu racik itu
+[300.429,301.399]	G1357	male	iya
+[302.350,303.320]	G1357	male	iya
+[314.409,315.589]	0	none	[*]
+[325.778,327.320]	G1357	male	kecap
+[340.028,344.719]	G1357	male	kalau yang baru-baru hits dianak muda ni banyak coffee shop itu lo
+[344.949,349.669]	G1357	male	banyak yang produksi iya banyak yang produksi kopi kayak
+[349.669,354.409]	G1357	male	cappucino espresso americano sama yang lainnya gitu
+[363.669,364.759]	G1357	male	iya
+[372.457,374.120]	G1357	male	iya juga sih
+[385.957,391.220]	G1357	male	ya biasanya itu yang sering dipesan sama anak muda itu
+[394.300,399.707]	G1357	male	kalau menurut kamu sendiri sih makanan yang sedang hits baru-baru ini apa
+[400.870,402.199]	G1357	male	di rumah kamu
+[404.079,405.018]	G1357	male	iya
+[428.199,430.129]	G1357	male	oh
+[431.050,434.510]	G1357	male	yang unik dari makanan hits itu apa ya
+[434.587,438.349]	G1357	male	kok banyak banget yang minat beli ke sana
+[438.398,440.087]	G1357	male	kok banyak banget yang
+[440.169,448.609]	G1357	male	ee publikin ke Instagram lah ke Whatsapp lah ke sosmed yang lain tu kira-kira kuin-keunikannya apa ya
+[457.599,458.629]	G1357	male	iya
+[472.659,474.528]	G1357	male	oh iya
+[482.349,484.039]	G1357	male	ya pernah lah
+[486.519,492.049]	G1357	male	ya rasanya itu gimana ya-ya enak kan campuran susu sama
+[492.609,495.019]	G1357	male	ee terasa yang lain gitu
+[507.578,508.640]	G1357	male	emm iya
+[513.098,515.269]	G1357	male	biasanya red velvet itu
+[520.778,526.098]	G1357	male	kalau suka sih suka tapi kalau kebanyakan kan juga nanti bikin mual
+[531.608,532.700]	G1357	male	iya
+[547.329,548.299]	G1357	male	iya
+[564.969,565.668]	G1357	male	he em
+[572.799,576.379]	G1357	male	kan tadi kan udah bahas makanan kesukaan
+[576.520,581.329]	G1357	male	sekarang kalau makanan yang berguna buat kesehatan itu menurut kamu apa aja
+[589.719,591.918]	G1357	male	kalau minuman juga ada lo
+[593.529,594.469]	G1357	male	iya
+[601.179,602.809]	G1357	male	wedang jahe
+[606.368,608.059]	G1357	male	walaupun wedang
+[610.329,615.499]	G1357	male	wedang jahe itu minu kan minuman tradisional di Solo ya
+[615.759,620.119]	G1357	male	tu walaupun sederhana tapi kan juga bermanfaat buat tubuh
+[627.878,629.090]	G1357	male	masuk angin
+[639.250,640.278]	G1357	male	iya
+[644.169,645.138]	G1357	male	iya
+[655.028,656.179]	G1357	male	iya
+[663.159,666.019]	G1357	male	ya kan selain nina juga si hadendi
+[684.879,689.330]	G1357	male	kalo aku si anu kaya apa tu namanya
+[690.220,692.179]	G1357	male	ya kaya Recheese gitu loh
+[692.230,695.569]	G1357	male	yang ayam Kentucy nanti dikasih
+[695.888,698.870]	G1357	male	saus keju yang pedes
+[703.959,705.259]	G1357	male	kaya
+[714.069,715.009]	G1357	male	iya
+[733.388,734.418]	G1357	male	iya
+[735.190,736.129]	G1357	male	iya
+[761.350,762.619]	G1357	male	oh
+[771.369,773.899]	G1357	male	nah yang enak tu di situ
+[778.330,782.298]	G1357	male	ya bukan asin sih gurih manis gitu loh
+[791.380,792.798]	G1357	male	Solo ya
+[793.720,794.809]	G1357	male	apa ya
+[794.889,796.279]	G1357	male	nasi liwet
+[796.899,798.048]	G1357	male	nasi liwet kan
+[798.309,799.339]	G1357	male	nah
+[807.250,808.639]	G1357	male	selainya apa ya
+[814.839,815.960]	G1357	male	uhh
+[817.089,819.229]	G1357	male	iya yang seger banget itu ya
+[824.740,825.979]	G1357	male	wah
+[829.960,831.500]	G1357	male	kadang kalo
+[836.559,837.889]	G1357	male	hmm
+[841.330,844.819]	G1357	male	ya keliatannya bener ga tau juga si
+[848.679,853.429]	G1357	male	kalo timusi udah pernah tapi asal muasalnya tu belum tau aku
+[871.119,872.450]	G1357	male	kentang
+[878.200,880.158]	G1357	male	jamur tiram apa apa itu
+[890.799,892.190]	G1357	male	garam
+[896.049,896.750]	0	none	[LAUGHTER]
+[909.730,911.269]	G1357	male	wah
+[914.440,915.380]	G1357	male	iya
+[928.419,930.260]	G1357	male	hmm gitu ya
+[944.950,946.156]	G1357	male	iya
+[956.679,957.738]	G1357	male	hmm
+[958.779,964.879]	G1357	male	kalau menurut kamu kelebihan dari makanan cepat saji itu apa
+[996.610,998.223]	G1357	male	eeem
+[998.247,999.529]	G1357	male	iya
+[1018.118,1020.410]	G1357	male	hmm iya betul juga ya
+[1022.589,1025.210]	G1357	male	kalau soal makanan sendiri ya
+[1025.710,1032.827]	G1357	male	eh kan kekurangan dari masakan sendiri kan waktu penyajiannya lebih lama
+[1032.889,1035.792]	G1357	male	terus juga
+[1035.848,1039.309]	G1357	male	butuh tenaga ekstra juga buat kayak
+[1039.509,1043.688]	G1357	male	beli bahan-bahannya atau tahap pengolahannya
+[1054.059,1054.938]	G1357	male	iya
+[1060.960,1063.188]	G1357	male	kalau makanan tuh
+[1063.629,1064.780]	G1357	male	udang
+[1065.849,1067.599]	G1357	male	seafood gitu
+[1085.020,1086.020]	G1357	male	eeem
+[1097.829,1099.549]	G1357	male	iya jadi
+[1099.629,1101.799]	G1357	male	jadi gatal badannya
+[1110.668,1112.680]	G1357	male	eeem
+[1120.900,1121.659]	0	none	[SONANT]
+[1123.719,1125.290]	G1357	male	eeem selain
+[1131.040,1132.818]	G1357	male	kalau buah sih
+[1133.260,1134.799]	G1357	male	eeem suka
+[1140.188,1142.150]	G1357	male	buah yang Manda suka ya
+[1142.559,1145.839]	G1357	male	iya kayak apel jeruk
+[1145.918,1146.918]	G1357	male	gitu
+[1150.779,1151.868]	G1357	male	apel
+[1165.719,1167.409]	G1357	male	kan yang enak itu
+[1185.249,1186.609]	G1357	male	hmm ya
+[1191.249,1192.568]	G1357	male	hmm
+[1192.568,1193.868]	G1357	male	gitu
+[1194.068,1196.118]	G1357	male	terus apa itu namanya
+[1197.188,1199.930]	G1357	male	kan kita udah bahas makanan nih
+[1200.159,1205.630]	G1357	male	jadi next time aja langsung kunjungin tempat-tempat buat makan ya
+[1208.469,1211.938]	G1357	male	ya udah ya

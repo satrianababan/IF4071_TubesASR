@@ -1,0 +1,5 @@
+CHANNEL	SPEAKER_ID	GENDER	AGE	REGION,CITY	DEVICE
+C0	G1357	M	23	Indonesia,Central Java,Solo	OPPO A9
+C0	G1703	F	23	Indonesia,Central Java,Solo	OPPO A9
+C0	G1238	M	25	Indonesia,Central Java,Solo	OPPO A9
+C0	G1301	F	21	Indonesia,Central Java,Solo	HUAWEI P9

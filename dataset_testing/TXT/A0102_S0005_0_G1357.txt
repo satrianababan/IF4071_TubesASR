@@ -1,0 +1,149 @@
+[1.389,2.269]	G1357	male	halo
+[6.639,8.239]	G1357	male	gimana nih kabarnya
+[13.539,16.218]	G1357	male	hmm puji Tuhan baik juga
+[23.440,27.559]	G1357	male	mau tanya punya waktu luang buat olahraga nggak ya
+[30.879,31.610]	G1357	male	eeem
+[42.880,44.750]	G1357	male	hmm ngak
+[44.979,47.720]	G1357	male	berarti besok Minggu bisa jogging dong
+[49.659,50.630]	G1357	male	iya
+[54.880,58.069]	G1357	male	ya kan biar sehat gitu
+[69.069,69.919]	G1357	male	ya
+[71.440,75.139]	G1357	male	ya nggak bukannya kurusan kan sehat nanti
+[79.959,80.900]	G1357	male	halo
+[81.010,86.209]	G1357	male	kalau boleh tanya olahraga yang pernah kamu lakuin itu apa aja ya
+[101.199,104.239]	G1357	male	owalah berarti khusus perempuan ya
+[124.209,125.930]	G1357	male	oh ya
+[128.287,129.199]	G1357	male	iya
+[129.787,134.119]	G1357	male	hmm terakhir di mana sama kapan kamu basket itu
+[167.860,169.610]	G1357	male	iya boleh lah
+[177.669,180.440]	G1357	male	apa ya eh olahraga tuh
+[180.940,182.660]	G1357	male	semua tak sukai
+[186.369,189.889]	G1357	male	iya tapi paling sering futsal akhir akhir ini
+[200.949,202.100]	G1357	male	iya
+[211.600,212.720]	G1357	male	iya
+[217.149,218.179]	G1357	male	eeem
+[218.949,225.559]	G1357	male	hmm ganti ganti tempat sih kayak eh A N S F I F A futsal Solo itu
+[225.970,227.720]	G1357	male	terus S C F
+[228.279,232.399]	G1357	male	kalau nggak di Koloncan banyak sih tempatnya
+[235.779,239.419]	G1357	male	iya kadang ya tanding antar kampung lah
+[240.759,246.259]	G1357	male	kalau nggak turnamen tingkat kota tingkat provinsi gitu
+[254.169,256.459]	G1357	male	iya pasti menang lah
+[260.170,261.890]	G1357	male	loh kok ngga percaya
+[263.019,267.200]	G1357	male	kan ya kalau terbiasa olahraga kan ya
+[267.670,270.950]	G1357	male	pasti fisiknya juga terbentuk sendiri
+[281.739,282.679]	G1357	male	hmm ya
+[285.640,287.420]	G1357	male	tadi kan nganu
+[287.589,290.089]	G1357	male	kamu suka sama basket kan
+[290.200,291.589]	G1357	male	alasannya apa
+[294.700,295.549]	G1357	male	iya
+[338.440,342.709]	G1357	male	terus kan di sekolah juga ada ekstra kurikuler basket kan
+[343.089,347.000]	G1357	male	ikut atau kamu lebih sering belajar sendiri di rumah
+[375.159,377.120]	G1357	male	eeem gitu
+[381.578,385.369]	G1357	male	kalau aku tu lebih sering di luar sih
+[385.810,387.680]	G1357	male	sama temen-temen
+[387.819,389.839]	G1357	male	satu tongkrongan itu
+[390.129,392.240]	G1357	male	kadangkan fu-sering futsal
+[393.879,399.078]	G1357	male	tapi kalau di sekolah ikut ekstranya itu jarang aktif aku
+[403.659,404.659]	G1357	male	iya
+[406.180,407.148]	G1357	male	iya
+[409.810,410.810]	G1357	male	iya
+[426.579,427.550]	G1357	male	emmm
+[432.940,436.550]	G1357	male	kalau kemarin yang turnamen di
+[436.569,438.649]	G1357	male	Pandawa itu tingkat
+[439.569,442.970]	G1357	male	provinsi Jawa Tengah sama D I Y itu
+[443.110,445.819]	G1357	male	gugur waktu delapan besar sih
+[445.870,447.948]	G1357	male	belum sempat ngangkat piala
+[452.470,453.768]	G1357	male	belum dapat
+[456.489,459.919]	G1357	male	dari berapa tim ya lupa aku kelihatannya
+[460.388,461.540]	G1357	male	empat puluh
+[473.050,474.888]	G1357	male	walaupun gugur yaa
+[478.539,479.630]	G1357	male	eem ya
+[488.828,489.919]	G1357	male	engga
+[496.449,500.328]	G1357	male	kalau atlit kesukaanmu itu siapa ayo
+[531.190,532.490]	G1357	male	oo ya
+[534.309,537.110]	G1357	male	kalau atlit kesukaanku tu
+[537.158,539.119]	G1357	male	Christiano Ronaldo
+[545.619,547.759]	G1357	male	banyak banget fansnya
+[553.720,554.720]	G1357	male	iya
+[557.529,558.830]	G1357	male	banyak sih
+[562.330,565.250]	G1357	male	wah nyebutin nanti capekno aku
+[572.169,573.589]	G1357	male	iya apa
+[577.839,581.779]	G1357	male	kalau futsal sih rutin seminggu sekali
+[582.639,584.509]	G1357	male	tiap hari Rabu
+[588.069,589.158]	G1357	male	iya
+[592.449,596.630]	G1357	male	kalau menurut kamu itu olahraga rutin itu perlu atau enggak sih
+[634.569,635.779]	G1357	male	eem
+[635.919,636.829]	G1357	male	gitu
+[639.158,641.808]	G1357	male	kan tadi olahraga itu
+[642.158,643.428]	G1357	male	penting ya
+[645.100,645.980]	G1357	male	kalau
+[646.989,649.369]	G1357	male	kalau penting itu berarti
+[649.419,652.549]	G1357	male	enggak harus dilakukan sama temen dong
+[655.899,659.269]	G1357	male	berarti olahraganya tu ngga ngga perlu ada temen
+[659.469,661.428]	G1357	male	olahraga sendiri bisa kan
+[680.920,682.309]	G1357	male	sepi gitu
+[690.939,691.790]	0	none	[*]
+[717.069,722.509]	G1357	male	kalo aku si ya menurutku kedu- keduanya sama sama penting
+[724.059,727.608]	G1357	male	baik olahraga sendiri maupun
+[727.868,731.539]	G1357	male	secara tim kan ya menurutku penting semua
+[733.270,734.149]	G1357	male	kalo
+[734.980,741.230]	G1357	male	kalo umpama olahraga secara i- individual atau pribadi kan
+[741.248,745.579]	G1357	male	nanti kaya push up sit up gitu kan di rumah juga bisa
+[746.020,750.319]	G1357	male	kalo secara tim nanti waktu futal itu
+[756.490,758.118]	G1357	male	nah iya biar
+[758.618,760.399]	G1357	male	bia jadi kuat
+[764.079,766.789]	G1357	male	hmm kalo menurutmu selain
+[766.929,768.319]	G1357	male	dari
+[769.030,773.270]	G1357	male	dari segi fisik olahraga tu berpengaruh terhadap pikiran ngga
+[826.119,829.699]	G1357	male	sebenarnya tu olahraga ada pengaruhnya lo
+[832.119,840.410]	G1357	male	iya nanti kalo olahraga secara teratur atau rutin nanti pikirannya jadi lebih fresh
+[840.849,843.410]	G1357	male	terus kondisi mentalnya juga
+[843.430,844.999]	G1357	male	stabil gitu lah
+[851.978,853.968]	G1357	male	nah itu
+[859.900,863.358]	G1357	male	hm kalo menurutmu selain
+[864.040,867.770]	G1357	male	dari futsal atau yang lain itu
+[867.849,871.430]	G1357	male	yang cocok buat aku tu apa rekomendasiin dong
+[876.849,878.358]	G1357	male	dareng
+[881.410,883.490]	G1357	male	apa ngga suka renang aja
+[886.900,887.839]	G1357	male	iya
+[898.900,900.138]	G1357	male	hm ya
+[909.400,910.608]	G1357	male	apa ya
+[911.978,916.400]	G1357	male	keliatannya cuman itu sih kalo yang cocok buat aku
+[920.408,921.949]	G1357	male	palingan cuman
+[922.060,924.858]	G1357	male	long match kaya lari jarak jauh gitu
+[935.680,936.740]	G1357	male	iya
+[951.970,953.000]	G1357	male	iya
+[958.960,961.039]	G1357	male	hm gitu ya
+[961.688,967.279]	G1357	male	kalo aku boleh rekomendasiin ke kamu sih mending kamu lebih ke
+[967.298,971.918]	G1357	male	senam aerobik atau senam irama itu
+[986.897,991.285]	G1357	male	nah iya
+[997.400,1001.453]	0	none	[ENS]
+[1001.511,1002.423]	0	none	[ENS]
+[1002.492,1005.198]	0	none	[ENS]
+[1005.219,1011.049]	G1357	male	itu banyak diminati anak muda zaman sekarang loh
+[1011.069,1013.389]	G1357	male	apalagi perempuan itu
+[1013.415,1015.363]	0	none	[ENS]
+[1015.449,1018.099]	G1357	male	apalagi yang perempuan perempuan itu
+[1021.521,1025.302]	0	none	[ENS]
+[1025.347,1027.040]	G1357	male	langsung joget
+[1027.079,1031.384]	0	none	[ENS]
+[1031.470,1033.700]	G1357	male	kamu pernah ngikutin itu nggak
+[1033.703,1037.048]	0	none	[ENS]
+[1037.108,1041.558]	G1357	male	pernah ikut pernah ikut senam aerobik di mana kek
+[1044.399,1045.489]	G1357	male	di mana
+[1087.690,1089.408]	G1357	male	woh berarti
+[1089.483,1090.185]	0	none	[ENS]
+[1090.185,1092.452]	G1357	male	bisa kurus dong
+[1116.489,1118.554]	G1357	male	woh gitu
+[1125.128,1128.349]	G1357	male	kalo kamu pernah menang kejuaraan nggak
+[1145.739,1146.739]	G1357	male	moiii
+[1147.464,1148.734]	0	none	[LAUGHTER]
+[1150.895,1157.480]	G1357	male	emm jadi yang rekomended itu tempatnya selebriti fitnes itu ya
+[1180.212,1181.783]	0	none	[ENS]
+[1182.099,1183.489]	G1357	male	ohhh
+[1184.349,1185.769]	G1357	male	ke oke
+[1186.569,1188.379]	G1357	male	makasih ya infonya
+[1190.588,1191.349]	G1357	male	oh
+[1193.163,1194.985]	0	none	[ENS]
+[1195.030,1198.969]	G1357	male	oke next time kalo mau sana aku kabarin
+[1201.389,1203.230]	G1357	male	oke bye

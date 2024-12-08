@@ -1,0 +1,222 @@
+[0.009,0.949]	G1238	male	mualaikum
+[2.740,3.710]	G1238	male	halo
+[6.429,7.579]	G1238	male	lagi apa
+[12.220,13.670]	G1238	male	lagi sibuk enggak
+[18.010,19.129]	G1238	male	kamu
+[21.549,23.120]	G1238	male	cari tempat makan yok
+[25.149,27.079]	G1238	male	nong- nongkrong
+[32.830,36.439]	G1238	male	kamu sukanya kemana itu tempat
+[36.459,37.490]	G1238	male	makanan
+[48.130,49.520]	G1238	male	steak
+[49.569,50.450]	G1238	male	steak
+[51.700,52.939]	G1238	male	kok bisa sama
+[57.310,59.119]	G1238	male	kok suka makanan itu sih
+[66.970,68.389]	G1238	male	kamu lagi apa
+[75.489,76.790]	G1238	male	udah makan
+[83.379,86.750]	G1238	male	kalau aku di resto Manahan itu
+[90.580,91.550]	G1238	male	bukan
+[94.809,95.959]	G1238	male	Wedangan
+[102.069,103.160]	G1238	male	ya sama
+[106.360,107.989]	G1238	male	aku kemarin ketemu
+[109.629,110.540]	G1238	male	iya
+[111.760,113.870]	G1238	male	makan yang lagi
+[114.370,115.760]	G1238	male	viral itu apa sih
+[124.180,125.360]	G1238	male	minuman apa
+[132.429,134.660]	G1238	male	enggak dalgona itu apa
+[141.369,143.300]	G1238	male	aku nggak tahu itu apa
+[146.649,148.429]	G1238	male	makanan atau minuman
+[151.509,152.779]	G1238	male	minuman apa
+[157.419,158.300]	G1238	male	teros
+[169.509,171.800]	G1238	male	oh kamu dulu pernah buat kok ya
+[175.869,177.889]	G1238	male	oh yang
+[178.029,179.479]	G1238	male	mirip coklat itu
+[182.229,183.949]	G1238	male	emang bisa buat kamu
+[193.059,194.660]	G1238	male	susah enggak buatnya
+[206.979,208.279]	G1238	male	ngaduk kopi
+[218.229,220.070]	G1238	male	kamu bisa buat apa lagi
+[224.169,225.440]	G1238	male	bisa masak
+[229.869,231.080]	G1238	male	masak apa
+[240.460,244.429]	G1238	male	kamu kalau masak yang paling mudah dibuat itu apa
+[249.160,250.130]	G1238	male	apa
+[254.830,257.660]	G1238	male	mie goreng gampanglah paling gampang itu
+[265.600,268.489]	G1238	male	makanan yang lagii
+[269.739,272.119]	G1238	male	viral itu kan yang pedes-pedes itukan
+[276.730,277.850]	G1238	male	seblak
+[281.890,282.920]	G1238	male	kenapa
+[293.170,294.500]	G1238	male	kamu asli mana
+[298.660,299.869]	G1238	male	makanan
+[300.010,302.510]	G1238	male	Solo apa Jakarta kalau kamu
+[314.290,315.109]	G1238	male	dawet
+[315.429,316.610]	G1238	male	dapat apa
+[321.489,322.878]	G1238	male	yang minuman
+[325.089,326.148]	G1238	male	kenapa
+[332.679,336.918]	G1238	male	aku engga tahu daerah Solo soalnya kan aku orang Jogja
+[346.057,347.177]	G1238	male	iya
+[357.339,361.458]	G1238	male	es dawet itu kayak ada biji-bijinya itu
+[371.618,373.068]	G1238	male	kamu suka yang
+[373.388,375.498]	G1238	male	suka yang manis atau pedas
+[375.998,377.838]	G1238	male	man e kok manis
+[377.888,379.429]	G1238	male	manis atau
+[380.738,381.439]	G1238	male	kecut
+[388.207,389.899]	G1238	male	enak-enak manis iya
+[392.230,394.790]	G1238	male	makanan yang kamu suka yang pedas apa
+[402.878,404.238]	G1238	male	makaroni apa
+[407.410,408.799]	G1238	male	itukan cemilan
+[412.777,413.540]	G1238	male	kan
+[414.698,415.878]	G1238	male	yang pedas
+[417.277,418.818]	G1238	male	kurang pedas itu
+[424.838,426.317]	G1238	male	iya enggak papa
+[434.558,438.018]	G1238	male	engga yang penting kan engga berkar-bohidrat
+[446.318,448.309]	G1238	male	kalau sakit kasih obat
+[455.410,460.550]	G1238	male	kamu ke paling sering makan bareng keluarga dimana
+[470.438,471.528]	G1238	male	kamu
+[471.759,474.680]	G1238	male	sama makanan alergi apa aja
+[476.318,477.860]	G1238	male	alergi makanan
+[494.378,497.509]	G1238	male	kamu tau engga makanan yang terkenal di Jogja
+[499.838,501.318]	G1238	male	bakpia pathok
+[503.919,505.160]	G1238	male	enak itu
+[506.470,507.800]	G1238	male	udah pernah makan
+[510.458,511.399]	G1238	male	gudeg
+[517.089,519.318]	G1238	male	makan dimana sama siapa
+[525.610,527.210]	G1238	male	kenapa engga suka gudeg
+[527.349,528.798]	G1238	male	padahal enak lo itu
+[536.860,539.690]	G1238	male	pendapatmu tentang gudeg itu apa
+[539.710,541.518]	G1238	male	atau bakpia pathok
+[551.768,553.969]	G1238	male	berarti itu cemilan yang kamu suka iya
+[557.229,558.918]	G1238	male	kalau di Solo
+[566.408,567.319]	G1238	male	paling
+[569.199,571.460]	G1238	male	mie lidi apa itu
+[575.860,577.848]	G1238	male	yang panjang apa aku engga tahu
+[583.870,585.018]	G1238	male	engga tahu aku
+[589.689,591.348]	G1238	male	di Jogja kan engga ada
+[597.579,598.819]	G1238	male	iya engga papa
+[605.500,608.059]	G1238	male	bakpia pathok itu enaknya
+[608.199,609.889]	G1238	male	di Jogja makanya
+[619.509,620.629]	G1238	male	iya entar
+[620.949,624.918]	G1238	male	ajak aku makan yang enak di itu iya di Solo
+[628.449,630.348]	G1238	male	kalau pas ku lagi di Solo
+[634.808,638.149]	G1238	male	suka makanan tradisional serabi enggak
+[638.890,640.579]	G1238	male	yang asli solo itu
+[646.149,647.689]	G1238	male	itu belinya di mana sih
+[659.678,662.628]	G1238	male	itu asin manis atau
+[663.519,664.488]	G1238	male	pedas kah
+[677.049,681.289]	G1238	male	iya nanti kalo ke Solo sekalian ajak makan serabi iya
+[687.640,688.670]	G1238	male	apa
+[691.179,694.128]	G1238	male	aku sukanya nasi goreng sih
+[699.819,701.179]	G1238	male	yang pedes
+[704.019,705.738]	G1238	male	lebih suka pedes aku
+[710.349,712.969]	G1238	male	soalnya juga mudah dibuat
+[721.238,724.219]	G1238	male	kalo cemilan aku itu
+[724.299,725.238]	G1238	male	apa iya
+[726.579,728.628]	G1238	male	yang keras keras
+[732.219,733.219]	G1238	male	kripik
+[736.089,737.449]	G1238	male	kripik singkong
+[742.808,743.900]	G1238	male	jual apa
+[751.900,754.069]	G1238	male	iya kan cemilan aku
+[754.300,755.899]	G1238	male	masa enggak pernah makan
+[761.740,766.880]	G1238	male	makanan yang belum kamu coba tapi yang kamu inginin itu ada enggak
+[771.910,773.179]	G1238	male	yang belum
+[776.589,781.429]	G1238	male	yang belum kamu coba tapi kamu pengen banget makan itu gitu loh
+[793.059,794.329]	G1238	male	masa enggak ada
+[801.520,802.640]	G1238	male	emang kamu
+[802.809,804.109]	G1238	male	suka
+[804.699,806.390]	G1238	male	itu nasi goreng enggak
+[810.970,812.359]	G1238	male	mau aku buatin
+[820.118,821.478]	G1238	male	yang pedes
+[821.500,822.589]	G1238	male	biasa
+[827.859,829.130]	G1238	male	pedes aja
+[832.509,833.598]	G1238	male	pedes banget
+[835.868,837.348]	G1238	male	iya enggak papa
+[839.800,841.339]	G1238	male	kenapa enggak boleh
+[846.009,847.609]	G1238	male	kan aku enggak
+[851.890,853.039]	G1238	male	O iya
+[862.240,863.660]	G1238	male	makanan
+[863.890,866.868]	G1238	male	yang luar negeri itu udah pernah nyoba belum
+[874.598,875.630]	G1238	male	kenapa
+[879.699,880.848]	G1238	male	ramen
+[881.949,883.278]	G1238	male	suka ramen enggak
+[889.150,890.240]	G1238	male	kenapa
+[896.680,898.490]	G1238	male	padahal enak loh makan itu
+[906.128,907.098]	G1238	male	kamu
+[907.329,910.310]	G1238	male	biasanya sama temen kamu makan di mana
+[911.348,912.770]	G1238	male	nongkrong nongkrong
+[915.848,918.949]	G1238	male	tempat makan atau nongkrong favorit kamu gitu
+[926.979,927.890]	G1238	male	di mall
+[933.878,935.479]	G1238	male	E
+[935.528,937.878]	G1238	male	apa makanan yang
+[938.918,940.579]	G1238	male	nggak pedes tapi
+[940.778,941.658]	G1238	male	apa
+[946.268,947.238]	G1238	male	suka
+[956.409,958.159]	G1238	male	kue biasa
+[970.929,973.340]	G1238	male	nggak pa-pa yang penting bisa buat
+[975.909,978.528]	G1238	male	biasa-biasa makan apa di mall
+[978.970,980.299]	G1238	male	sama temenmu
+[987.639,989.538]	G1238	male	mall apa ada ayam geprek
+[994.389,995.389]	G1238	male	yang apa
+[1001.288,1002.319]	G1238	male	aku
+[1006.629,1007.629]	G1238	male	apa
+[1010.469,1012.489]	G1238	male	aku belum pernah makan
+[1019.950,1021.279]	G1238	male	kamu aja
+[1022.200,1024.008]	G1238	male	nggak terlalu
+[1028.170,1030.607]	G1238	male	selain geprek makan apa
+[1032.130,1033.549]	G1238	male	di- di mall
+[1040.077,1041.200]	G1238	male	kentang goreng
+[1043.380,1045.640]	G1238	male	kamu dong main ke Jogya sini
+[1046.019,1047.410]	G1238	male	ke Malioboro
+[1053.758,1054.998]	G1238	male	sama siapa
+[1060.299,1063.399]	G1238	male	nanti kalau kamu Jogya bawainserabi
+[1072.269,1073.690]	G1238	male	beneran nggak
+[1076.709,1079.358]	G1238	male	sekalian buatin dalgona
+[1089.489,1091.192]	G1238	male	beneran ke Jogya
+[1098.458,1102.038]	G1238	male	nanti aku masakin nasi goreng kalau kamu ke sini
+[1105.299,1106.509]	G1238	male	beneran la
+[1111.599,1113.528]	G1238	male	ya cepetan kamu ke sini
+[1118.649,1120.039]	G1238	male	O T W
+[1120.748,1122.230]	G1238	male	O T W itu apa
+[1131.489,1134.049]	G1238	male	cepetan ke sini aku masakin
+[1141.480,1143.980]	G1238	male	aku alergi itu
+[1144.450,1146.200]	G1238	male	nggakada sih kalau aku tu
+[1151.049,1152.349]	G1238	male	engga ada
+[1157.739,1160.088]	G1238	male	nggak-nggak ada sama sekali
+[1166.619,1167.588]	G1238	male	di mana
+[1172.108,1174.248]	G1238	male	seafood nanti kamu beliin
+[1175.558,1177.849]	G1238	male	kamu nanti aku beliin udang ya
+[1182.159,1183.909]	G1238	male	katanya alergi
+[1189.869,1191.710]	G1238	male	ya nanti takbeliin banyak
+[1197.129,1198.519]	G1238	male	yagak pa-pa lah
+[1202.710,1207.430]	G1238	male	ya udahcepetan kamu ke Jogya bawain akuserabi
+[1212.038,1213.339]	G1238	male	nggak ada sih
+[1213.749,1216.730]	G1238	male	ada tapi nggak tau tempatnyaaja
+[1222.210,1223.480]	G1238	male	nggak ah males
+[1228.089,1229.180]	G1238	male	biarin
+[1236.730,1238.719]	G1238	male	nanti kalau kamu ke sini
+[1238.740,1240.309]	G1238	male	bawain cemilan
+[1240.328,1242.379]	G1238	male	yang dari Solo yang enak enak
+[1247.710,1249.190]	G1238	male	benaranenggak
+[1250.139,1251.469]	G1238	male	ya entar aku
+[1252.990,1256.659]	G1238	male	ajak kamu puter puter Jogja keliling Jogja
+[1263.879,1268.598]	G1238	male	nanti kita bisa jalan jalan ke Malioboro cari ma- makan
+[1273.358,1276.698]	G1238	male	nanti di kamu tau Pendopo Lawas enggak
+[1279.479,1280.810]	G1238	male	masak enggak tau
+[1282.899,1284.469]	G1238	male	ya sudah nanti aku
+[1285.030,1286.780]	G1238	male	aku ajak ke sana nanti
+[1287.310,1289.269]	G1238	male	tempatnya enak di sana
+[1293.879,1296.139]	G1238	male	benaran kapan kamu ke sini
+[1300.060,1301.690]	G1238	male	oke aku tunggu
+[1306.359,1307.210]	G1238	male	halo
+[1310.438,1313.688]	G1238	male	ya di mana ya
+[1314.069,1315.250]	G1238	male	pinggir jalan
+[1330.179,1331.688]	G1238	male	itu apa namanya
+[1332.069,1333.519]	G1238	male	Pendopo Lawas
+[1338.188,1341.470]	G1238	male	makanya nanti kalau kamu ke sini aku ajak ke sana
+[1347.908,1348.759]	0	none	[*]
+[1350.040,1354.669]	G1238	male	iya soalnya sana di Pendopo Lawas makanannya enak enak
+[1359.938,1363.790]	G1238	male	nanti juga ada itu penyanyi yang suaranya bagus
+[1367.530,1369.729]	G1238	male	ya ada nanti kamu kesini dulu
+[1372.449,1374.678]	G1238	male	yang penting kamu bawain aku
+[1375.119,1377.319]	G1238	male	pe- pesen ku sama
+[1378.030,1382.000]	G1238	male	pinginku nanti kamu bawa kamu apa namanya
+[1382.259,1383.470]	G1238	male	aku masakin
+[1386.639,1388.149]	G1238	male	ya ya sudah
+[1388.409,1389.920]	G1238	male	aku tunggu ya
+[1391.139,1392.139]	G1238	male	bye

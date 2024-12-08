@@ -1,0 +1,278 @@
+[3.670,5.630]	G1301	female	hello Waalaikumsalam
+[5.710,7.099]	G1301	female	ada apa Ndra
+[10.630,13.159]	G1301	female	lagi apa ya
+[15.579,16.819]	G1301	female	enggak tu
+[18.700,21.170]	G1301	female	emang kenapa tanya tanya
+[25.780,26.959]	G1301	female	ke mana
+[29.229,32.540]	G1301	female	hayok mumpung aku belum makan juga
+[40.810,44.689]	G1301	female	aku si terserah tapi paling suka itu
+[45.759,46.970]	G1301	female	di
+[49.090,50.540]	G1301	female	zona steak sih
+[51.040,51.860]	G1301	female	iya
+[51.880,52.700]	G1301	female	he em
+[55.150,56.240]	G1301	female	nggak tau
+[61.840,63.650]	G1301	female	karena aku suka
+[63.669,65.089]	G1301	female	ayam gitu
+[71.290,73.489]	G1301	female	aku lagi nonton T V
+[78.730,79.610]	G1301	female	belum
+[81.010,83.750]	G1301	female	kalau kamu sukanya makannya di mana sih
+[88.870,89.660]	G1301	female	em
+[89.830,91.010]	G1301	female	steak juga nggak
+[93.489,94.220]	G1301	female	apa
+[97.989,98.930]	G1301	female	oh
+[99.580,102.620]	G1301	female	aku kalau wedangan ya cuma di HIK gitu
+[103.000,104.269]	G1301	female	enak soalnya
+[107.319,109.639]	G1301	female	apalagi nongkrong sama teman teman
+[112.870,113.779]	G1301	female	apa
+[118.209,123.709]	G1301	female	hmm apa ya kalau aku si taunya minuman sih
+[129.699,130.970]	G1301	female	dalgona
+[131.889,133.100]	G1301	female	kamu tau nggak
+[136.839,138.169]	G1301	female	itu lo
+[138.550,140.210]	G1301	female	gampang yo buatnya
+[148.720,149.899]	G1301	female	itu
+[150.009,151.220]	G1301	female	minuman
+[152.470,153.770]	G1301	female	itu
+[155.110,157.399]	G1301	female	minumannya susu
+[157.690,158.690]	G1301	female	terus
+[160.630,163.580]	G1301	female	susu Ultra Milk gitu
+[163.750,164.898]	G1301	female	terus sama
+[165.190,166.699]	G1301	female	kopi
+[167.320,168.800]	G1301	female	Nescafe itu lo
+[168.880,170.000]	G1301	female	tau nggak sih
+[173.589,174.679]	G1301	female	iya
+[175.029,176.419]	G1301	female	masak lupa
+[181.300,182.330]	G1301	female	iya
+[186.220,187.610]	G1301	female	bisa dong
+[188.020,189.500]	G1301	female	enak banget itu
+[197.529,199.369]	G1301	female	gampang sih tapi
+[199.990,201.229]	G1301	female	apa tuh
+[202.630,204.169]	G1301	female	capeknya
+[204.789,207.289]	G1301	female	ngaduk ngaduk kopinya itu lo
+[210.100,210.979]	G1301	female	iya
+[211.809,215.960]	G1301	female	itu kopinya harus diaduk terus sampai
+[215.979,217.550]	G1301	female	ngembang gitu
+[222.550,223.850]	G1301	female	em apa ya
+[225.309,226.940]	G1301	female	makanan sih
+[229.179,230.779]	G1301	female	bisa sih
+[230.919,233.059]	G1301	female	tapi nggak jago jago banget
+[235.149,237.800]	G1301	female	iya bisa nasi goreng bisa
+[238.720,240.410]	G1301	female	pizza mie
+[247.929,249.289]	G1301	female	mie goreng
+[252.190,255.139]	G1301	female	mie goreng kamu kan juga bisa kan
+[259.809,261.048]	G1301	female	laiya
+[275.380,277.279]	G1301	female	apa yang pedes pedes itu
+[279.910,282.500]	G1301	female	ohh aku nggak suka seblak sih
+[286.420,287.720]	G1301	female	iya
+[288.220,290.089]	G1301	female	kayak gimana gitu
+[291.399,293.600]	G1301	female	pedes juga nggak suka aku
+[297.070,298.790]	G1301	female	asli Solo
+[306.609,308.329]	G1301	female	Solo itu
+[308.529,309.559]	G1301	female	apa ya
+[311.199,312.379]	G1301	female	kamu
+[312.550,313.730]	G1301	female	tahu dawet
+[318.999,320.568]	G1301	female	dawet selasih
+[323.528,324.410]	G1301	female	itu
+[324.579,325.578]	G1301	female	iya
+[325.959,327.680]	G1301	female	itu jualnya
+[328.448,332.480]	G1301	female	di Pasar Gede ada aku biasanya beli di situ
+[337.359,338.088]	G1301	female	gat
+[338.410,339.230]	G1301	female	oh
+[341.947,343.638]	G1301	female	aku kan sering
+[343.749,346.729]	G1301	female	sering bantu ibuku di pasar gitu
+[347.079,348.469]	G1301	female	dan
+[349.208,354.050]	G1301	female	apa tuh sebelahnya itu juga jual es dawet
+[354.189,355.759]	G1301	female	itu rame banget
+[363.789,368.029]	G1301	female	iya itu ada isinya itu ada jenang juga
+[368.679,370.219]	G1301	female	ada
+[372.370,373.819]	G1301	female	cendolnya
+[384.189,385.518]	G1301	female	yang manis
+[391.629,392.629]	G1301	female	iya
+[397.060,399.258]	G1301	female	yang pedes itu cuma
+[401.229,402.500]	G1301	female	makroni
+[406.060,408.409]	G1301	female	makroni yang pedes pedes itu loh
+[410.470,411.470]	0	none	[LAUGHTER]
+[411.819,412.939]	G1301	female	iya deh
+[413.379,415.250]	G1301	female	kalau makanan apa iya
+[415.448,416.930]	G1301	female	ayam geprek
+[421.720,424.610]	G1301	female	aku kan engga suka yang pedes banget
+[429.398,431.569]	G1301	female	iya nanti aku kepedesan
+[441.610,444.138]	G1301	female	tapi nanti perutku sakit
+[451.420,453.800]	G1301	female	kalau sakit nanti ke rumah sakit
+[463.268,464.479]	G1301	female	em
+[465.039,466.220]	G1301	female	engga
+[466.720,468.229]	G1301	female	engga sering sih
+[470.560,471.768]	G1301	female	ke mana iya
+[472.060,472.849]	G1301	female	udah
+[477.339,479.328]	G1301	female	aku kata
+[480.068,482.420]	G1301	female	aku biasanya tuh
+[483.099,485.328]	G1301	female	telur kalo engga udang
+[485.679,486.888]	G1301	female	tapi
+[487.209,491.119]	G1301	female	aku makan itu tapi enggak enggak alergi
+[491.289,492.589]	G1301	female	engga tau kenapa
+[499.388,500.509]	G1301	female	apa tuh
+[504.369,506.328]	G1301	female	em enak itu
+[509.259,510.318]	G1301	female	udah
+[513.848,515.598]	G1301	female	gudeg udah
+[516.098,517.787]	G1301	female	tapi kurang suka sih
+[521.677,524.509]	G1301	female	makan di pasar
+[531.250,534.918]	G1301	female	iya sih enak tapi kalau banyak banyak
+[534.970,536.778]	G1301	female	jadi gimana gitu
+[543.699,546.259]	G1301	female	kalau beberapa tok enak
+[546.518,548.360]	G1301	female	aku suka yang rasa
+[548.679,550.130]	G1301	female	kacang ijo
+[550.598,552.348]	G1301	female	itu favorit aku
+[555.518,557.720]	G1301	female	iya kalau di Jogja
+[561.638,564.229]	G1301	female	kalau camilan di Solo apa iya
+[566.950,568.519]	G1301	female	tahu mie lidi engga
+[572.980,574.730]	G1301	female	yang panjang itu loh
+[580.329,582.950]	G1301	female	masa engga tahu iya itu lah pokoknya
+[587.470,590.028]	G1301	female	besok beli sama aku biar tahu
+[593.739,596.239]	G1301	female	iya nanti aku bawain ke Solo
+[601.089,602.630]	G1301	female	iya enggak papa kan
+[611.350,612.558]	G1301	female	iya
+[612.608,615.440]	G1301	female	tapi kalau di Jogja aku cuma
+[616.028,618.709]	G1301	male	pas liburan aja gitu
+[627.278,628.219]	G1301	male	iya
+[629.618,631.398]	G1301	male	nanti makan
+[632.138,633.048]	G1301	male	iya
+[640.029,641.119]	G1301	male	serabi
+[643.539,645.019]	G1301	male	suka banget
+[647.078,647.928]	G1301	male	enak
+[651.128,659.479]	G1301	male	itu belinya di mana mana ada sih tapi aku biasanya beli di dekat rumah
+[666.998,673.159]	G1301	male	itu rasanya manis ada toppingnya coklat ada yang
+[673.569,675.529]	G1301	male	enggak ada toping gitu
+[683.918,684.799]	G1301	male	iya
+[685.178,686.239]	G1301	male	kamu
+[689.440,691.519]	G1301	male	kamu sukanya makan apa sih
+[698.138,700.578]	G1301	male	yang pedas apa asin apa
+[703.418,704.328]	G1301	male	banget
+[707.918,709.038]	G1301	male	enggak banget
+[717.309,718.309]	G1301	male	em
+[719.739,721.129]	G1301	male	kalau camilan
+[728.078,729.288]	G1301	male	apa hayo
+[730.449,732.589]	G1301	male	keras keras apa
+[735.428,736.759]	G1301	male	keripik apa
+[736.869,738.108]	G1301	male	aku jual loh
+[741.940,743.448]	G1301	male	mama ku jual
+[745.958,748.579]	G1301	male	keripik singkong keripik
+[749.169,751.878]	G1301	male	usus kamu pernah enggak makan
+[758.889,760.249]	G1301	male	iya sih benar
+[769.898,772.458]	G1301	male	yang aku coba
+[772.538,774.468]	G1301	male	terus aku pengennya
+[774.668,775.788]	G1301	male	yang belum
+[777.070,778.158]	G1301	male	apa iya
+[786.759,788.059]	G1301	male	em
+[791.079,792.440]	G1301	male	enggak ada sih
+[793.690,796.098]	G1301	male	karena kalau aku pengen
+[796.449,798.378]	G1301	male	langsung beli gitu
+[809.320,810.408]	G1301	male	suka
+[814.389,817.579]	G1301	male	mau dong kalau nanti
+[818.018,820.878]	G1301	male	kamu ke rumahku buatin iya masakin
+[825.279,828.320]	G1301	male	yang sedengan aja
+[831.249,832.759]	G1301	male	iya sedikit
+[834.190,834.949]	G1301	male	enggak
+[834.999,836.598]	G1301	male	iya enggak mau
+[838.598,839.988]	G1301	male	iya enggak boleh
+[843.398,845.238]	G1301	male	nanti sakit perut
+[849.999,852.199]	G1301	male	kan aku yang makan
+[853.298,855.320]	G1301	male	kamu kan yang buat
+[856.419,858.619]	G1301	male	masak kamu yang masak
+[858.669,862.009]	G1301	male	dan kamu yang makan terus aku yang liatin dong
+[870.279,871.459]	G1301	male	em
+[873.278,874.759]	G1301	male	enggak pernah sih
+[877.899,879.830]	G1301	male	kayak enggak suka aja gitu
+[880.868,882.288]	G1301	male	dulu aku
+[883.628,884.509]	G1301	male	kalau
+[885.820,889.969]	G1301	male	aku dulu di ajak temanku makan ramen tapi aku enggak mau
+[893.109,894.859]	G1301	male	enggak suka aja gitu
+[895.509,897.139]	G1301	male	kayak gimana gitu
+[900.998,903.589]	G1301	male	iya sih kata teman temanku juga enak
+[914.679,916.788]	G1301	male	E ke mana iya
+[920.528,923.839]	G1301	male	biasanya di mall sih
+[924.159,926.299]	G1301	female	beli makan nongkrong gitu
+[929.498,930.379]	G1301	female	iya
+[940.419,941.478]	G1301	female	kamu suk
+[943.239,945.558]	G1301	female	kamu suka kue nggak sih
+[949.239,950.358]	G1301	female	kue apa
+[950.528,952.308]	G1301	female	kue ulang tahun apa
+[954.218,955.909]	G1301	female	kue biasa
+[962.738,963.738]	G1301	female	hm
+[963.909,965.269]	G1301	female	aku bisa lo
+[965.439,966.679]	G1301	female	bikin kue
+[967.059,970.429]	G1301	female	tapi rasanya biasa aja sih
+[976.508,977.539]	G1301	female	dimakan
+[982.028,983.809]	G1301	female	biasanya
+[985.659,987.289]	G1301	female	ayam geprek
+[988.537,990.349]	G1301	female	kalau enggak ya
+[991.629,995.029]	G1301	female	ada yang ayam keprabon itu lo nah gitu
+[998.590,1000.820]	G1301	female	ya yang varian ayam geprek
+[1001.798,1003.728]	G1301	female	kan di situ ada
+[1004.858,1005.978]	G1301	female	apa tuh
+[1007.258,1010.478]	G1301	female	ada muz keju mozarela gitu lo
+[1011.909,1013.148]	G1301	female	nah akut
+[1013.889,1016.960]	G1301	female	nah aku tuh nggak suka keju jadinya
+[1017.008,1018.879]	G1301	female	yang biasa aja
+[1020.728,1022.118]	G1301	female	kamu suka keju
+[1026.788,1028.210]	G1301	female	bikin munek ya
+[1032.640,1033.817]	G1301	female	apa ya
+[1036.659,1037.719]	G1301	female	hmm
+[1038.700,1040.210]	G1301	female	kentang goreng sih
+[1040.857,1042.038]	G1301	female	french fries
+[1042.989,1043.719]	G1301	female	he em
+[1050.758,1052.149]	G1301	female	Minggu depan
+[1052.709,1053.739]	G1301	female	ke sana
+[1059.308,1060.849]	G1301	female	sama teman
+[1066.509,1069.160]	G1301	female	iya nanti aku baik
+[1069.509,1072.489]	G1301	female	aku bawain sekresek buat kamu
+[1075.989,1077.379]	G1301	female	benar dong
+[1082.588,1084.248]	G1301	female	iya nanti
+[1084.690,1088.298]	G1301	female	aku bawa bahan bahannya terus aku bawa ke sana
+[1093.629,1095.410]	G1301	female	beneran
+[1104.548,1106.088]	G1301	female	beneran nih
+[1109.349,1111.879]	G1301	female	jadi nggak sabar ni dimasakin
+[1115.979,1118.869]	G1301	female	iya bentar lagi O T W
+[1128.248,1129.308]	G1301	female	apa ya
+[1136.289,1138.009]	G1301	female	iya nanti
+[1138.450,1141.429]	G1301	female	kamu itu alergi apa sih kalau makanan
+[1149.879,1151.959]	G1301	female	kepiting kah apa
+[1156.328,1159.220]	G1301	female	berarti bisa dong makan bareng
+[1162.509,1166.539]	G1301	female	iya besok makannya di seafood aja
+[1170.670,1173.108]	G1301	female	tempat seafood gitu
+[1173.879,1176.410]	G1301	female	nanti makan kepiting
+[1180.028,1181.508]	G1301	female	ya nggak papa sih
+[1183.238,1185.109]	G1301	female	tapi jangan banyak banyak
+[1185.638,1191.799]	G1301	female	iya alergi tapi kalau banyak alergi kalau dikit nggak
+[1194.009,1196.449]	G1301	female	hmm iya nanti bentol bentol aku
+[1200.518,1202.088]	G1301	female	iya nggak boleh
+[1209.278,1212.470]	G1301	female	iya emang di sana nggak ada
+[1219.899,1221.919]	G1301	female	ya di gojek dong
+[1225.929,1228.039]	G1301	female	kamu orangnya malesan
+[1232.799,1234.429]	G1301	female	tidur terus
+[1245.218,1247.089]	G1301	female	siap bos
+[1248.308,1250.839]	G1301	female	nanti ajak jalan jalan loh aku
+[1251.669,1252.909]	G1301	female	benaran
+[1258.958,1260.739]	G1301	female	iya nanti kalau
+[1260.788,1264.489]	G1301	female	kamu ke Solo aku juga
+[1265.618,1267.728]	G1301	female	keliling liling Solo
+[1271.289,1272.469]	G1301	female	iya dong
+[1278.488,1279.758]	G1301	female	enggak tuh
+[1282.809,1283.778]	G1301	female	enggak
+[1284.488,1285.999]	G1301	female	enggak pernah ceritanya
+[1288.958,1290.380]	G1301	female	iya boleh
+[1291.269,1292.449]	G1301	female	iya boleh
+[1298.499,1299.829]	G1301	female	Minggu depan
+[1306.900,1310.238]	G1301	female	kamu pernah makan sama keluarga di mana sih
+[1317.879,1318.879]	G1301	female	em
+[1321.180,1323.348]	G1301	female	menu makanan
+[1323.969,1327.818]	G1301	female	pas tahun baru dulu ke mana sama keluargamu
+[1335.879,1337.119]	G1301	female	oh
+[1337.410,1338.979]	G1301	female	aku enggak diajak nih
+[1344.009,1347.650]	G1301	female	em iya deh nanti aku ke sana
+[1348.539,1351.129]	G1301	female	tapi janji iya aku ajakin main
+[1357.629,1359.829]	G1301	female	saya jadi pengen ke sana cepat
+[1366.478,1367.659]	G1301	female	siapa tuh
+[1371.609,1372.698]	G1301	female	iya
+[1383.549,1384.698]	G1301	female	iya
+[1385.709,1387.519]	G1301	female	iya udah dulu iya
+[1390.118,1391.088]	G1301	female	dah
+[1391.258,1392.349]	G1301	female	iya

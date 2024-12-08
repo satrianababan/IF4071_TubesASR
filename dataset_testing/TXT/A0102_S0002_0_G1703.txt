@@ -1,0 +1,248 @@
+[3.730,4.789]	G1703	female	halo
+[5.559,6.679]	G1703	female	pagi Ren
+[10.600,11.960]	G1703	female	baik donk
+[12.130,13.250]	G1703	female	kalau kamu
+[21.894,24.066]	G1703	female	koq kamu tau tau dari mana
+[25.420,26.870]	G1703	female	kan aku belum
+[28.629,30.000]	G1703	female	apa iya
+[30.000,31.877]	G1703	female	kan aku belum ngajakin kamu
+[37.174,42.828]	G1703	female	ihh belum ya belum berangkat aku tuh balu- baru ya itu sih
+[43.060,47.000]	G1703	female	ya sem- sempet sih sama temen-temen
+[47.165,54.825]	G1703	female	cuman upload aja sih di Instagram terus kalau ini blom sempet lagi baru mau rencana kamu mau ikut
+[64.809,66.050]	G1703	female	iya sih
+[66.160,67.129]	G1703	female	bener
+[67.778,75.739]	G1703	female	ehh kalau temen-temenku pada ngajakin ke pantai daerah itu sih gunung Kidul
+[76.120,78.470]	G1703	female	katanya pantainya bagus-bagus
+[78.519,83.389]	G1703	female	tapi juga sebenarnya udah banyak sih yang sering
+[84.940,91.160]	G1703	female	apa yah aku lihat disana maksudnya aku sering kunjungin gitu loh disana
+[95.559,97.879]	G1703	female	pantai
+[98.130,102.368]	G1703	female	gunung Kidul itu kan banyak aku harus nyebutin satu-satu nih
+[106.930,111.019]	G1703	female	paling kalau yang banyak dikunjungin sih ya Parangtritis
+[111.040,113.569]	G1703	female	Baron Kukup
+[114.910,119.449]	G1703	female	Indrayanti gitu aja sih kalau kamu paling suka pantai mana
+[124.419,125.540]	G1703	female	Klayar
+[126.879,130.699]	G1703	female	itu kan daerah bukan daerah gunung Kidul kan
+[132.729,134.839]	G1703	female	itu kan bukan daerah gunung Kidul
+[138.610,140.899]	G1703	female	kalau yang daerah gunung Kidul itu
+[141.460,142.910]	G1703	female	oh ya sih
+[143.619,145.639]	G1703	female	kenapa koq kamu suka disitu
+[154.119,157.669]	G1703	female	kamu biasanya kalo kesana sama siapa aja
+[164.710,167.929]	G1703	female	oh kalau sama keluarga juga sering
+[181.600,186.860]	G1703	female	oh tapi papa sama mama kamu liburnya kadang gak barengan ya
+[186.970,187.880]	G1703	female	jadi
+[188.199,189.649]	G1703	female	ngga sering kan
+[193.570,196.220]	G1703	female	kalau ke pantai Klayar tuh
+[197.169,198.919]	G1703	female	berapa jam biasanya
+[200.289,201.619]	G1703	female	mau kesana itu
+[209.274,213.094]	G1703	female	ya jauh juga ya berarti kalau kesana
+[213.220,215.179]	G1703	female	eeem aku blom pernah
+[215.589,218.270]	G1703	female	ya udah deh kapan-kapan kita kesana
+[218.320,219.710]	G1703	female	bareng-bareng
+[219.742,224.538]	G1703	female	bisa jadi rekomendasi nih buat temen-temen aku yang lain
+[224.596,227.942]	G1703	female	siapa tau ada juga yang pernah kesana
+[227.991,231.579]	G1703	female	siapa tau ada yang penasaran gitu kepo-kepo
+[231.610,233.660]	G1703	female	ada yang belum kesana
+[234.279,236.839]	G1703	female	bisa jadi rekomendasi
+[242.800,246.559]	G1703	female	yah paling cuman apa ya kayak
+[247.405,248.424]	G1703	female	ehh
+[248.948,250.139]	G1703	female	foto-foto lah
+[250.170,254.881]	G1703	female	kan biasanya kalau anak muda itu sukanya foto-foto
+[254.997,258.692]	G1703	female	gaya gayaan gitu kayak apa ya viewnya kan
+[260.470,262.640]	G1703	female	bagus banget kalau disana itu
+[263.769,265.309]	G1703	female	paling ya apa ya
+[265.929,270.140]	G1703	female	yah kadang sih cuman kan ombaknya kadang tuh
+[270.190,272.029]	G1703	female	yah ngeri gitu
+[272.170,273.529]	G1703	female	banyak sih
+[273.970,275.179]	G1703	female	yang anu
+[275.589,276.950]	G1703	female	kayak apa yah
+[277.269,280.790]	G1703	female	yah buat kayak gitu cuman kan ada juga seng takut
+[281.380,283.010]	G1703	female	jadi
+[283.119,284.690]	G1703	female	ga terlalu itu sih
+[293.649,296.329]	G1703	female	aku terakhir ya
+[297.130,300.859]	G1703	female	sama temen-temen kadang juga sama keluarga
+[302.109,304.220]	G1703	female	ku dari mama sama papa
+[304.599,306.558]	G1703	female	gitu biasa nya
+[312.848,314.688]	G1703	female	ciri khas nya paling
+[326.949,330.709]	G1703	female	apa yapaling itu oleh-oleh nya
+[330.970,336.649]	G1703	female	kan kalau liburan gitu yang di carikan oleh-oleh pasti ikan kebanyakan jugaan
+[338.138,341.868]	G1703	female	dan ikan nya kan mesti hem asin-asin gitu
+[349.028,351.678]	G1703	female	ih seneng banget dong kan kalau
+[351.879,360.798]	G1703	female	gimana ya karena kan pergi nya juga bareng-bareng sama temen gitukan pasti have fun kayak haduh
+[360.818,361.939]	G1703	female	gimana ya
+[362.409,366.768]	G1703	female	kayak kita itu bisa refreshing enggak stress gitu kalau
+[367.599,371.388]	G1703	female	apa tugas kuliah numpuk apa-apa lah gitu
+[371.738,375.259]	G1703	female	jadikan kalau sama temen-temen itu bisa
+[375.278,377.448]	G1703	female	seneng gitu pokok nya rasa nya
+[378.160,379.278]	G1703	female	kalau
+[380.410,387.858]	G1703	female	iya kalau kamu biasanya keunikan di pantai yang kamu senangi tuh gimana
+[388.599,390.318]	G1703	female	unik nya tuh dimana
+[401.378,403.579]	G1703	female	ho iya sama berarti
+[404.589,406.818]	G1703	female	aku sama temen-temen biasa nya juga
+[408.220,411.528]	G1703	female	mencari view yang bagus tentunya
+[412.568,414.019]	G1703	female	kalau kamu
+[415.269,417.049]	G1703	female	pernah itu enggak
+[417.369,420.439]	G1703	female	naik gunung suka naik gunung enggak
+[427.839,432.978]	G1703	female	ohh kalau aku kan belum pernah nih boleh enggak nanya-nanya gitu
+[433.540,435.438]	G1703	female	aku sebenarnya pengen
+[436.419,440.509]	G1703	female	sebenarnya pengen tapi itu enggak di bolehin sama mamah papah ku
+[441.639,442.878]	G1703	female	kan nama
+[447.339,455.928]	G1703	female	lha iya itu karena selama ini kan aku enggak pernah di bolehin karena tau sendiri lah kamu aku kan anak tunggal jadi
+[456.160,464.028]	G1703	female	ya takut kalau nanti disana itu gini-gini-gini apa ada kejadian apa lah apa gitu lah
+[464.028,470.388]	G1703	female	biasa nya kan banyak nih di T V- T V kayak gitu yang mereka takutin kan juga salah satunya kan
+[470.438,472.040]	G1703	female	cemas gitu
+[473.438,474.798]	G1703	female	ee biasa nya
+[476.979,478.309]	G1703	female	gimana-gimana
+[485.738,488.359]	G1703	female	apa iya bisa ya em
+[492.970,496.458]	G1703	female	ohh biasa nya kamu kalau berangkat
+[497.919,502.729]	G1703	female	malam apa gimana apa pagi apa siang apa gimana
+[503.889,505.759]	G1703	female	berapa jam gitu sampai sana
+[522.307,525.440]	G1703	female	waduh jam segitu apa enggak ngantuk tuh
+[525.460,529.428]	G1703	female	jalan sambil merem
+[529.869,532.699]	G1703	female	ya kan pasti e
+[535.449,537.259]	G1703	female	ya iya sih cuma kan
+[537.759,542.149]	G1703	female	bayangin deh jam sebelas tuh seharusnya tuh kita bobok cantik gitu
+[542.199,543.350]	G1703	female	terus
+[543.369,545.149]	G1703	female	kita harus bangun
+[545.229,546.889]	G1703	female	jalan-jalan
+[547.389,549.169]	G1703	female	perjalanan jauh
+[549.609,557.298]	G1703	female	sampai nya tuh juga enggak bentar mesti juga capek haduh kalau aku bayangin udah males gitu
+[557.559,562.458]	G1703	female	tapi ya namanya cowok ya biasanya suka nya kan ya kayak
+[563.110,564.350]	G1703	female	e apa yah
+[564.759,573.079]	G1703	female	kalau gunung gitu kan kelihatan lebih wah gitu jadi ya enggak apa-apa sih buat pengalaman eh ya betul banget
+[573.970,582.769]	G1703	female	haduh kayak gimana ya kalau cowok tuh ya harus sih buat pengalaman sekali-sekali 'oh aku pernah naik gunung'
+[582.769,588.139]	G1703	female	besok nya di ceritain ke anak cucu nya kalau
+[588.190,590.299]	G1703	female	'papah eyang nih udah pernah
+[590.320,594.679]	G1703	female	naik gunung enak banget rasa nya gini-gini-gini pasti kan itu
+[602.769,604.220]	G1703	female	ya iya sih
+[611.499,614.389]	G1703	female	oh iya itu udah pasti
+[615.429,616.548]	G1703	female	eh
+[617.768,621.830]	G1703	female	rencana kamu liburan kapal lagi kapan lagi
+[627.369,628.579]	G1703	female	bulan depan
+[628.600,631.340]	G1703	female	hmm mau ke mana mau ke mana
+[634.240,638.330]	G1703	female	oh ke Jogja juga ke Malioboro sama siapa
+[641.260,644.959]	G1703	female	hm iya sih kalau Malioboro itu
+[644.959,650.569]	G1703	female	tempat yang paling paling disenengin sama anak muda zaman sekarang
+[650.709,652.519]	G1703	female	kenapa tau nggak
+[653.500,655.759]	G1703	female	tau dong pasti apa coba
+[659.679,661.759]	G1703	female	masak itu aja
+[666.549,668.778]	G1703	female	jajanan murah oh iya ding ya
+[669.130,675.528]	G1703	female	kan buat anak muda zaman sekarang ya terus katanya juga kayak ada apa ya musik-musiknya gitu apa ya
+[675.640,677.239]	G1703	female	kayak
+[678.518,683.808]	G1703	female	ha betul yang lagi booming itu kan terkenal terkenal karena itu kan
+[684.459,685.789]	G1703	female	viral itu
+[685.929,686.959]	G1703	female	lah iya
+[699.129,706.098]	G1703	female	oh ya iya sih la kalau palingkan kalau kita suntuk kan gimana ya kalau Jogja itu
+[706.098,710.808]	G1703	female	jarak tempuhnya itu nggak terlalu jauh banget dan nggak terlalu dekat banget
+[710.829,713.298]	G1703	female	jadi kayak sedengan gitu
+[713.408,720.408]	G1703	female	dan anak muda itu kan paling kalau motoran gitu kan terjangkau nih pakai motor gitu
+[720.408,729.048]	G1703	female	nggak harus mobil kan walaupun kayak cewek-cewek kayak kita gini tu biasanya aduh kalau naik motor nanti panas takut item
+[729.048,731.778]	G1703	female	debune debunya banyak gitu kan
+[732.098,733.399]	G1703	female	jadi
+[733.418,734.598]	G1703	female	ya mungkin
+[735.339,736.158]	0	none	[LAUGHTER]
+[736.329,737.870]	G1703	female	yah sih kayak elu
+[737.890,746.509]	G1703	female	itu kamu juga bodo amatnggak nggak mikir sampai kayak gitu pasti ya kan mau item juga bodo amat
+[746.589,747.710]	G1703	female	mau
+[747.729,751.460]	G1703	female	berdebu mau berjewa mer- berjerawat juga bodo amat
+[752.380,753.380]	G1703	female	ya kan
+[755.470,761.600]	G1703	female	aduh bener banget tuh apalagi kalau gandengan sama pacar perginya
+[763.179,766.669]	G1703	female	tapi kamu ke Malioboro itu
+[766.750,769.819]	G1703	female	selain ke Malioboro kamu mau ke mana aja
+[779.710,782.390]	G1703	female	mana itu aku belum pernah tau itu
+[783.399,784.429]	G1703	female	kayaknya
+[786.369,788.179]	G1703	female	oalah
+[789.399,795.048]	G1703	female	pasti sih kalau anak muda ya sukanya liat-liat kayak gitu konser-konser kayak gitu
+[795.069,803.210]	G1703	female	eh aku juga anak muda sih cuman aku yang kudet apa gimana ya
+[803.529,804.770]	G1703	female	iya sih
+[805.000,806.630]	G1703	female	terus ke mana lagi
+[806.860,809.240]	G1703	female	cuma ke situ aja dua tempat aja
+[813.190,814.309]	G1703	female	emm
+[814.449,815.750]	G1703	female	apa jug
+[818.919,819.740]	G1703	female	aku
+[819.850,821.690]	G1703	female	aku belum tahu nih
+[822.610,824.539]	G1703	female	iya sebenernya pengen
+[826.929,828.199]	G1703	female	boleh boleh
+[828.520,833.000]	G1703	female	nanti kabar kabar lagi aja kalau kamu mau sama teman-temanmu
+[833.020,835.908]	G1703	female	tapi biasanya kamu nginep apa nggak toh
+[842.829,850.579]	G1703	female	oh ya capek ya cuman kan ya sebenernya apalagi enaknya tu kalau camping ya itu enak banget
+[851.289,855.470]	G1703	female	udah apa nggak bayar buat nginep
+[855.640,858.949]	G1703	female	nginepnya kayak di pantai-pantai gitu hutan-hutan
+[859.298,863.690]	G1703	female	sebenernya pengen sih camping gitu cuman kan kadang juga bahaya kan
+[864.158,870.380]	G1703	female	aku juga kadang tu nggak dibolehin sama mama papa ku kalau biasanya kalau nggak
+[870.380,878.030]	G1703	female	di apa ya kaya dipamitin sama yang deket banget kalau dia terper e apa percaya sama temenku itu kan
+[878.030,880.579]	G1703	female	kadang enggak dibolehin kadang ya
+[880.900,884.150]	G1703	female	dibolehin tapi dibolehinnya kebanyakan sama yang udah
+[884.710,887.059]	G1703	female	banget kayak kamu gitu
+[892.569,896.390]	G1703	female	biasanya kamu kalau mau main ke Jogja
+[897.909,899.298]	G1703	female	bawa uang berapa
+[904.809,906.378]	G1703	female	biasanya aja sih
+[917.199,918.530]	G1703	female	iya sih
+[918.819,922.219]	G1703	female	betul lima ratus tuh juga udah banyak loh
+[922.358,923.593]	G1703	female	nggak sedikit itu
+[923.610,924.153]	0	none	[LAUGHTER]
+[924.279,925.729]	G1703	female	kalo cuma buat
+[925.929,928.518]	G1703	female	apa ya holiday holiday gitu
+[929.048,931.008]	G1703	female	aku mah paling berapa
+[931.749,935.629]	G1703	female	terus nanti kan kadang kan kita kan cewek cowok nih
+[935.644,940.725]	G1703	female	ya nggandul temennya yang cowok biasanya tuh dijajakin gitu
+[940.869,943.248]	0	none	[LAUGHTER]
+[944.529,945.709]	0	none	[LAUGHTER]
+[945.729,948.139]	G1703	female	kok bisa ya nggak dong
+[948.158,949.488]	G1703	female	namanya itu
+[950.199,952.279]	G1703	female	saling mengasihi
+[954.699,961.580]	G1703	female	bukannya bukannya jadi miskin tapi kan biar nggak pelit gitu masak mau di
+[962.379,963.875]	G1703	female	embat sendiri uangnya
+[963.904,965.155]	0	none	[LAUGHTER]
+[965.203,966.808]	0	none	[LAUGHTER]
+[976.629,977.449]	G1703	female	heem
+[977.611,978.765]	G1703	female	apa tuh
+[978.819,981.858]	G1703	female	aku paling di sana biasa sih
+[981.998,985.518]	G1703	female	hobiku kan makan nih jadi ya paling
+[985.539,991.459]	G1703	female	cobain kayak makanan gitu terus kan di sana di sana itu juga banyak kayak
+[991.778,994.668]	G1703	female	tempat tongkrongan kopi kopi gitu kan
+[994.899,996.799]	G1703	female	sekarang itu kan lagi
+[996.998,999.409]	G1703	female	viral dan booming banget
+[999.608,1002.470]	G1703	female	itu paling enak pasti di sana
+[1002.819,1005.619]	G1703	female	tapi aku juga itu sih kalo
+[1005.668,1007.988]	G1703	female	keseringan ngopi juga nggak baik
+[1008.369,1012.819]	G1703	female	nanti kan pasti efeknya tuh nggak bisa tidur dan itu beneran aku nanti sampai rumah
+[1012.869,1014.858]	G1703	female	gak bisa tidur
+[1015.119,1020.678]	G1703	female	tapi sih yah kadang kan sama temanku direkomendasiin itu sih gitu
+[1022.049,1024.459]	G1703	female	paling kopi gitu
+[1033.179,1039.940]	G1703	female	paling apa ya belanja kan di sana tuh belanja baju celana gitu kan juga
+[1039.959,1041.139]	G1703	female	harganya
+[1041.160,1047.440]	G1703	female	sedengan nih nggak terlalu mahal dan nggak terlalu murah juga paling aku belanja pakaian
+[1047.440,1054.130]	G1703	female	kan di sana mall mall gitu kan juga banyak yang lagi booming kayak viral gitu
+[1054.298,1059.169]	G1703	female	di sosmed jadi cobain ah kayak mau belanja ini tuh
+[1059.249,1064.869]	G1703	female	barang ini bagusnya di situ barang itu bagusnya di sini gitu kan paling
+[1065.249,1071.859]	G1703	female	itu sih kalo cewek mah biasanya gitu sukanya cuma shopping shopping shopping pikirannya cuma shopping
+[1071.910,1076.779]	G1703	female	paling ya apa ya tas gitu klo unik unik gitu ya kayak
+[1077.039,1078.009]	G1703	female	kan
+[1078.449,1086.380]	G1703	female	apa yah kalo Jogja itu paling batik batik baju lah baju batik apa tas batik itu kan
+[1087.388,1091.960]	G1703	female	oh iya paling bakmia bak-bakpia patok itu
+[1094.318,1096.190]	G1703	female	iya sih itu paling
+[1096.238,1099.498]	G1703	female	rekomendasi makanan paling endel
+[1099.557,1100.585]	0	none	[LAUGHTER]
+[1100.656,1101.258]	0	none	[LAUGHTER]
+[1101.272,1102.488]	G1703	female	paling maknyus
+[1107.940,1109.210]	G1703	female	kelebihannya
+[1109.229,1111.488]	G1703	female	ya itu kita tuh
+[1111.630,1116.380]	G1703	female	jadi nggak stress gitu kayak ada waktu buat refreshing
+[1116.430,1118.298]	G1703	female	kayak gimana ya
+[1118.318,1121.180]	G1703	female	tali persaudaraan sama temen temen tuh juga
+[1121.199,1123.190]	G1703	female	terjaga gitu
+[1123.210,1124.419]	G1703	female	kayak
+[1124.470,1132.160]	G1703	female	apa yah kayak nambah pengalaman oh di Jogja itu ternyata budayanya begini begini tempat tempat
+[1132.160,1139.690]	G1703	female	tongkrongan apa tempat makan itu ciri khasnya ini ini ini gitu biasanya kalo kamu sendiri apa
+[1156.238,1159.547]	G1703	female	waduh kaya Dora dan Boots dong berpetualang
+[1159.566,1161.254]	0	none	[LAUGHTER]
+[1161.488,1163.779]	G1703	female	iya sih bener juga
+[1163.889,1168.699]	G1703	female	kan dengan petualangan itu kan kita jadi tahu kalo
+[1168.899,1177.789]	G1703	female	Jogja atau tempat manapun gitu punya ciri khas masing masing punya keindahan masing masing gitu
+[1184.289,1192.429]	G1703	female	iya dong pasti nanti juga ya kalo aku misalnya sama teman temanku mau kayak
+[1192.690,1194.499]	G1703	female	holiday apa
+[1194.730,1196.149]	G1703	female	ke mana gitu kek
+[1196.470,1200.493]	G1703	female	kan pasti juga rekomendasi satu sama lain itu kan banyak
+[1200.501,1205.553]	G1703	female	jadi nanti ada masukan ini mau ke sini gitu oke thank you yah Len
+[1205.679,1206.859]	0	none	[SONANT]
+[1207.929,1209.259]	G1703	female	bye bye

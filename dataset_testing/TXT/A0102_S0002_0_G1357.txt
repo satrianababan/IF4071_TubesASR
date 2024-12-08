@@ -1,0 +1,151 @@
+[1.629,2.569]	G1357	male	halo
+[6.880,9.140]	G1357	male	pagi juga gimana kabar mu
+[13.119,15.170]	G1357	male	oo baik aja
+[15.939,19.909]	G1357	male	ee dengar-dengar liburan ini kamu pergi mantai ya
+[24.459,27.770]	G1357	male	stalking dari sosmedmu lah
+[29.739,30.829]	G1357	male	iya
+[33.099,35.509]	G1357	male	nah kan kamu udah berangkat sendiri
+[55.720,57.319]	G1357	male	eem kalau
+[57.549,61.639]	G1357	male	ikut enggak sih ya nanti liat sikon na sip liat
+[61.779,63.709]	G1357	male	situasi kondisi dulu
+[91.419,93.980]	G1357	male	emm contohnya pantai mana aja itu
+[101.980,104.959]	G1357	male	yaa yang paling favorit kamu lah
+[114.550,115.400]	G1357	male	eem
+[119.349,122.839]	G1357	male	kalau aku sih sukanya pantai Klayar ya
+[123.129,125.930]	G1357	male	soalnya viewnya tu bagus banget
+[130.779,131.479]	G1357	male	kenapa
+[135.309,140.539]	G1357	male	ooh kalau yang daerah gunung Kidul sih ya Indrayanti itu
+[146.169,150.619]	G1357	male	ya gimana ya udah sering ke sana jadi kayak hobi gitu lah
+[158.649,163.338]	G1357	male	biasalah sama teman-teman aku yang biasanya nongkrong itu
+[169.089,176.059]	G1357	male	kalau sama keluarga sih yaa nunggu waktu yang pas dulu kayak umpama
+[176.350,180.289]	G1357	male	papah sama mamah libur baru bisa pergi bareng
+[186.429,187.639]	G1357	male	iya
+[189.729,192.229]	G1357	male	ya jarang sih kalau sama keluarga
+[199.509,201.110]	G1357	male	kalau ke
+[202.570,206.479]	G1357	male	berapa ya kurang lebih tiga sampai empat
+[211.119,212.210]	G1357	male	iya
+[218.080,219.830]	G1357	male	oke
+[237.100,239.809]	G1357	male	waktu di pantai Indrayanti tu
+[239.949,241.460]	G1357	male	ngapain aja kamu
+[262.779,265.190]	G1357	male	hmm gak snorkeling
+[285.850,292.399]	G1357	male	eem apa itu namanya waktu kemarin terakhir ke pantai itu sama siapa aja kamu
+[294.670,295.609]	G1357	male	iya
+[308.260,311.119]	G1357	male	ciri khas dari pantainya itu apa ya
+[312.790,316.309]	G1357	male	kan kayak-kayak Klayar itu kan kalau
+[316.480,322.939]	G1357	male	dilihat dari jalan sebelum ke pantainya itu kan airnya udah kelihatan bagus gitu
+[322.989,326.268]	G1357	male	kalau pantai kesukaanmu ke unikannya apa
+[329.829,330.948]	G1357	male	ohh
+[337.719,339.078]	G1357	male	em terus
+[340.990,341.990]	G1357	male	hm ya
+[342.910,347.810]	G1357	male	kesan kamu apa kalau abis dari pantai gitu mesti senang ya
+[378.188,379.249]	G1357	male	oh iya
+[388.360,389.898]	G1357	male	ya tadi itu
+[391.000,397.250]	G1357	male	kalau waktu perjalanan kesana tuh kayak viewnya tu dah keliatan dulu tu lo jadi
+[397.250,400.490]	G1357	male	buat foto dari kejauhan tu kelihatan bagus
+[401.648,402.439]	0	none	[SONANT]
+[404.560,405.319]	G1357	male	kalau
+[412.540,413.299]	G1357	male	kalau
+[420.758,424.758]	G1357	male	kalau aku sih suka terakhir kemarin ke
+[424.990,426.709]	G1357	male	Telomoyo itu
+[432.819,434.389]	G1357	male	ya boleh lah
+[440.619,446.630]	G1357	male	ya kalau mau naik gunung itu ya kuncinya harus dapat izin dari orang tua dulu
+[463.959,464.659]	G1357	male	em
+[472.929,474.589]	G1357	male	kalau di
+[476.198,480.318]	G1357	male	kalau di Telomoyo kalau di Telomoyo kemarin kan
+[480.518,484.220]	G1357	male	naiknya itu enggak jalan kaki pakai motor bisa
+[485.289,489.050]	G1357	male	jadi di san di sana tu cuman tinggal
+[489.130,491.750]	G1357	male	ndiriin tenda sama foto foto
+[503.318,505.039]	G1357	male	kalau waktu
+[505.420,511.278]	G1357	male	waktu pertama kali tu di Mongkrang tu berangkatnya jam sebelas malem to
+[511.420,513.168]	G1357	male	terus sampai
+[513.668,520.970]	G1357	male	sampai tempatnya jam satu sama naiknya satu jam berarti sampai puncak jam satu
+[523.750,524.658]	G1357	male	lihat
+[527.319,528.048]	G1357	male	hem
+[529.509,534.110]	G1357	male	kan ya buat buat ngejar sunrisenya itu
+[541.959,543.199]	G1357	male	em
+[556.268,557.028]	0	none	[SONANT]
+[568.539,570.319]	G1357	male	lebih gentleman
+[580.299,581.058]	0	none	[ENS]
+[586.269,587.419]	G1357	male	em ya
+[594.130,595.459]	G1357	male	iya
+[596.169,597.709]	G1357	male	eh kan kalau
+[597.730,601.700]	G1357	male	buat dapetin view yang bagus kan juga harus pengorbanan
+[601.959,603.528]	G1357	male	jadi ya
+[604.028,609.139]	G1357	male	kita rela nggak tidur cuman buat foto waktu matahari terbit gitu
+[622.239,626.058]	G1357	male	kalau rencanaku kelihatannya e bulan depan
+[628.209,629.209]	G1357	male	iya
+[630.968,633.108]	G1357	male	mau ke Malioboro
+[635.013,635.379]	0	none	[SYSTEM]
+[635.379,636.258]	G1357	male	iya
+[636.258,636.526]	0	none	[SYSTEM]
+[638.319,639.979]	G1357	male	sama temen
+[652.210,653.629]	G1357	male	tau lah
+[655.629,658.338]	G1357	male	ya kan banyak tempat buat fotonya
+[661.749,665.418]	G1357	male	eh terus juga banyak jajanan murah
+[670.960,672.079]	G1357	male	iya
+[675.070,679.038]	G1357	male	iya banyak-banyak pengamen berkelas nya gitu
+[684.098,685.189]	G1357	male	iya
+[687.369,690.978]	G1357	male	jadinya kayak gimana ya tadi ya
+[691.028,692.628]	G1357	male	Jogja itu
+[693.128,697.339]	G1357	male	buat tempat ngumpul anak muda kalau bahasa gaulnya
+[717.999,719.149]	G1357	male	iya
+[731.918,734.628]	G1357	male	kalau cowok mah bodo amat
+[737.649,738.679]	G1357	male	iya
+[744.279,745.219]	G1357	male	ya
+[751.657,754.969]	G1357	male	yang penting kan hatinya suka gara-gara liburan
+[760.898,762.379]	G1357	male	iya
+[770.710,771.710]	G1357	male	ehh
+[771.758,777.258]	G1357	male	rencana nya sih mau nonton live music nya Trisuaka di Pendopo Lawas
+[781.928,785.719]	G1357	male	Pendopo Lawas tuh deket alun-alun-alun Jogja
+[794.438,795.678]	G1357	male	nyiya
+[798.668,799.700]	0	none	[LAUGHTER]
+[801.398,802.159]	G1357	male	hmm
+[809.019,811.700]	G1357	male	kalau tempat selanjutnya sih belum tau
+[813.879,817.788]	G1357	male	kalau kamu sendiri gimana mau liburan kapan
+[819.398,820.249]	G1357	male	iya
+[822.549,824.058]	G1357	male	atau mau
+[824.139,825.739]	G1357	male	mau ikut aku aja
+[832.659,834.258]	G1357	male	hmm
+[836.079,840.918]	G1357	male	biasanya tu cuman yah dateng main saya langsung pulang
+[844.719,845.659]	G1357	male	hm
+[850.868,851.808]	G1357	male	iyahh
+[854.918,855.739]	G1357	male	hehe
+[858.668,859.609]	G1357	male	iya
+[864.159,865.279]	G1357	male	kalau
+[886.568,890.659]	G1357	male	ohh ya lain kali kalau mau kemping nanti aku pamitin
+[900.190,903.470]	G1357	male	kalau masalah dana sih belum tau juga
+[904.148,906.379]	G1357	male	kan nimbang kalo main tuh
+[907.779,912.888]	G1357	male	kalau biasanya tu bawa lima ratus ribu nanti disana tu yah
+[912.999,918.079]	G1357	male	dipress sekecil mungkinlah pengeluaran nya biar gak boros-boros banget
+[922.329,923.539]	G1357	male	lah iya
+[939.279,941.749]	G1357	male	oh yah nanti yang
+[941.919,944.148]	G1357	male	cowok jadi miskin dong
+[947.798,950.150]	G1357	male	lha pengeluaran nya dua kali
+[951.699,952.549]	G1357	male	yok
+[967.600,968.869]	G1357	male	e terus
+[969.400,971.299]	G1357	male	kalau kamu sendiri
+[971.829,975.409]	G1357	male	kalau main gitu kan kayak nya cewek kan suka belanja
+[976.210,977.960]	G1357	male	biasa nya belanja apa aja
+[983.829,984.769]	G1357	male	hm ya
+[994.960,996.589]	G1357	male	oh ya
+[1008.370,1009.308]	G1357	male	iya
+[1011.760,1012.520]	0	none	[SONANT]
+[1024.209,1029.168]	G1357	male	e tadi kan selain ke pantai gunung terus
+[1029.279,1031.749]	G1357	male	jajan-jajan kemana lagi kamu
+[1032.038,1033.608]	G1357	male	waktu liburan itu
+[1054.299,1055.538]	G1357	male	em
+[1064.829,1066.459]	G1357	male	ho iya
+[1071.579,1072.459]	0	none	[LAUGHTER]
+[1084.239,1086.829]	G1357	male	jangan lupain bakpia patok
+[1091.470,1092.349]	0	none	[*]
+[1093.780,1095.200]	G1357	male	eem terus
+[1102.959,1106.838]	G1357	male	me kalok menurut kamu kelebihan dari liburan sendiri itu apa sih
+[1123.329,1124.058]	G1357	male	hm
+[1140.220,1145.569]	G1357	male	kalau kelebihana kebel kelebihan liburan menurut aku sih ya kayak gimana ya
+[1145.709,1148.299]	G1357	male	dapat berpetualang gitu lah
+[1148.319,1152.108]	G1357	male	kayak nyari tempat baru buat nongkrong lah buat foto lah
+[1152.158,1155.530]	G1357	male	itu kayak bikin kesan tersendiri waktu liburan gitu
+[1158.039,1159.970]	G1357	male	iya dong
+[1178.079,1183.250]	G1357	male	em yaudah kalau gitu next time kalau aku mau holiday langsung aku kabarin ya
+[1204.959,1206.019]	G1357	male	O K
+[1206.099,1207.368]	G1357	male	bye-bye

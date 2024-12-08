@@ -1,0 +1,143 @@
+[1.059,2.720]	G1357	male	halo Mishela
+[5.650,7.400]	G1357	male	gimana kabarnya di sana
+[12.310,14.270]	G1357	male	wes sendiri juga baik baik aja
+[14.890,15.590]	G1357	male	terus
+[15.729,16.850]	G1357	male	gimana
+[17.379,18.770]	G1357	male	sekolah kamu di sana
+[24.579,26.809]	G1357	male	puji Tuhan semuanya juga lancar
+[30.520,34.310]	G1357	male	terus gimana kabar keluarga di sana baik baik aja kan
+[44.349,46.400]	G1357	male	keluargaku juga baik baik aja
+[46.900,48.319]	G1357	male	terus sekarang
+[49.119,53.029]	G1357	male	e ibu sama ayah kamu juga sehat sehat aja
+[56.529,57.529]	G1357	male	hmm
+[61.150,62.419]	G1357	male	kemaren
+[62.860,67.040]	G1357	male	kemaren ibu sempet sakit gara gara kecapean mungkin
+[76.300,77.239]	G1357	male	kemaren
+[77.470,78.169]	G1357	male	nin
+[80.410,84.500]	G1357	male	iya kemaren cuman masuk angin gara gara kecapean itu
+[90.459,93.349]	G1357	male	dah aku juga sehat sehat aja
+[100.150,101.779]	G1357	male	puji Tuhan lancar
+[105.160,106.790]	G1357	male	terus biasanya
+[107.260,111.379]	G1357	male	bapak kamu ngapain aja kalo umpama libur di rumah gitu
+[131.800,132.949]	G1357	male	oh ter
+[135.639,141.830]	G1357	male	kalo papaku tu biasanya kalo libur lebih sering mancing keluar kota
+[152.229,160.070]	G1357	male	iya jadi kalo selese mancing kan papa pulang juga bawa banyak ikan bisa buat makan makan sekeluarga gitu
+[164.440,165.618]	G1357	male	enaklah
+[175.509,179.660]	G1357	male	ya tergantung papa ambil cutinya kapan
+[185.919,186.919]	G1357	male	ngga
+[188.529,192.229]	G1357	male	iya sesuai jadwal kerjanya
+[199.059,202.910]	G1357	male	wah kalo mu masalah pacar nanti dulu
+[208.929,211.070]	G1357	male	iya kan masih harus
+[211.539,215.210]	G1357	male	jadi panutan di keluarga juga
+[216.399,220.639]	G1357	male	harus bisa naikin derajat keluarga jadi yang lebih baik
+[228.369,229.190]	G1357	male	hmm
+[232.960,238.250]	G1357	male	kalo masalah deket sih satu dua juga ada tapi kan cuma sebatas teman
+[242.289,243.470]	G1357	male	iyalah
+[245.770,248.089]	G1357	male	hmm ya temenan dulu lah
+[252.789,253.910]	G1357	male	kalo kamu wes
+[255.429,257.480]	G1357	male	kalo sendiri gimana
+[278.440,280.399]	G1357	male	oh O K terus
+[280.869,285.980]	G1357	male	uh kemaren kemaren aku denger katanya baru ada masalah di keluarga
+[313.989,317.179]	G1357	male	hmm apa lagi di tengah pandemi kaya gini ya
+[339.549,343.279]	G1357	male	terus gimana ibu kalo di rumah ngapain aja
+[345.578,346.520]	G1357	male	iya
+[374.559,375.859]	G1357	male	enak-enak
+[378.758,379.820]	G1357	male	iya
+[406.508,408.019]	0	none	[*]
+[408.039,414.198]	G1357	male	ya nanti kalau udah aku udah dapatin info tentang kerjaan nanti langsung kita telepon lagi
+[419.619,420.650]	G1357	male	iya
+[440.500,444.198]	G1357	male	eh aku mau sedikit cerita juga nih
+[446.198,449.869]	G1357	male	kan ibu aku kerja di Sari Warna
+[450.250,458.539]	G1357	male	itu aku udah bilang untuk jaga kesehatan jangan terlalu lelah tapi masih aja memaksakan diri kamu punya solusi gak buat
+[458.769,461.448]	G1357	male	bantu mama jadi
+[461.890,463.460]	G1357	male	eh kayak
+[463.689,467.929]	G1357	male	iya teratur lah makannya teratur tidurnya
+[468.159,470.299]	G1357	male	kan gak terlalu memaksakan diri
+[473.288,474.288]	G1357	male	iya
+[481.869,489.289]	G1357	male	kalo aku pandemi waktu pandemi ini ya palingan cuman rebahan sambil mainan hp
+[493.240,495.080]	G1357	male	ya nonton tv
+[495.698,499.520]	G1357	male	tidur makan ya kayak kegiatan biasa la
+[506.770,510.740]	G1357	male	ya kalo gak minat itu hal wajib wkwk
+[515.140,517.068]	G1357	male	ya kan juga
+[518.948,520.068]	G1357	male	ya kan
+[521.048,524.959]	G1357	male	kayak interaksi antara kakak dan adik kayak gitu
+[534.819,537.439]	G1357	male	iya minta mama bikin adik
+[540.640,541.490]	0	none	[LAUGHTER]
+[542.500,543.319]	0	none	[LAUGHTER]
+[545.110,546.319]	G1357	male	iya ya
+[548.890,551.089]	G1357	male	kalau kamu sendiri ngapain aja
+[554.048,556.490]	G1357	male	kalau kamu sendiri ngapain aja di rumah
+[567.880,569.298]	G1357	male	oh
+[574.599,576.020]	G1357	male	ok ok
+[577.750,579.979]	G1357	male	terus eh kan
+[580.329,585.979]	G1357	male	biasanya kan sekeluarga kan mesti nyempatin waktu buat barengan ya
+[586.209,590.599]	G1357	male	tuh biasa kalau umpama semua pada free gitu
+[590.798,592.459]	G1357	male	ngapain aja di rumah itu
+[594.099,596.030]	G1357	male	kayak umpama
+[596.589,604.130]	G1357	male	kayak umpama pas ayah libur terus mama juga di rumah kan kamu sendiri juga pas di rumah tuh ngapain aja
+[604.299,606.380]	G1357	male	kan kayak family time gitu
+[610.000,610.970]	G1357	male	iya
+[638.920,640.368]	G1357	male	emmm ya
+[651.130,653.239]	G1357	male	kalau marah sih ya
+[654.220,655.489]	G1357	male	kadang
+[656.470,658.428]	G1357	male	gara gara itu keseringan
+[658.480,660.439]	G1357	male	keseringan tidurlah
+[660.639,664.998]	G1357	male	kadang main H P sampe lupa waktu makan lupa waktu mandi
+[665.229,666.408]	G1357	male	jadi ya
+[669.309,670.939]	G1357	male	ngga kaya
+[701.320,702.559]	G1357	male	iya
+[708.100,713.419]	G1357	male	terus menurut kamu kelebihannya kalo waktu kumpul keluarga itu apa
+[716.440,717.320]	G1357	male	iya
+[720.220,721.189]	G1357	male	harmonis
+[729.490,730.490]	G1357	male	iya
+[744.970,745.789]	G1357	male	kamu leb
+[746.919,754.699]	G1357	male	iyalah menurut aku kelebihan waktu keluarga kumpul tu ya kaya mempererat tali persaudaraan gitu lah
+[754.699,756.529]	G1357	male	ya tali kaya
+[756.908,758.539]	G1357	male	hubungan darah
+[759.039,762.499]	G1357	male	di keluarga kan jadi makin erat lebih makin baik
+[768.490,770.749]	G1357	male	terus kalo menurut kamu ya
+[773.889,775.970]	G1357	male	kalo menurut kamu tu
+[776.470,780.589]	G1357	male	uh kaya gimana ya sisi dari keluarga kumpul itu apa
+[780.908,783.710]	G1357	male	ya kaya hal yang ngga kamu sukai gitu loh
+[803.529,804.230]	G1357	male	hmm
+[816.518,817.218]	G1357	male	kalo
+[818.048,823.999]	G1357	male	kalo menurut aku si ya kadang tu kekurangnya tu jadi rame banget ni
+[824.200,829.549]	G1357	male	apa lagi kan ponakan ponakan mamah gitu pada main sana berisik semua
+[830.230,835.669]	G1357	male	biasanya jam tidur malah pada berisik kan jadi ngga bisa tidur
+[853.419,854.450]	G1357	male	oh
+[866.889,868.669]	G1357	male	hm iya terus
+[868.960,872.480]	G1357	male	pak Diarya tu katanya masih kerja di Rosalia
+[882.909,884.090]	G1357	male	hmm
+[885.490,887.719]	G1357	male	berarti masuknya juga jarang ya
+[891.609,892.700]	G1357	male	terus kalo
+[895.419,897.350]	G1357	male	hmm terus kalo
+[897.428,899.719]	G1357	male	tante Diana tu sekarang kerja di mana
+[903.460,904.309]	G1357	male	iya
+[909.939,911.538]	G1357	male	hmm
+[911.859,913.220]	G1357	male	jarang ketemu
+[917.918,919.609]	G1357	male	terakhir ketemu kapan
+[924.398,925.668]	G1357	male	o
+[939.699,940.848]	G1357	male	iya iya iya
+[947.500,950.449]	G1357	male	eyang aku puji Tuhan masih sehat semua
+[959.019,960.289]	G1357	male	ngga ada
+[966.880,968.690]	G1357	male	itu loh ding ngempla
+[971.679,972.679]	G1357	male	iya
+[976.118,981.499]	G1357	male	ngga paling naik sepeda motor lima menit tujuh menit udah sampe
+[985.238,985.999]	0	none	[LAUGHTER]
+[987.158,988.158]	G1357	male	iya
+[1000.388,1001.599]	G1357	male	Monorejo
+[1011.428,1014.738]	G1357	male	terus gimana jabatan papa kamu udah naik belum
+[1040.617,1043.420]	G1357	male	tanggung tanggung jawabnya tambah besar ya
+[1072.269,1074.288]	G1357	male	terus kamu juga ngikut kesana
+[1110.818,1111.818]	G1357	male	iya
+[1112.738,1114.699]	G1357	male	hm kalo boleh
+[1115.619,1117.848]	G1357	male	kalo boleh ngasih saran si ya
+[1117.930,1123.548]	G1357	male	mending nyelesain kuliah kuliah kamu dulu di sini habis itu nyusul papa kamu
+[1127.738,1129.668]	G1357	male	ya kan ngga lama
+[1165.268,1166.630]	G1357	male	oalah
+[1170.699,1175.208]	G1357	male	iya kalo deket si deket tapi kan juga harus jadi mandiri
+[1175.259,1177.759]	G1357	male	jangan terlalu bergantung sama orangtua
+[1183.150,1184.839]	G1357	male	iya kan harus
+[1185.339,1189.579]	G1357	male	besok jadi kepala kelurga harus jadi teladan juga
+[1200.788,1204.400]	G1357	male	O K aku juga mau ngelanjutin kegiatanku dulu
+[1205.949,1207.190]	G1357	male	dadah

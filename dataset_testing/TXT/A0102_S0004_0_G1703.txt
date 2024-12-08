@@ -1,0 +1,231 @@
+[4.360,5.480]	G1703	female	halo
+[6.219,7.849]	G1703	female	apa kabar Valen
+[12.069,15.380]	G1703	female	baik dong ada apa nih kamu telpon aku
+[20.020,21.200]	G1703	female	iya
+[22.000,25.399]	G1703	female	kenapa tapi tumben-tumbenan
+[31.959,32.900]	G1703	female	owhh
+[34.029,40.549]	G1703	female	iyasih bener banget ih boleh kok boleh kan aku juga mumpung lagi free sih
+[41.590,42.950]	G1703	female	gimana-gimana
+[43.060,44.810]	G1703	female	kamu mau nanya apa
+[50.470,52.729]	G1703	female	ooh kok kamu tau
+[59.889,64.220]	G1703	female	iya kamu maksudnya kamu kenal dari mana gitu sama Devi
+[68.769,73.550]	G1703	female	oalaah kamu lagi deket sama dia ciyee
+[79.059,83.779]	G1703	female	oalah iya sih aku lagi deket sama Devi
+[86.769,88.849]	G1703	female	dia ooh baik kok
+[89.199,94.879]	G1703	female	baik banget dia tapi terakhir tu aku ketemu itu kapan yaa
+[95.110,101.930]	G1703	female	kee kayaknya dua minggu yang lalu kan dia itu kayak apa ya
+[102.160,103.430]	G1703	female	eh
+[103.569,108.980]	G1703	female	pusing katanya e kuliahnya itukan dia ambil jurusan perawat nih
+[109.209,110.300]	G1703	female	dia tu kayak
+[110.500,112.400]	G1703	female	aduh malu gitu kayak
+[112.660,119.389]	G1703	female	eh gimana nih Sel aku tuh sebenarnya udah capek kuliah di jadi perawat itu
+[119.389,126.500]	G1703	female	karena tugasnya itu banyak gek dia tu kayak ngerjain tugas itu sampai malam
+[126.550,132.320]	G1703	female	kayak ngelembur terus gitu capek gitu katanya trus belum lagi kayak
+[132.320,140.330]	G1703	female	praktek-praktek magang kayak gitu trus bayaran sekolahnya itu juga enggak sedikit gitu sih katanya
+[145.990,150.529]	G1703	female	dia-dia kayaknya di mana ya
+[151.089,152.899]	G1703	female	di Boyolali apa ya
+[152.919,155.089]	G1703	female	jauh og rumahnya dari rumah
+[155.169,158.000]	G1703	female	dari rumah ke sekolah itu dia juga ngeluh
+[158.020,163.910]	G1703	female	dia itu berangkat kan sebenarnya masuknya tu katanya sih jam berapa ya jam tujuh
+[163.990,167.779]	G1703	female	dan dia tu kadang berangkat dari rumah itu harus jam
+[167.919,169.339]	G1703	female	setengah enam
+[169.360,174.500]	G1703	female	apa jam nam gitu kadang kalo dia udah lebih dari jam segitu itu dia tu dah
+[174.669,183.139]	G1703	female	telat sampek dah terlambat sampek dimana di sekolahannya karena dia kan juga harus nganter mamanya dulu
+[183.190,189.979]	G1703	female	ke kan mamahnya ngajar nih jadi guru e otomatiskan juga harus on time kan
+[189.979,192.830]	G1703	female	itu sih dia ngeluh kayak gitu biasanya
+[197.139,198.080]	G1703	female	iya
+[201.220,203.839]	G1703	female	temen deketku eeh
+[204.190,206.660]	G1703	female	ya banyak sih cumakan
+[206.740,211.820]	G1703	female	dia tu orangnya si Devi itu orangnya tu baik banget
+[212.050,216.229]	G1703	female	dia tu juga humoris terus kayak
+[216.429,217.490]	G1703	female	apa ya
+[217.869,221.360]	G1703	female	mamah sama mam-mamahku sama mamahnya dia tu udah
+[221.529,223.580]	G1703	female	waduh dah kayak saudara
+[225.250,232.880]	G1703	female	udah-udah lama banget gitu pokoknya udah deket banget jadi tu aku tu sama dia juga udah kayak
+[232.990,237.500]	G1703	female	permen karet gitu kemana-mana tu pasti bareng lengket gitu
+[238.360,239.509]	G1703	female	oh iya
+[239.589,241.009]	G1703	female	heem
+[246.070,250.970]	G1703	female	sama Devi itu kayaknya aku itu temenan
+[251.259,257.720]	G1703	female	temenan dah dari T K jadi dari T K itu aku
+[258.040,266.299]	G1703	female	sama dia tu udah temenan akrab mungkin karena mamahku sama mamahnya dia itu sering kemana-mana bareng jadi kita juga akrabkan
+[266.410,273.410]	G1703	female	trus ditambah lagi ternyata eyangnya dia itu tetanggaan sama eyangkuu
+[273.549,279.200]	G1703	female	jadi kalo udah kayak jadi-jadi udah tau gimana dia dah deket banget
+[279.820,281.720]	G1703	female	gitu oh iya
+[281.859,288.829]	G1703	female	kamu eeh yang kamu sukain dari Devi itu apa sih kok kamu juga kenal dan kayaknya
+[289.029,290.359]	G1703	female	deket ya mungkin ya
+[290.410,291.589]	G1703	female	deket nggak sih
+[308.529,310.399]	G1703	female	terus selain friendly apa
+[314.739,315.890]	G1703	female	oiya sih
+[316.239,321.229]	G1703	female	he e benar banget dia itu orangnya gampang akrab maksudnya gini
+[321.229,330.017]	G1703	female	misalnya nih aku punya teman yang lainya dia tak ajakin gitu ya main dia itu juga gampang banget isa nyambung gitu orangnya jadi itu
+[330.017,333.948]	G1703	female	kayak enggak canggung canggung dan dia itu orangnya kepedean banget ini
+[333.998,337.578]	G1703	female	dan apa ya mungkin karena dia kan
+[337.777,344.599]	G1703	female	ee orang mamahnya itu juga orang mah papahnya kan orang punya nih jadi kalau sama dia itu juga enak
+[344.740,347.688]	G1703	female	yah ke mana mana kan naik mobil gitu
+[347.740,352.277]	G1703	female	tapi sayang si aku itu yang tak sayangin itu karena dia itu
+[353.019,357.320]	G1703	female	gimana ya ada yang dekat ya ada yang dekatin tapi kayak cuma
+[357.489,364.188]	G1703	female	apa ya kayak cuman manfaatin dia aja tapi gimana ya namanya juga orang cinta kan mungkin
+[364.188,371.119]	G1703	female	dia di bilangin gitu kan kadang ada yang enggak sreknya nanti kan aku juga takut kalau dik- di kira itu aku
+[371.119,374.269]	G1703	female	mau apa iya gimana gimana sama dia
+[374.707,376.097]	G1703	female	gitu
+[382.479,384.709]	G1703	female	ya itu dia kan orangnya
+[384.760,387.768]	G1703	female	tadi kan aku dah bilang dia tuh orangnya tuh kayak
+[388.027,389.180]	G1703	female	apa ya
+[389.229,391.789]	G1703	female	ehh humoris gitu terus kayak
+[391.989,399.440]	G1703	female	ee dia itu gampang akrab sama siapa pun dia enggak pilih pilih teman juga dia orangnya juga gampang si
+[399.789,401.959]	G1703	female	dan dit dip apa
+[402.459,409.158]	G1703	female	aku seumpama ini aku curhat sama dia itu kayak dia itu nyambung gitu kayak ngasih saran gitu
+[413.080,414.289]	G1703	female	he em
+[422.408,423.378]	G1703	female	he em
+[423.698,425.238]	G1703	female	iya gimana
+[427.448,433.760]	G1703	female	hal hal seru paling itu kita kayak kocak kocak kan gitu ee kayak ee
+[433.760,440.510]	G1703	female	bahas bahas engga jelas gitu terus nanti ujung ujungnya kita ketawa sampai ngakak ngakak banget gitu
+[440.510,450.198]	G1703	female	sampai apa iya kadang itutetangganya itu kayak pada ih kok ini pasti ngiranya itu kok berisik banget itu pada ngapain gitu
+[450.198,453.740]	G1703	female	paling sih aku ke tempat tempat yang apa iya
+[454.149,460.399]	G1703	female	yang kayak recommended banget gitu sekarang lagi viral paling sama dia itu kayak gitu
+[460.399,469.818]	G1703	female	paling ngopi gitu terus kayak ee kayak iya itu si kayak pergi pergi holiday kayak ke pantai gitu si paling
+[469.990,473.568]	G1703	female	kalau tempat favorit aku sama dia itu paling gitu
+[476.618,477.860]	G1703	female	he em
+[490.058,490.940]	G1703	female	oh
+[491.020,494.119]	G1703	female	kalau debat sih itu sering banget
+[494.140,497.210]	G1703	female	berantem itu paling juga berantemnya tuh kayak
+[497.618,506.390]	G1703	female	berantem berantem enggak beneran gitu kayak kan gini ini aku sama Devi itu ee temanan dan kayak saudara itu
+[507.159,515.338]	G1703	female	emm gimana iya kayak enggak sebentar gitu lo kayak udah lama banget jadi itu aku tahu gimana dia terus
+[515.338,521.837]	G1703	female	aku juga tahu kayak apa iya dia aku harus ngapain dia supaya di- dia itu
+[521.837,526.940]	G1703	female	enggak marah gitu kayak tahu seluk beluk nya dia gitu kayak misalnya aku
+[526.940,535.219]	G1703	female	harus gini lah aku harus gitu lah biar dia enggak marah jadi iya kita ngejalani nya itu sampai sekarang itu iya lancar lancar aja
+[535.219,541.367]	G1703	female	paling si pernah karena berantem itu gara gara cowok nya dia mantan nya dia itu
+[541.449,545.419]	G1703	female	kan gimana ya mantan nya dia itu temen ku
+[545.919,547.158]	G1703	female	S M A nih
+[547.329,548.240]	G1703	female	nah
+[548.259,549.919]	G1703	female	temenku S M A itu
+[550.329,558.348]	G1703	female	kan dia pernah tak ajakin main gitu bareng-bareng teman aku S M A itu bilang 'loh Sel kamu kenal sama pacar nya Devi kan pasti' gitu
+[558.399,562.190]	G1703	female	kok Devi sama itu sih si a nih seumpama
+[562.269,569.240]	G1703	female	ee padahal itu orang nya itu playboy kayak gini badboy gini gini gini gini gini enggak baik Sel
+[569.240,574.159]	G1703	female	dia itu cuma manfaatin cewek biasa nya apa iya to ternyata
+[574.179,581.659]	G1703	female	awal nya aku enggak percaya sih iya aku iya biasa aja tak buat aku sendiri kan buat maksudnya buat masukan aku sendiri
+[581.659,586.368]	G1703	female	masa si orang nya kayak gitu kan aku juga enggak percaya ini terus
+[586.539,589.339]	G1703	female	ehh selang waktu beberapa waktu gitu
+[589.839,594.169]	G1703	female	aku lihat sendiri kalau si mantan nya Devi itu
+[594.759,597.079]	G1703	female	engga baik terus
+[597.669,600.409]	G1703	female	kubilang kan sama dia pelan pelan
+[600.610,604.520]	G1703	female	tapi dia nya itu sempet enggak percaya ini aku bilang loh
+[604.780,608.598]	G1703	female	Dev kan kamu buka nya waktu itu masih pacaran iya kok dia sama
+[609.038,617.478]	G1703	female	cewek yang lain gitu lo kan enggak boleh kan seharus nya maksud nya kan enggak banget kalau dia kayak gitu yaudah akhir nya kan aku pelan pelan bilang tapi
+[617.478,625.610]	G1703	female	si Devi itu enggak percaya kan terus malah aku itu hmm jangan jangan kamu bikin bikin to Sel kok bisa sih kamu kayak gitu to ngono ki
+[625.611,631.279]	G1703	female	terus kenapa kok kayak gitu udahlah biarin gini gini dia itu sempat nggak percaya terus
+[632.110,634.248]	G1703	female	kapan lagi tu dia ternyata
+[634.299,643.069]	G1703	female	kayak mergokin sendiri gitu dari H P cowoknya itu ada chat chatan dia sama ceweknya yang lain gitu
+[643.069,649.849]	G1703	female	terus la baru dari situ dia percaya kalau cowoknya itu enggak baik akhirnya aku bilang
+[649.849,655.398]	G1703	female	yaudah deh daripada kamu kayak gitu mending kamu udahin sampai di sini aja hubungannya
+[655.748,659.360]	G1703	female	yaudah terus akhirnya dia putus tapi ya sempat
+[659.618,665.450]	G1703	female	marahan berapa hari gitu terus ya itu kan aku bilang coba kamu cek H P nya
+[665.528,667.100]	G1703	female	eh ternyata bener
+[667.209,670.309]	G1703	female	yaudah akhirnya dia percaya sama aku gitu
+[679.508,680.569]	G1703	female	iya sih
+[681.610,684.200]	G1703	female	paling aku di kopi sih biasanya
+[687.220,688.190]	G1703	female	he em
+[689.649,695.778]	G1703	female	kopi biasanya eng ya macam macam sih karena kan di Solo itu kan kopinya banyak ya
+[695.778,700.369]	G1703	female	paling aku paling sering itu di Ajar Ngopi sih biasanya
+[700.989,703.039]	G1703	female	oh iya eh
+[703.090,705.980]	G1703	female	kabar teman kamu yang
+[706.628,711.138]	G1703	female	itu lo siapa ya namanya ya eh yang anak Misdinar itu lo
+[712.449,715.278]	G1703	female	duh siapa ya U M K juga dia
+[715.449,718.009]	G1703	female	si siapa si Delvi kalau nggak salah
+[719.709,725.028]	G1703	female	kan iya itu kan dulu kan juga adik kelasku kan kamu masih sama itu
+[725.649,727.399]	G1703	female	emm kamu juga
+[733.840,737.360]	G1703	female	oh tapi hubunganmu sama dia masih baik baik aja toh
+[739.989,743.569]	G1703	female	hmm lah ya syukur deh kalau baik baik aja
+[743.860,746.179]	G1703	female	kamu juga masih sering aktif kan
+[761.378,766.460]	G1703	female	e tapi kayak di perkumpulan Katolik itu juga masih sering
+[766.628,768.139]	G1703	female	kayak apa ya
+[769.330,773.449]	G1703	female	ya kayak itu kan kayak kumpul kumpul gitu juga masih sering kan
+[775.119,776.268]	G1703	female	emm
+[776.440,779.210]	G1703	female	iya sih biasanya kamu sama dia
+[779.919,784.490]	G1703	female	pernah nggak keluar gitu misalnya main apa nongkrong gitu
+[791.470,792.830]	G1703	female	apa tu namanya
+[797.169,798.589]	G1703	female	ooh
+[799.539,801.949]	G1703	female	mbok kapan kapan gitu kamu
+[801.970,810.259]	G1703	female	e ngajakin aku anterin gitu di sana siapa tau kan kalau teman teman aku misalnya cari rekomendasi yang
+[810.259,818.268]	G1703	female	murah nih biasanya terus yang nggak mahal mahal banget biasanya kan anak muda kayak gitu boleh dong kamu kasih tau apa anterin aku
+[823.449,826.908]	G1703	female	oke siap dong kalau kayak gitu
+[827.259,828.440]	G1703	female	iya sih
+[829.089,832.518]	G1703	female	kamu mau nanya apa lagi nih tentang Devi
+[841.809,842.690]	G1703	female	iya
+[843.158,845.149]	G1703	female	dia pasti ngasih masukan kok
+[845.169,851.240]	G1703	female	dia juga biasanya bantuin aku dia juga ngasih saran anaknya tu baik banget
+[852.249,853.339]	G1703	female	iya
+[855.908,856.878]	G1703	female	dia
+[859.600,862.309]	G1703	female	aku sama dia biasanya kesamaannya
+[863.139,865.070]	G1703	female	hobi banget yang namanya
+[865.419,870.499]	G1703	female	main sama shopping belanja gitu biasanya paling tu
+[870.499,878.389]	G1703	female	kadang beli baju kembaran sama dia terus beli apa ya sepatu gitu biasanya juga kembaran
+[878.499,884.929]	G1703	female	kan kadang nih e ayo Sel aku bosen nih di rumah dia kan gitu biasanya dia
+[885.008,888.949]	G1703	female	terus mau ke mana kan aku kayak gitu kan terus
+[888.949,895.429]	G1703	female	dia paling jawab ayo kek ke mana gitu nongkrong apa belanja hi belanja boros tau kan aku gitu
+[895.449,902.120]	G1703	female	dia mah tinggal minta minta orang tuanya aja kalau aku kan paling juga mikir mikir dulu sih biasanya
+[902.120,908.149]	G1703	female	tapi ya sering kalau kayak dia kan aduh paling ya ngajak couplean gitu
+[908.149,911.268]	G1703	female	ngajak kembaran baju gitu
+[911.288,915.649]	G1703	female	kadang ya nganter dia aja sih belanja gitu biasanya
+[919.479,921.259]	G1703	female	oh ya aku boleh nanya nggak
+[925.240,931.219]	G1703	female	ee makanan kesukaan kamu sama si Delvi tu apa biasanya
+[938.889,940.219]	0	none	[LAUGHTER]
+[940.659,944.569]	G1703	female	loh kenapakok kayak sampah gitu masakannya
+[944.709,946.939]	G1703	female	apa apa dimakan kan gak boleh
+[947.470,951.169]	G1703	female	eh boleh-boleh deng yakan suka-suka ya
+[956.889,957.799]	G1703	female	eee
+[963.459,965.748]	G1703	female	ya maknanya itu banyak banget
+[965.768,967.428]	G1703	female	kayak gimana ya
+[967.598,974.059]	G1703	female	kita bisa jadi tau gimana tuh cara nahan emosi gitu sih kayak
+[974.108,980.509]	G1703	female	ee kita tu kayak di dunia ini gak cuman sendiri kayak buat keluh kesah itu
+[980.509,985.908]	G1703	female	ada yang mau dengerin kayak plong aja gitu lo bisa saling curhat gitu
+[986.259,989.868]	G1703	female	oh iya kalok kamu sendiri punya temen dekat gak sih
+[996.638,998.809]	G1703	female	hm biasanya
+[998.858,1000.998]	G1703	female	kamu juga sering main kan sama dia
+[1008.009,1011.678]	G1703	female	lah biasanya kamu nongkrong dimana
+[1012.509,1014.470]	G1703	female	kalau sama temen deketmu itu
+[1019.019,1020.349]	G1703	female	ee
+[1025.679,1027.308]	G1703	female	serba kopi ya
+[1029.220,1030.519]	G1703	female	lah iya
+[1031.078,1033.910]	G1703	female	ooo biasanya kalau kamu punya masalah gitu
+[1035.549,1037.808]	G1703	female	ya kamu lakuin sama dia itu apa
+[1045.539,1046.720]	G1703	female	gak disupport
+[1047.009,1048.067]	G1703	female	heem-heem
+[1051.179,1052.630]	G1703	female	iya bener
+[1052.709,1054.848]	G1703	female	iya sih itu pasti
+[1056.369,1064.450]	G1703	female	heem itu pasti terus kan gantian nih kamu tadi udah nanya apa sih makna pertemanan persahabatan
+[1064.450,1068.440]	G1703	female	buat aku lah sekarang kalok buat kamu sendiri nih apa coba
+[1080.518,1082.029]	G1703	female	kok bisa kayak uang
+[1082.949,1084.339]	G1703	female	kok bisa kayak uang
+[1092.789,1093.699]	G1703	female	heem
+[1096.238,1102.638]	G1703	female	oh iya bener-bener kek ee temen tu kayak sahabat itu harus dieman-eman gitu ya
+[1102.868,1105.940]	G1703	female	berharga lebih berharga dari apapun
+[1107.190,1109.089]	G1703	female	kita berharga [UNK]
+[1112.619,1113.979]	G1703	female	hmm
+[1114.238,1115.568]	G1703	female	iya
+[1115.919,1117.818]	G1703	female	oh iya bener banget sih
+[1118.048,1122.889]	G1703	female	bener banget kan kita juga harus saling menjaga satu sama lain
+[1123.119,1127.449]	G1703	female	buat jadi saudara tambah banyak temen sahabat itu jugak
+[1127.889,1129.279]	G1703	female	perlu gitu lo
+[1129.479,1135.190]	G1703	female	karna kan di dunia ini kan iya kita kan juga gak sendiri
+[1135.268,1138.999]	G1703	female	ada yang bisa ndengerin keluh kesah kita
+[1139.078,1142.149]	G1703	female	terus apa ya bisa bantuin kita
+[1142.259,1147.880]	G1703	female	bisa member kasih masukan buat kita terus apa ya apa kira-kira ya
+[1149.669,1151.568]	G1703	female	maknanya itu tersendiri
+[1151.889,1153.279]	G1703	female	kayak uang itu ya
+[1153.568,1154.779]	G1703	female	emm
+[1155.460,1156.578]	G1703	female	lah iya
+[1156.660,1157.839]	G1703	female	kan kalo
+[1158.999,1165.098]	G1703	female	tanpa ada duit kita tidak bisa jad tidak bisa jadi apa itu
+[1165.098,1169.720]	G1703	female	tanpa duit itu kita tidak bisa iya bener banget sih
+[1171.479,1172.839]	G1703	female	oo iya betul
+[1175.109,1178.238]	G1703	female	sehari-hari oo iya bener banget sih
+[1178.649,1181.749]	G1703	female	yo ya gimana ya yaudah sih
+[1182.009,1185.589]	G1703	female	maknanya jugak menurut aku jugak itu sama
+[1186.539,1191.318]	G1703	female	kayak uang itu tadi karna kalok tanpa ada uang kan kita
+[1191.609,1192.699]	G1703	female	gimana ya
+[1192.839,1194.348]	G1703	female	kayak
+[1194.460,1198.700]	G1703	female	hidupnya itu hampa mau beli ini gak bisa mau beli itu gak bisa
+[1198.748,1200.410]	G1703	female	oh yaudah ya Len
+[1200.489,1204.098]	G1703	female	aku mau ngelanjutin bantuin mama dulu
+[1204.420,1208.720]	G1703	female	dadah makasih curhatannya ya

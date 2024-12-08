@@ -1,0 +1,240 @@
+[3.369,5.269]	G1703	female	hal- halo
+[5.980,7.400]	G1703	female	ada apa Len
+[9.069,12.319]	G1703	female	eh baik kok aku kamu sendiri
+[15.670,16.610]	G1703	female	oh
+[16.629,17.540]	G1703	female	oke
+[20.350,24.020]	G1703	female	sekolahku baik kok Len kalau kamu
+[27.969,30.409]	G1703	female	oh ya puji Tuhan
+[35.319,39.380]	G1703	female	keluarga keluarga aku baik baik kok semuanya
+[39.939,44.209]	G1703	female	puji Tuhan kalau keluargamu juga baik kan
+[47.650,49.279]	G1703	female	oh ya udah
+[54.250,55.849]	G1703	female	sehat sehat kok
+[57.099,58.069]	G1703	female	kalau
+[58.630,60.560]	G1703	female	ayah dan ibumu
+[61.360,62.959]	G1703	female	gimana kabarnya
+[68.800,69.980]	G1703	female	oh
+[70.900,73.819]	G1703	female	kenapa Len emang mama apa
+[74.080,76.040]	G1703	female	mama kamu sakitnya apa
+[76.480,78.500]	G1703	female	kecapekan aja apa
+[78.550,80.330]	G1703	female	ada sebab lain
+[86.349,89.779]	G1703	female	ooh gitu kalau adik kamu
+[90.550,92.029]	G1703	female	gimana kabarnya
+[97.569,99.529]	G1703	female	lancarkan sekolahnya
+[102.910,104.599]	G1703	female	oh oke oke
+[112.809,114.199]	G1703	female	paling
+[114.669,119.059]	G1703	female	bapak kalau di rumah itu kadang ya
+[119.260,121.220]	G1703	female	bikin bikin kayak
+[121.300,124.190]	G1703	female	apa ya kerajinan tangan gitu
+[124.389,125.779]	G1703	female	apa
+[126.160,128.419]	G1703	female	bersih bersih rumah kadang
+[129.520,130.639]	G1703	female	gitu sih
+[131.889,135.020]	G1703	female	kalau papa kamu gimana
+[143.020,143.720]	G1703	female	oh
+[144.759,151.759]	G1703	female	wah dapet banyak dong pasti kalau apa namanya mancing ban mancing kan biasanya dapetnya ikannya banyak
+[161.380,163.820]	G1703	female	ooh enak dong
+[165.070,166.610]	G1703	female	itu kalau mancing
+[166.869,167.720]	G1703	female	tiap
+[168.429,172.070]	G1703	female	rutin tiap Minggu apa cuman
+[172.899,175.130]	G1703	female	tertentu aja apa gimana
+[180.729,183.679]	G1703	female	emm gitu berarti nggak
+[183.850,185.720]	G1703	female	nggak rutin gitu ya
+[185.770,190.190]	G1703	female	kalau apa ambil cuti aja berarti ya ooh gitu
+[193.240,194.630]	G1703	female	hmm gitu
+[194.949,198.289]	G1703	female	gimana nih kamu udah punya pacar belum
+[205.419,207.860]	G1703	female	kok gitu kenapa
+[216.669,218.210]	G1703	female	oh iya sih ya
+[221.740,223.160]	G1703	female	oh iya sih
+[223.270,225.410]	G1703	female	anu yang nggak terlalu
+[225.429,228.050]	G1703	female	pentingin pacaran dulu sih benar
+[228.160,232.639]	G1703	female	cuma kan kalau yang lagi dekat dekat ada sih ya pasti
+[239.679,245.000]	G1703	female	ih masak sebatas temen aja masak nggak ada perasaan lebih gitu
+[246.820,248.630]	G1703	female	kamu nggak mau nih nanya
+[249.580,250.639]	G1703	female	oh
+[250.660,252.710]	G1703	female	yaudah sih nggak papa
+[252.970,254.960]	G1703	female	tapi asal jangan bany
+[255.699,257.390]	G1703	female	banyak kamu P H P
+[257.410,258.320]	0	none	[LAUGHTER]
+[258.820,261.470]	G1703	female	aku ya kalau aku sih
+[261.790,263.839]	G1703	female	yaa gimana ya
+[264.760,267.049]	G1703	female	ada sih yang lagi dekat
+[267.519,269.630]	G1703	female	cuman ya kadang
+[269.890,275.720]	G1703	female	ya biasalah kayak buat temanan dulu sama sih aku juga men masih mentingin
+[276.100,277.309]	G1703	female	kuliah
+[289.630,292.339]	G1703	female	ya sih paling itu
+[292.690,294.260]	G1703	female	masalah
+[294.940,297.049]	G1703	female	ekonomilah kan
+[299.109,304.850]	G1703	female	yang kerja cuma papaku kalau mamaku kan cuma jadi ibu rumah tangga aja
+[304.850,310.820]	G1703	female	na dia kan papa aku juga harus ngebiayain aku kuliah dan kuliah itu
+[310.957,313.040]	G1703	female	biayanya enggak sedikit
+[318.129,323.207]	G1703	female	iya lagi pandemi Cov-pandemi Covid kayak gini itu
+[323.978,328.698]	G1703	female	kadang kan masuk kerjanya tuh juga di oglang dann
+[329.198,333.889]	G1703	female	apa ya kayak gajinya itu enggak full penuh gitu
+[334.240,337.129]	G1703	female	jadi cuma separuh aja
+[345.099,345.919]	G1703	female	mamah
+[346.207,349.699]	G1703	female	ehh kalau dirumah ya paling
+[349.957,351.229]	G1703	female	kayak
+[351.578,356.449]	G1703	female	bersih bersih masak gitu paling
+[356.469,363.500]	G1703	female	ya masak bikin apa yah kayak roti eksperimen eksperimen gitulah
+[363.578,366.707]	G1703	female	kan ya dibuat makan sendiri
+[367.000,374.570]	G1703	female	kadang sih juga dapat pesanan tahu sendiri lah rasanya kan kamu juga sudah nger-pernah ngerasain enak kan
+[377.289,378.919]	G1703	female	yang benar
+[384.579,386.120]	G1703	female	kalau apa ya
+[386.470,387.739]	G1703	female	ehh itu loh
+[389.620,393.949]	G1703	female	aku tuh bingung sebenernya tuh pengen juga an kayak
+[393.970,397.550]	G1703	female	mbantuin nyari kerjaan gitu
+[397.599,401.778]	G1703	female	tapi yang parttime aja si biasanya tapi
+[402.699,404.239]	G1703	female	belum ada seng
+[404.320,405.829]	G1703	female	yang cocok gitu
+[415.419,416.659]	G1703	female	he em kan
+[417.129,419.058]	G1703	female	temen kamu banyak nih
+[419.707,426.110]	G1703	female	siapa tahu bisa bantuin aku cari lowongan pekerjaan yang kayak part time gitu
+[426.188,431.539]	G1703	female	jadi kan aku bisa membagi waktu antara kerja sama kuliah
+[431.587,432.409]	G1703	female	dan
+[432.938,438.950]	G1703	female	kan kalau misalnya part time yang enggak terlalu berat kan kuliahku juga enggak ke ganggu
+[469.239,470.510]	G1703	female	ohh kayak
+[471.248,474.768]	G1703	female	oh kayak ngingetin gitu yabisa kok
+[476.260,481.010]	G1703	female	oh ya selama pandemi gini kamu dirumah ngapain aja
+[491.438,493.039]	G1703	female	terus ngapain lagi
+[502.837,506.087]	G1703	female	yakin enggak sama ngegangguin adek kamu
+[511.390,514.547]	G1703	female	kok bisa wajib
+[514.927,518.120]	G1703	female	kasian tuh adik mu
+[519.010,520.938]	G1703	female	pasti mbok usilin terus
+[527.438,533.358]	G1703	female	oo iya si iya enak kalau punya adik kayak aku sendiri gini
+[533.377,535.159]	G1703	female	mau ngapain dirumah
+[535.688,536.959]	G1703	female	paling
+[538.569,545.028]	G1703	female	weh sudah besar masa bikin adik lagi malah kayak anak aku sendiri nanti
+[545.319,546.950]	0	none	[LAUGHTER]
+[549.159,551.358]	G1703	female	paling aku ya kalau dirumah
+[552.730,554.146]	G1703	female	apagimana
+[557.709,562.398]	G1703	female	aku paling ya nonton T V terus
+[562.569,563.807]	G1703	female	apa ya
+[563.950,566.450]	G1703	female	yaa tiduran gitu
+[568.210,570.770]	G1703	female	terus apa lagi ya main H P
+[571.058,572.867]	G1703	female	paling chat-chatan aja sih
+[579.129,580.189]	G1703	female	Aurel
+[580.270,581.329]	G1703	female	gimana
+[594.460,596.358]	G1703	female	kalau gimana kalau lagi
+[605.618,606.469]	G1703	female	aku
+[607.839,610.189]	G1703	female	kalau dirumah semua bareng-bareng keluarga
+[612.549,618.260]	G1703	female	apa ya paling kayak ya aku curhat-curhat sih paling tentang
+[618.260,625.159]	G1703	female	kuliah apa asmara lah gitu kayak aku lagi dekat sama siapa
+[625.478,626.416]	G1703	female	terus
+[626.679,633.649]	G1703	female	kan aku juga bosen ya di rumah kayak-kayak pingin mai-keluar main gitu tapi kan
+[633.649,637.939]	G1703	female	lagi gak dibolehin karna pende-pandemi kaya gini
+[640.569,642.410]	G1703	female	itu sih biasanya
+[642.850,643.939]	G1703	female	kalok
+[644.199,649.488]	G1703	female	orang tuamu sering marah gak sering marah gak kalau lagi pandemi kaya gini
+[657.279,658.639]	G1703	female	iya sih
+[666.520,667.520]	G1703	female	iya
+[667.660,669.650]	G1703	female	ehem sama kok
+[669.880,673.279]	G1703	female	mama papa aku juga kayak gituu
+[674.139,676.400]	G1703	female	sering banget marah
+[676.750,678.410]	G1703	female	karena ya mungkin
+[678.429,681.380]	G1703	female	kalok rebahan nonton T V
+[681.400,684.860]	G1703	female	cumak main H P aja kan kalau keseringan gitu
+[684.970,691.399]	G1703	female	juga gak baik pasti dia marah-marah nanti yang bilang nanti minnya
+[691.569,695.689]	G1703	female	'matanya tambah gini-gini-gini gitu biasanya
+[695.949,697.819]	G1703	female	terus mbok kamu
+[697.899,701.660]	G1703	female	bantuin nyapu apa bantuin masak pastikan gitu
+[702.039,705.709]	G1703	female	padahal kan aku juga kadang kan nyuci gitu
+[708.189,709.309]	G1703	female	iya sih
+[715.298,720.079]	G1703	female	kelebihannya ya jadi makin apa ya
+[720.579,726.858]	G1703	female	aku sama mama papa ku kan yaa makin harmonis terus kan jugak
+[726.858,729.949]	G1703	female	perhatiannya jadi lebih gitu
+[730.149,735.349]	G1703	female	terus sering karena sering kumpul kan jadi gimana ya
+[735.819,739.218]	G1703	female	punya apa ya semakin mempererat
+[739.298,744.259]	G1703	female	rasa sayang rasa itu sih perhatian gitu tu
+[744.999,746.926]	G1703	female	pastikan kamu juga gitu kan
+[755.980,757.099]	G1703	female	iya
+[763.540,766.010]	G1703	female	iya itu pasti kalau itu
+[769.809,772.099]	G1703	female	terus kabar gimana
+[772.480,773.960]	G1703	female	hee gimana-gimana
+[782.169,783.589]	G1703	female	sisi negatif
+[785.199,787.910]	G1703	female	apa ya sisi negatifnya itu
+[788.199,789.678]	G1703	female	menurutku
+[789.968,796.460]	G1703	female	ya gak ada sih karna aku tipe orangnya tu kayak
+[796.718,800.240]	G1703	female	seneng aja kalok malahan itu sih
+[800.410,804.468]	G1703	female	kumpul-kumpul keluarga gitu kan kita bisa
+[804.579,810.439]	G1703	female	eem apa sharing terus apa ya kayak ya
+[810.490,815.210]	G1703	female	rasa perhatiannya itu sama kasih sayangnya itu bisa lebih itu buat aku
+[816.279,818.178]	G1703	female	gitu sih biasanya
+[825.608,826.669]	G1703	female	hmm
+[831.579,832.669]	G1703	female	iya
+[836.650,839.449]	G1703	female	iya sih ya paling kadang kan
+[839.468,845.059]	G1703	female	ee tanteku omku juga kadang main ke sana gitu
+[845.559,852.770]	G1703	female	jadi yaaa gimana ya keponakan-keponakan ku juga biasanya pada ikut main ke situ
+[854.319,860.480]	G1703	female	ya walaupun agak ganggu sih cuma kan daripada ah mau ngapa nih
+[860.480,866.870]	G1703	female	bingung kalau ada mereka kan kadang rame jadi kan waktunya itu kaya cepet banget gitu
+[874.749,877.730]	G1703	female	ooo iya sih tapi kan kalok
+[877.900,879.678]	G1703	female	lagi kayak gini kan
+[879.760,882.800]	G1703	female	pasti juga kerjaannya dioglang
+[886.300,887.929]	G1703	female	gitu sih biasanya
+[888.880,890.059]	G1703	female	iyaa
+[891.609,894.829]	G1703	female	kalok lagi pandemi kayak gini sih
+[901.118,903.559]	G1703	female	kalok tante Diana
+[903.849,909.589]	G1703	female	kalau gak salah sih dia kayak di hotel gitu
+[912.579,914.300]	G1703	female	iya tapi
+[915.429,916.910]	G1703	female	jarang sih
+[918.189,920.209]	G1703	female	paling kan dia kan
+[920.980,927.349]	G1703	female	aduh lupa kayaknya seminggu yang lalu soalnya dia kan kayak ee harus meeting
+[927.349,931.579]	G1703	female	kemana aja sih gitu kayak ke Jogja terus
+[931.778,935.208]	G1703	female	ke Semarang ke Surabaya
+[935.678,939.377]	G1703	female	kan dia juga ngurusin keuangan kantornya gitu
+[942.609,944.508]	G1703	female	iya sih kalok
+[944.769,946.699]	G1703	female	kabar eyang kamu gimana
+[951.429,954.919]	G1703	female	oh ya udah sama kalau gitu
+[954.967,956.868]	G1703	female	eyang aku juga kok em
+[957.098,958.967]	G1703	female	engga ada kendala kan ya
+[959.259,961.458]	G1703	female	paling kalok eyang kamu
+[961.568,963.319]	G1703	female	kalau eyang kamu
+[964.388,966.259]	G1703	female	tem apa tinggal dimana toh
+[970.059,971.838]	G1703	female	oh di Ngemplak
+[972.998,975.978]	G1703	female	berarti engga jauh-jauh banget ya dari rumahmu
+[982.718,987.228]	G1703	female	waduh lima menit tujuh menitdekat banget dong kalau itu
+[988.239,990.258]	G1703	female	ya sih heem
+[991.448,993.977]	G1703	female	kalau eyang aku
+[994.057,995.717]	G1703	female	agak jauh sih
+[995.916,1001.208]	G1703	female	di Sumber sedangkan rumahku sendirikan di daerah Wonorejo
+[1002.009,1003.488]	G1703	female	jadi
+[1004.288,1009.038]	G1703	female	jaraknya yaa lumayanlah paling sini-sana tuh setengah jam
+[1016.558,1020.738]	G1703	female	puji Tuhan sih ee sebelum pademi
+[1020.909,1022.479]	G1703	female	Corona ini
+[1023.069,1024.669]	G1703	female	jabatannya naik
+[1025.200,1032.019]	G1703	female	seneng banget aku tapi dia juga keluhannya banyak kan semakin naik jabatan
+[1032.218,1034.899]	G1703	female	di-dip suatu perusahaan itu
+[1035.008,1036.399]	G1703	female	otomatis
+[1036.747,1039.008]	G1703	female	kerjaannya juga tambah berat
+[1039.117,1040.450]	G1703	female	jadi
+[1040.468,1043.567]	G1703	female	dia juga kadang kalau udah pulang gitu
+[1043.617,1051.519]	G1703	female	ya hee tanggung jawabnya itu kadang kan juga tambah-tambah gitu terus sih apalagi kalau udah sampai rumah kan
+[1051.957,1056.317]	G1703	female	juga capek dan a ya gimana ya
+[1056.608,1058.690]	G1703	female	kadangkan ya kita
+[1059.398,1062.229]	G1703	female	jaranglah ngobrol gitu
+[1062.939,1071.078]	G1703	female	tapi ya puji Tuhan kok tapi kayanya bentar lagi papah aku mau ditugasin di luar kota
+[1073.109,1075.098]	G1703	female	jadi aku juga bingung
+[1075.479,1077.619]	G1703	female	heem aku juga bingung nih
+[1077.729,1082.058]	G1703	female	aku harus gimana soalnya kan aku juga kuliah
+[1082.259,1085.449]	G1703	female	antara mau ikut papah apa mau di
+[1086.248,1089.738]	G1703	female	sini aja gitu kalau mamaku sih
+[1091.018,1097.718]	G1703	female	terserah cuma dia sih ya setujunya tetap disini aja cuma kan kasihan papahku kalau
+[1097.738,1103.689]	G1703	female	misalnya dia mau apa disana sendiri duak di luar kota sendiri kasihan
+[1103.689,1111.068]	G1703	female	udah jabatannya naik disana sendiri nanti enggak ada yang merhatiin kan perhatiannya juga jadi kurang
+[1113.009,1115.748]	G1703	female	iya makanya aku juga bingung
+[1118.919,1120.038]	G1703	female	gimana
+[1124.919,1127.748]	G1703	female	berarti aku disini sendirian gitu
+[1131.130,1132.518]	G1703	female	hee lha aku
+[1132.660,1134.109]	G1703	female	ya bener sih
+[1134.130,1136.930]	G1703	female	kurang berapa semester aja sih
+[1137.009,1143.440]	G1703	female	cuma kan aku tuh enggak bisa jauh dari mamaku kalau mamaku mau ikut kesana kan
+[1143.968,1145.328]	G1703	female	hem kan
+[1145.650,1154.238]	G1703	female	udah sering gimana ya keseharianku tuh sudah terlalu dekat banget sama mamaku kalau sama papa kan karena dia kadang
+[1154.238,1161.650]	G1703	female	berangkat pagi terus pulangnya malam gitu kan aku ya ketemu sih yang enggak terlalu gimana ya
+[1161.650,1164.709]	G1703	female	dekat-sedekat mama sama mamahku gitu
+[1165.749,1167.528]	G1703	female	kalau kamu sama mamamu tu
+[1167.669,1170.317]	G1703	female	kalau kamu sama mama-mamamu itu deket enggak
+[1179.249,1183.130]	G1703	female	oh iya-iya apalagi kamu kan cowok
+[1184.288,1186.609]	G1703	female	udah pasti iya
+[1190.680,1193.029]	G1703	female	iya sih bener banget
+[1193.288,1195.939]	G1703	female	eem ya udah ya Len
+[1196.108,1201.069]	G1703	female	aku mau bantuin mamaku nglanjutin bersih-bersihnya
+[1205.319,1206.768]	G1703	female	dadaa

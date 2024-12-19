@@ -36,8 +36,8 @@ with open("././jsonAudio/segments.json", "w") as file:
     json.dump(segments, file, indent=4)
     
 # Load the segments from the JSON file
-transcription_file = "./././dataset_testing/TXT/A0102_S0001_0_G1357.txt"
-audio_file = "./././dataset_testing/WAV/A0102_S0001_0_G1357.wav"
+transcription_file = "././dataset_testing/TXT/A0102_S0001_0_G1357.txt"
+audio_file = "././dataset_testing/WAV/A0102_S0001_0_G1357.wav"
 if audio_file:
     output_dir = "sliced_audio_segments"
     segments = parse_transcription_file(transcription_file)
@@ -135,10 +135,13 @@ for state in range(num_states):
     print(f"  Number of samples: {num_samples}, using {n_components} components.")
     
     # Initialize and fit GMM with regularization
-    gmm = GaussianMixture(n_components=n_components, 
-                          covariance_type="diag", 
-                          random_state=seed, 
-                          reg_covar=reg_covar)
+    gmm = GaussianMixture(
+                        n_components=n_components,
+                        covariance_type="diag",
+                        random_state=seed,
+                        reg_covar=1e-3  # Try larger values like 1e-2, 1e-1 if needed
+                    )
+
     gmm.fit(state_features)
     gmms.append(gmm)
 

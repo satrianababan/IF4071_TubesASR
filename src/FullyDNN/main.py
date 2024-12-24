@@ -6,7 +6,6 @@ from decoding import greedy_decode, beam_search_decode
 import json
 import torch
 import torch.nn as nn
-import editdistance
 import matplotlib.pyplot as plt
 
 from audio_dataset import AudioDataset
@@ -15,80 +14,49 @@ from torchaudio.transforms import MelSpectrogram, FrequencyMasking, TimeMasking,
 from torch.nn import CTCLoss
 from torch.optim import Adam
 from torch.utils.data import DataLoader
-
-# Load text transcriptions and audio paths
-transcription_file = "././dataset_testing/TXT/A0102_S0001_0_G1357.txt"
-segments = parse_transcription_file(transcription_file)
-
-# Save the segments to a JSON file
-with open("././jsonAudio/segments.json", "w") as file:
-    json.dump(segments, file, indent=4)
-    
-# Load the segments from the JSON file
-transcription_file = "./././dataset_testing/TXT/A0102_S0001_0_G1357.txt"
-audio_file = "./././dataset_testing/WAV/A0102_S0001_0_G1357.wav"
-if audio_file:
-    output_dir = "sliced_audio_segments"
-    segments = parse_transcription_file(transcription_file)
-    audio_segments = slice_audio(audio_file, segments, output_dir)
-else:
-    print("Audio file not found")
+from pathlib import Path
+import Levenshtein
 
 # Preprocessing Function
 transform = nn.Sequential(
     MelSpectrogram(sample_rate=16000, n_mels=128, n_fft=1024),
-    AmplitudeToDB(stype='power', top_db=80),  # Convert amplitude to decibels
-    FrequencyMasking(freq_mask_param=15),  # Apply frequency masking
-    TimeMasking(time_mask_param=35),  # Apply time masking
+    AmplitudeToDB(stype='power', top_db=80),
+    FrequencyMasking(freq_mask_param=15),
+    TimeMasking(time_mask_param=35),
 )
 
+def collect_audio_paths(directory):
+    # Recursively find all audio files
+    audio_extensions = ['.wav', '.mp3', '.flac']  # Add other extensions as needed
+    return [
+        str(file) for file in Path(directory).rglob('*')
+        if file.suffix.lower() in audio_extensions
+    ]
+
 # Initialize Dataset, DataLoader
-audio_paths = [segment['path'] for segment in audio_segments]
-dataset = AudioDataset(audio_segments, transform=transform)
-dataloader = DataLoader(dataset, batch_size=2, shuffle=True, collate_fn=collate_fn)
-
-# Visualization and Decoding
-# index_to_char = {
-#     0: '',    # Padding
-#     1: 'A', 2: 'B', 3: 'C', 4: 'D', 5: 'E', 6: 'F', 7: 'G', 8: 'H', 9: 'I',
-#     10: 'J', 11: 'K', 12: 'L', 13: 'M', 14: 'N', 15: 'O', 16: 'P', 17: 'Q', 
-#     18: 'R', 19: 'S', 20: 'T', 21: 'U', 22: 'V', 23: 'W', 24: 'X', 25: 'Y',
-#     26: 'Z'  # Letter Z, or you can reassign 26 to a space ' ' if desired
-# }
-
-# Convert indices to text
-# def tensor_to_text(tensor, index_to_char):
-#     texts = []
-#     for row in tensor:
-        # Print raw tensor row for debugging
-        # print("Raw Tensor Row: ", row.tolist())
-
-        # Filter out padding (0) and decode indices
-        # decoded_chars = [index_to_char.get(idx.item(), '') for idx in row if idx != 0]
-        # text = ''.join(decoded_chars)
-        
-        # Debug individual character decoding
-        # print("Decoded Characters: ", decoded_chars)
-
-        # Remove redundant spaces and strip any leading/trailing spaces
-        # text = text.replace('  ', ' ').strip()
-        # texts.append(text)
-        # print("Decoded Text: ", text)
-    # return texts
+path = "sliced_audio_segments"
+audio_paths = collect_audio_paths(path)
+print("Number of Audio Files:", len(audio_paths))
+dataset = AudioDataset(audio_paths, transform=transform)
+print("Dataset Length:", len(dataset))
+dataloader = DataLoader(dataset, batch_size=2, shuffle=True, drop_last=True, collate_fn=collate_fn)
 
 # Loop through DataLoader
 for i, batch in enumerate(dataloader):
-    waveforms, transcriptions = batch  # transcriptions: tensor with indices
+    padded_audio, labels = batch
 
-    # Decode transcriptions
-    # decoded_texts = tensor_to_text(transcriptions, index_to_char)
+#     # Visualize Soundwave and Mel-Spectrogram for the first waveform
+    for waveform in padded_audio:
+        # Visualize raw waveform
+        plt.figure(figsize=(10, 3))
+        plt.plot(waveform.squeeze().numpy())
+        plt.title("Soundwave")
+        plt.xlabel("Time")
+        plt.ylabel("Amplitude")
+        plt.grid(True)
+        plt.show()
 
-    # Print decoded text
-    # for j, text in enumerate(decoded_texts):
-    #     print(f"Decoded Text {j + 1}: {text}")
-
-    # Visualize Mel-Spectrogram for the first waveform
-    for waveform in waveforms:
+        # Visualize Mel-Spectrogram
         plt.figure(figsize=(10, 3))
         plt.imshow(waveform.squeeze().numpy(), aspect='auto', origin='lower')        
         plt.colorbar()
@@ -105,41 +73,54 @@ print(model)
 
 # Training Loop
 criterion = CTCLoss()
-optimizer = Adam(model.parameters(), lr=1e-4)
+optimizer = Adam(model.parameters(), lr=1e-4, weight_decay=1e-5)
 
 for epoch in range(10):
     model.train()
     for batch in dataloader:
-        waveforms, transcriptions = batch
+        padded_audio, labels = batch
         optimizer.zero_grad()
 
         # Forward Propagation
-        outputs = model(waveforms)  # Shape: [batch_size, seq_len, output_dim]
+        outputs = model(padded_audio)
         # print("outputs: ", outputs)
 
         # Compute input lengths (actual sequence lengths in waveforms)
-        input_lengths = torch.tensor([waveform.size(-1) for waveform in waveforms])  # Shape: [batch_size]
+        input_lengths = torch.tensor([waveform.size(-1) for waveform in padded_audio])
         # print("input_lengths: ", input_lengths)
 
         # Compute target lengths
-        target_lengths = torch.tensor([len(t) for t in transcriptions])  # Shape: [batch_size]
+        if labels.dim() == 2:
+            target_lengths = torch.tensor([t.size(0) for t in labels])  # Shape: [batch_size]
+        elif labels.dim() == 1:
+            # If it's 1D (a single transcription), handle it differently
+            target_lengths = torch.tensor([labels.size(0)])
+        else:
+            raise ValueError("Unexpected dimensions for transcriptions tensor.")
         # print("target_lengths: ", target_lengths)
+        
+        
+# Compute CTC Loss
+def calculate_cer(decoded_texts, ground_truths):
+    cer_values = []
+    for decoded, ground_truth in zip(decoded_texts, ground_truths):
+        # Compute CER using edit distance
+        distance = Levenshtein.distance(decoded, ground_truth)
+        cer = distance / len(ground_truth) if ground_truth else 1.0  # Avoid division by zero
+        cer_values.append(cer)
+    return sum(cer_values) / len(cer_values)
 
-        # Compute CTC Loss
-        loss = criterion(
-            outputs.log_softmax(2).transpose(0, 1),  # Shape: [seq_len, batch_size, num_classes]
-            transcriptions,                          # Shape: [batch_size, max_target_len]
-            input_lengths,                           # Shape: [batch_size]
-            target_lengths                           # Shape: [batch_size]
-        )
+# Path to the .txt file
+file_path = "./././dataset_testing/TXT/A0102_S0001_0_G1357.txt"
 
-        # Backward Propagation
-        loss.backward()
-        optimizer.step()
+# Extract ground truths use parse_transcription_file function
+transcription_segments = parse_transcription_file(file_path)
+print("Transcription Segments:", transcription_segments)
 
-    print(f"Epoch {epoch + 1}, Loss: {loss.item()}")
+# Extract ground truths
+ground_truths = [segment['transcription'] for segment in transcription_segments]
+print("Ground Truths:", ground_truths)
     
-# TODO: Implement the decoding function to decode the model predictions into text
 # Evaluation and Decoding
 model.eval()
 decoded_texts = []
@@ -156,8 +137,11 @@ with torch.no_grad():
 
         # Beam Search Decoding
         for output in outputs:
-            beam_decoded = beam_search_decode(output, beam_width=5)
+            beam_decoded = beam_search_decode(output, beam_width=10)
             # print(f"Beam Decoded Text: {beam_decoded}")
+            
+average_cer = calculate_cer(decoded_texts, ground_truths)
+print(f"Average CER in percentage: {average_cer * 10:.2f}%")
 
 # Save decoded results to a file
 with open("decoded_texts.json", "w") as file:

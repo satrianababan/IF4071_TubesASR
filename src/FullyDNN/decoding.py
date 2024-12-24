@@ -1,18 +1,33 @@
-# Decoding using Greedy Decoder
-def greedy_decode(output):
-    # Apply argmax to get the most likely character index at each timestep
-    timestep_indices = output.argmax(dim=2)  # Shape: [batch_size, seq_len]
+import torch
+import torch.nn.functional as F
 
+def greedy_decode(output, blank_label=27, collapse_repeated=True):
+    # Get argmax indices (most likely characters) along the class dimension
+    arg_maxes = torch.argmax(F.softmax(output, dim=2), dim=2)  # Shape: [batch_size, seq_len]
+    print(arg_maxes)
     decoded_batch = []
-    for indices in timestep_indices:
-        # Convert indices to characters, excluding CTC blank token (assume blank token index = output_dim - 1)
+
+    for batch_indices in arg_maxes:  # Iterate through each sequence in the batch
         decoded = []
-        prev_idx = None
-        for idx in indices:
-            if idx != prev_idx and idx != output.size(2) - 1:  # Skip repeated and blank indices
-                decoded.append(chr(idx + 97))  # Assuming 'a' starts at index 0
-            prev_idx = idx
-        decoded_batch.append("".join(decoded))
+        prev_idx = None  # For collapsing repeated characters
+
+        for i, idx in enumerate(batch_indices):
+            idx_value = idx.item()
+
+            # Skip blank token
+            if idx_value == blank_label:
+                continue
+
+            # Skip repeated characters if collapse_repeated is enabled
+            if collapse_repeated and i != 0 and idx_value == prev_idx:
+                continue
+
+            # Map index to character ('a' starts at index 0)
+            decoded.append(chr(idx_value + 97))  # Convert to character
+            prev_idx = idx_value  # Update previous index
+
+        decoded_batch.append("".join(decoded))  # Join characters into a single string
+
     return decoded_batch
 
 # Decoding using Beam Search Decoder

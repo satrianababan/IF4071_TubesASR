@@ -59,27 +59,27 @@ dataset = AudioDataset(audio_segments, transform=transform)
 dataloader = DataLoader(dataset, batch_size=2, shuffle=True, drop_last=True, collate_fn=collate_fn)
 
 # Loop through DataLoader
-# for i, batch in enumerate(dataloader):
-#     waveforms, transcriptions = batch  # transcriptions: tensor with indices
+for i, batch in enumerate(dataloader):
+    waveforms, transcriptions = batch  # transcriptions: tensor with indices
 
 #     # Visualize Soundwave and Mel-Spectrogram for the first waveform
-#     for waveform in waveforms:
-#         # Visualize raw waveform
-#         plt.figure(figsize=(10, 3))
-#         plt.plot(waveform.squeeze().numpy())
-#         plt.title("Soundwave")
-#         plt.xlabel("Time")
-#         plt.ylabel("Amplitude")
-#         plt.grid(True)
-#         plt.show()
+    for waveform in waveforms:
+        # Visualize raw waveform
+        plt.figure(figsize=(10, 3))
+        plt.plot(waveform.squeeze().numpy())
+        plt.title("Soundwave")
+        plt.xlabel("Time")
+        plt.ylabel("Amplitude")
+        plt.grid(True)
+        plt.show()
 
-#         # Visualize Mel-Spectrogram
-#         plt.figure(figsize=(10, 3))
-#         plt.imshow(waveform.squeeze().numpy(), aspect='auto', origin='lower')        
-#         plt.colorbar()
-#         plt.title("Mel-spectrogram")
-#         plt.show()
-#     break  # Exit after processing one batch
+        # Visualize Mel-Spectrogram
+        plt.figure(figsize=(10, 3))
+        plt.imshow(waveform.squeeze().numpy(), aspect='auto', origin='lower')        
+        plt.colorbar()
+        plt.title("Mel-spectrogram")
+        plt.show()
+    break  # Exit after processing one batch
 
 # Step 4: Extract features and print them
 features_list = []

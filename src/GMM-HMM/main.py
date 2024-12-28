@@ -1,232 +1,172 @@
-from parsing.parse_txt import parse_transcription_file
-from parsing.parse_audio import slice_audio
-from collate import collate_fn
-
-import torch.nn as nn
-import matplotlib.pyplot as plt
-
-from audio_dataset import AudioDataset
-from hmmlearn import hmm
-from torchaudio.transforms import MelSpectrogram, FrequencyMasking, TimeMasking, AmplitudeToDB
-from torch.utils.data import DataLoader
-from sklearn.mixture import GaussianMixture
-from pathlib import Path
-
+import os
 import numpy as np
-import torch
-import random
+import torchaudio
+from sklearn.mixture import GaussianMixture
+import Levenshtein
 
-# Preprocessing Function
-transform = nn.Sequential(
-    MelSpectrogram(sample_rate=16000, n_mels=128, n_fft=1024),
-    AmplitudeToDB(stype='power', top_db=80),
-    FrequencyMasking(freq_mask_param=15),
-    TimeMasking(time_mask_param=35),
-)
+# --- Feature Extraction ---
+def extract_mel_spectrogram(wav_path, n_mels=40):
+    """Extract normalized Mel spectrogram features from an audio file."""
+    waveform, sample_rate = torchaudio.load(wav_path)
+    mel_spectrogram = torchaudio.transforms.MelSpectrogram(
+        sample_rate=sample_rate,
+        n_mels=n_mels
+    )
+    mel_features = mel_spectrogram(waveform).squeeze(0).T  # Shape: [time, n_mels]
+    # Normalize features
+    mel_features = (mel_features - mel_features.mean(axis=0)) / mel_features.std(axis=0)
+    return mel_features.numpy()
 
-def collect_audio_paths(directory):
-    # Recursively find all audio files
-    audio_extensions = ['.wav', '.mp3', '.flac']  # Add other extensions as needed
-    return [
-        str(file) for file in Path(directory).rglob('*')
-        if file.suffix.lower() in audio_extensions
-    ]
+# --- HMM-GMM Model ---
+class HMMGMM:
+    def __init__(self, n_states, n_mixtures):
+        self.n_states = n_states
+        self.n_mixtures = n_mixtures
+        self.gmms = [GaussianMixture(n_components=n_mixtures, covariance_type='diag', reg_covar=1e-4) for _ in range(n_states)]
+        self.trans_probs = np.full((n_states, n_states), 1 / n_states)
 
-# Initialize Dataset, DataLoader
-path = "sliced_audio_segments"
-audio_paths = collect_audio_paths(path)
-print("Number of Audio Files:", len(audio_paths))
-dataset = AudioDataset(audio_paths, transform=transform)
-print("Dataset Length:", len(dataset))
-dataloader = DataLoader(dataset, batch_size=2, shuffle=True, drop_last=True, collate_fn=collate_fn)
+    def train(self, X, labels):
+        for state in range(self.n_states):
+            state_data = X[labels == state]
+            if len(state_data) < self.n_mixtures:  # Skip states with insufficient data
+                print(f"Skipping state {state}: insufficient data ({len(state_data)} samples).")
+                continue
+            self.gmms[state].fit(state_data)
+        self._update_trans_probs(labels)
 
-# Loop through DataLoader
-for i, batch in enumerate(dataloader):
-    padded_audio, labels = batch
+    def _update_trans_probs(self, labels):
+        counts = np.zeros((self.n_states, self.n_states))
+        for i in range(len(labels) - 1):
+            counts[labels[i], labels[i + 1]] += 1
+        # Apply Laplace smoothing to avoid zeros
+        self.trans_probs = (counts + 1) / (counts.sum(axis=1, keepdims=True) + self.n_states)
 
-#     # Visualize Soundwave and Mel-Spectrogram for the first waveform
-    for waveform in padded_audio:
-        # Visualize raw waveform
-        plt.figure(figsize=(10, 3))
-        plt.plot(waveform.squeeze().numpy())
-        plt.title("Soundwave")
-        plt.xlabel("Time")
-        plt.ylabel("Amplitude")
-        plt.grid(True)
-        plt.show()
+    def decode(self, X):
+        T, N = len(X), self.n_states
+        log_likelihood = np.zeros((T, N))
+        for t, x in enumerate(X):
+            for state in range(N):
+                log_likelihood[t, state] = self.gmms[state].score([x])
+        return self._viterbi(log_likelihood)
 
-        # Visualize Mel-Spectrogram
-        plt.figure(figsize=(10, 3))
-        plt.imshow(waveform.squeeze().numpy(), aspect='auto', origin='lower')        
-        plt.colorbar()
-        plt.title("Mel-spectrogram")
-        plt.show()
-    break  # Exit after processing one batch
+    def _viterbi(self, log_likelihood):
+        T, N = log_likelihood.shape
+        dp = np.full((T, N), -np.inf)
+        pointers = np.zeros((T, N), dtype=int)
 
-# Step 4: Extract features and print them
-features_list = []
-labels_list = []
+        dp[0] = log_likelihood[0]
+        for t in range(1, T):
+            for j in range(N):
+                scores = dp[t - 1] + np.log(self.trans_probs[:, j])
+                dp[t, j] = np.max(scores) + log_likelihood[t, j]
+                pointers[t, j] = np.argmax(scores)
 
-print("Aligning features and labels...")
-for features, labels in dataloader:
-    for i in range(features.shape[0]):  # Iterate over the batch
-        features_flat = features[i].T  # Shape: [time_frames, frequency_bins]
-        num_frames = features_flat.shape[0]  # Number of time frames (e.g., 116)
+        best_path = np.zeros(T, dtype=int)
+        best_path[-1] = np.argmax(dp[-1])
+        for t in range(T - 2, -1, -1):
+            best_path[t] = pointers[t + 1, best_path[t + 1]]
+        return best_path
 
-        # Ensure labels[i] is a sequence
-        label_seq = labels[i] if labels[i].ndim > 0 else labels[i].unsqueeze(0)
+# --- CER Calculation ---
+def calculate_cer(decoded_texts, ground_truths):
+    cer_values = []
+    for decoded, ground_truth in zip(decoded_texts, ground_truths):
+        distance = Levenshtein.distance(decoded, ground_truth)
+        cer = distance / len(ground_truth) if ground_truth else 1.0  # Avoid division by zero
+        cer_values.append(cer)
+    return sum(cer_values) / len(cer_values)
 
-        # Repeat and trim the label sequence to match the number of time frames
-        repeated_labels = label_seq.repeat((num_frames // len(label_seq)) + 1)
-        repeated_labels = repeated_labels[:num_frames]  # Trim to match time frames
+# --- Character Mapping ---
+def decode_char(state, state_to_char_map):
+    """Map HMM state to a character."""
+    return state_to_char_map.get(state, "?")
 
-        # Append flattened features and corresponding labels
-        features_list.append(features_flat.numpy())  # Convert to numpy
-        labels_list.extend(repeated_labels.numpy())  # Convert to numpy
+def parse_transcription_file(transcription_file):
+    segments = []
+    with open(transcription_file, "r") as file:
+        for line in file:
+            parts = line.strip().split('\t')
+            if len(parts) == 4:
+                start, end = map(float, parts[0].strip('[]').split(','))
+                speaker_id = parts[1]
+                gender = parts[2]
+                transcription = parts[3]
+                segments.append({
+                    'start': start,
+                    'end': end,
+                    'speaker_id': speaker_id,
+                    'gender': gender,
+                    'transcription': transcription
+                })
+    return segments
 
-# Convert lists to numpy arrays
-features_all = np.vstack(features_list)  # Shape: [total_time_frames, frequency_bins]
-labels_all = np.array(labels_list)       # Shape: [total_time_frames]
+# --- Main Code ---
+# --- Main Code ---
+if __name__ == "__main__":
+    import os
+    import numpy as np
 
-print("Features_all shape:", features_all.shape)
-print("Labels_all shape:", labels_all.shape)
-print("Unique labels:", np.unique(labels_all))
+    wav_dir = "data_dummy/WAV"
+    text_dir = "data_dummy/TXT"
 
-# ========================
-# Step 6: Train GMMs for Acoustic Modeling
-# ========================
-print("Training GMM for each state...")
-num_states = len(set(labels_all))  # Assume each label is a state
+    n_mixtures = 3  # Number of Gaussian mixtures
 
-# Define the minimum samples required for a given GMM component
-min_samples = 10
-reg_covar = 1e-4  # Small regularization value to stabilize covariance estimation
-gmms = []  # List to store GMMs for each state
+    # Initialize variables to store the best configuration
+    best_cer = float('inf')
+    best_n_states = None
+    best_vocab_size = None
 
-for state in range(num_states):
-    print(f"Training GMM for State {state}...")
-    
-    # Select features corresponding to the current state
-    state_features = features_all[labels_all == state]
-    print(f"State {state}: {state_features.shape[0]} samples")
-    num_samples = state_features.shape[0]
-    
-    # Check if enough samples are available
-    if num_samples < min_samples:
-        print(f"  Skipping State {state} due to insufficient samples ({num_samples} < {min_samples}).")
-        gmms.append(None)
-        continue
-    
-    # Adjust n_components dynamically based on the number of samples
-    n_components = min(4, num_samples)  # Reduce components if samples are fewer
-    print(f"  Number of samples: {num_samples}, using {n_components} components.")
-    
-    # Initialize and fit GMM with regularization
-    gmm = GaussianMixture(
-                        n_components=n_components,
-                        covariance_type="diag",
-                        reg_covar=1e-3  # Try larger values like 1e-2, 1e-1 if needed
-                    )
+    # Load feature sequences and ground truths
+    feature_sequences = []
+    for file in os.listdir(wav_dir):
+        if file.endswith(".wav"):
+            wav_path = os.path.join(wav_dir, file)
+            features = extract_mel_spectrogram(wav_path)
+            feature_sequences.append(features)
 
-    gmm.fit(state_features)
-    gmms.append(gmm)
+    ground_truths_compiled = []
+    for file in os.listdir(text_dir):
+        if file.endswith(".txt"):
+            transcription_segments = parse_transcription_file(os.path.join(text_dir, file))
+            ground_truths = [segment['transcription'] for segment in transcription_segments]
+            ground_truths_compiled.append(' '.join(ground_truths))  # Flatten ground truths
 
-print("GMM training complete!")
+    # Grid search for the best combination of n_states and vocab_size
+    for n_states in range(10, 41):  # n_states range: 20 to 40
+        for vocab_size in range(26, 31):  # vocab_size range: 26 to 30
+            try:
+                # Prepare mock labels
+                concatenated_features = np.vstack(feature_sequences)
+                mock_labels = np.random.randint(0, n_states, size=len(concatenated_features))
 
-# ========================
-# Step 7: HMM Initialization
-# ========================
-print("Initializing HMM...")
-for state, gmm in enumerate(gmms):
-    if gmm is not None:
-        print(f"GMM for state {state}:")
-        # print("Means:", gmm.means_)
-        print("Weights:", gmm.weights_)
+                # Train HMM-GMM
+                hmm_gmm = HMMGMM(n_states=n_states, n_mixtures=n_mixtures)
+                hmm_gmm.train(concatenated_features, mock_labels)
 
-# Filter out None values from gmms
-valid_gmms = [gmm for gmm in gmms if gmm is not None]
-valid_states = [state for state, gmm in enumerate(gmms) if gmm is not None]
+                # Map states to characters
+                state_to_char_map = {i: chr(97 + i % vocab_size) for i in range(n_states)}
 
-if len(valid_gmms) == 0:
-    raise ValueError("No valid GMMs were trained. Check your data or minimum sample threshold.")
+                # Calculate CER for current configuration
+                total_cer = 0
+                for features, ground_truth in zip(feature_sequences, ground_truths_compiled):
+                    decoded_states = hmm_gmm.decode(features)
+                    predicted_text = ''.join(decode_char(state, state_to_char_map) for state in decoded_states)
+                    cer = calculate_cer([predicted_text], [ground_truth])
+                    total_cer += cer
 
-# Initialize HMM with valid states
-n_components = len(valid_gmms)
-hmm_model = hmm.GMMHMM(n_components=n_components, n_mix=4, covariance_type="diag")
+                # Average CER across all sequences
+                avg_cer = total_cer / len(feature_sequences)
 
-# Create mapping from valid GMM indices to original state indices
-# valid_to_original = {i: idx for i, idx in enumerate(range(len(gmms))) if gmms[idx] is not None}
+                # Check if the current configuration is the best
+                if avg_cer < best_cer:
+                    best_cer = avg_cer
+                    best_n_states = n_states
+                    best_vocab_size = vocab_size
 
-# Prepare HMM initialization parameters
-n_components = len(valid_gmms)  # Number of valid states
-n_features = features_all.shape[1]  # Number of features (e.g., 128)
-n_mix = 4  # Number of mixture components
+                print(f"n_states: {n_states}, vocab_size: {vocab_size}, CER: {avg_cer:.2%}")
+            except Exception as e:
+                print(f"Error: {e}")
 
-# Initialize HMM
-hmm_model = hmm.GMMHMM(n_components=n_components, n_mix=n_mix, covariance_type="diag")
-
-# Initialize start probabilities and transition matrix
-hmm_model.startprob_ = np.full(n_components, 1 / n_components)  # Uniform start probabilities
-hmm_model.transmat_ = np.full((n_components, n_components), 1 / n_components)  # Uniform transition probabilities
-
-# Initialize means_, covars_, and weights_
-hmm_model.means_ = np.array([gmm.means_ for gmm in valid_gmms]).reshape(n_components, n_mix, n_features)
-hmm_model.covars_ = np.array([gmm.covariances_ for gmm in valid_gmms]).reshape(n_components, n_mix, n_features)
-hmm_model.weights_ = np.array([gmm.weights_ for gmm in valid_gmms])
-
-# Print HMM parameters
-print("Start probabilities:", hmm_model.startprob_)
-print("Transition matrix:", hmm_model.transmat_)
-print("Means shape:", hmm_model.means_.shape)
-print("Covariances shape:", hmm_model.covars_.shape)
-print("Weights shape:", hmm_model.weights_.shape)
-
-# Visualize the transition matrix
-plt.figure(figsize=(8, 6))
-plt.imshow(hmm_model.transmat_, cmap="viridis")
-plt.colorbar()
-plt.title("HMM Transition Matrix")
-plt.xlabel("To State")
-plt.ylabel("From State")
-plt.show()
-
-# Map the original states to the valid states for decoding
-original_to_valid = {state: idx for idx, state in enumerate(valid_states)}
-valid_to_original = {idx: state for idx, state in enumerate(valid_states)}
-
-# ========================
-# Step 8: Decoding with HMM
-# ========================
-print("Decoding...")
-test_features = features_all[:100]  # Example test features
-print("Test features shape:", test_features.shape)
-# print("First few feature vectors:", test_features[:5])
-log_prob, predicted_states = hmm_model.decode(test_features, algorithm="viterbi")
-
-# Map valid states back to the original states
-predicted_states = [valid_to_original[state] for state in predicted_states]
-
-print("Log Probability of Sequence:", log_prob)
-print("Predicted States:", predicted_states)
-
-# ========================
-# Step 9: Map States to Words
-# ========================
-# Define a simple mapping of states to words/phonemes
-# state_to_word = {
-#     0: "cat", 1: "sits", 2: "on", 3: "a", 4: "mat"
-# }
-
-# # Convert predicted states to words
-# decoded_sequence = [state_to_word[state] for state in predicted_states]
-# print("Decoded Sequence:", " ".join(decoded_sequence))
-
-# ========================
-# Step 10: Visualization
-# ========================
-plt.figure(figsize=(10, 5))
-plt.plot(predicted_states, marker="o")
-plt.title("Predicted States Sequence")
-plt.xlabel("Time")
-plt.ylabel("State")
-plt.show()
+    # Display the best configuration
+    print("\nBest Configuration:")
+    print(f"n_states: {best_n_states}, vocab_size: {best_vocab_size}, CER: {best_cer:.2%}")

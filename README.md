@@ -31,6 +31,7 @@
 * [Requirements](#requirements)
 * [Cara Menjalankan Program](#cara-menjalankan-program)
 * [Hasil Pengujian Program](#hasil-pengujian-program)
+* [Dataset References](#dataset-references)
 * [Acknowledgements](#acknowledgements)
 
 ## Deskripsi Singkat
@@ -49,9 +50,12 @@ Langkah-langkah proses setup program adalah sebagai berikut:
 
 ## Hasil Pengujian Program
 | Decoding Method | CER Value |
-| :-------------: | :-------: |
+| :-------------- | :-------: |
 | Greedy | |
 | Beam Search | |
+
+## Dataset References
+1. ASR-IndoCSC: An Indonesian Conversational Speech Corpus (https://magichub.com/datasets/indonesian-conversational-speech-corpus/)
 
 ## Acknowledgements
 - Tuhan Yang Maha Esa

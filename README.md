@@ -24,6 +24,11 @@
         <td>Satria Octavianus Nababan</td>
         <td>13521168</td>
     </tr>
+    <tr>
+        <td>4.</td>
+        <td>Faris Fadhilah</td>
+        <td>13518026</td>
+    </tr>
 </table>
 
 ## Table of Contents
@@ -50,6 +55,8 @@ Langkah-langkah melakukan pelatihan model dari awal:
 1. Clone repository ini
 2. Lakukan segmentasi pada data latih dengan menjalankan `python src/extracting_data.py`
 3. Lakukan pelatihan dengan menjalankan setiap cell pada `training model.ipynb`
+
+Note: pastikan sudah melakukan instalasi terhadap semua library requirements yang diperlukan
 
 ## Dataset References
 1. ASR-IndoCSC: An Indonesian Conversational Speech Corpus (https://magichub.com/datasets/indonesian-conversational-speech-corpus/)

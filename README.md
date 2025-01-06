@@ -30,12 +30,11 @@
 * [Deskripsi Singkat](#deskripsi-singkat)
 * [Requirements](#requirements)
 * [Cara Menjalankan Program](#cara-menjalankan-program)
-* [Hasil Pengujian Program](#hasil-pengujian-program)
 * [Dataset References](#dataset-references)
 * [Acknowledgements](#acknowledgements)
 
 ## Deskripsi Singkat
-Program yang dibuat dalam pengerjaan Tugas Besar ini merupakan program untuk Pengenalan Ucapan Otomatic (Automatic Speech Recognition) yang bersifat kontinu dan bertujuan untuk mengenali ucapan berdasarkan Audio Dataset. Program yang dibuat dalam pengerjaan Tugas Besar ini menggunakan bahasa Python dengan memanfaatkan pendekatan Fully DNN yang bersifat End-to-End.
+Program yang dibuat dalam pengerjaan Tugas Besar ini merupakan program untuk Pengenalan Ucapan Otomatic (Automatic Speech Recognition). Program yang dibuat dalam Tugas Besar ini menggunakan model WAV2VEC2 yang kemudian di-fine tune agar lebih sesuai dengan penggunaannya. Dataset yang digunakan untuk pelatihan model juga berupa data berbahasa Indonesia.
 
 ## Requirements
 1. Visual Studio Code
@@ -45,14 +44,12 @@ Program yang dibuat dalam pengerjaan Tugas Besar ini merupakan program untuk Pen
 ## Cara Menjalankan Program
 Langkah-langkah proses setup program adalah sebagai berikut:
 1. Clone repository ini
-2. Membuka folder root dari hasil clone, kemudian mengetikkan `py ./src/main.py` pada terminal untuk menjalankan file main
-3. Program juga dapat dijalankan dengan membuka `main.py` yang terdapat pada folder src kemudian menekan tombol run pada Visual Studio Code
+2. Program dapat dijalankan dengan menjalankan setiap cell pada `experiment.ipynb`. Program tersebut akan me-load model yang telah dilatih dan mengukur akurasi untuk setiap data input pada folder `dataset_experiment`
 
-## Hasil Pengujian Program
-| Decoding Method | CER Value |
-| :-------------- | :-------: |
-| Greedy | |
-| Beam Search | |
+Langkah-langkah melakukan pelatihan model dari awal:
+1. Clone repository ini
+2. Lakukan segmentasi pada data latih dengan menjalankan `python src/extracting_data.py`
+3. Lakukan pelatihan dengan menjalankan setiap cell pada `training model.ipynb`
 
 ## Dataset References
 1. ASR-IndoCSC: An Indonesian Conversational Speech Corpus (https://magichub.com/datasets/indonesian-conversational-speech-corpus/)
